@@ -1,0 +1,38 @@
+bloque,verificacion,resultado,detalle
+Fuentes,Las siete fuentes de la Tabla 1 están en el repositorio,OK,0 faltantes
+ANM,Conversión numérica sin pérdidas (gramos y regalías),OK,
+ANM,codigo_dane de 5 dígitos con departamento válido,OK,
+ANM,"Sin negativos, sin filas idénticas, un solo nombre por código",OK,
+ANM,"2023, 2024 y 2025 completos (4 trimestres); 2026 parcial, excluido del análisis",OK,2026: 3 trimestres
+Económicos,"Precio mensual continuo, sin repetidos ni nulos",OK,
+Económicos,TRM mensual continua; solo el último mes parcial,OK,meses con < 15 días: ['2026-08']
+Económicos,Todos los meses de precio tienen TRM; la ventana 2023–2025 está completa (36 meses),OK,
+ANM,"Tasa implícita de regalía 2023–2025: mediana cerca de 0,032 y < 10 % de municipio-trimestres fuera de [0,016; 0,072]",OK,mediana = 0.0314; fuera de rango 63 de 1194 (5.3 %)
+Institucionales,SIMCI: gramos numéricos sin nulos ni negativos; códigos de 5 dígitos válidos,OK,
+Institucionales,SIMCI: filas repetidas solo en 2024–2025 (se agregan sumando),OK,23 filas
+Institucionales,"SIMCI reproduce el total ANM en 2023–2025 (|dif| < 1 t, como afirma la sección 4 del documento)",OK,máx |dif| ventana = 0.82 t (serie completa: 2021 difiere -2.58 t)
+Institucionales,Municipio-años 2023–2025 presentes en una sola fuente < 5 %,OK,4.4 % (17 de 389)
+Institucionales,"RUCOM: código de 5 dígitos válido, único por municipio, sin nulos ni ceros",OK,
+Estructurales,"EVOA: códigos válidos, sin duplicados municipio-año, sin nulos ni negativos, departamento coherente con el código",OK,
+Estructurales,EVOA: suma municipal = departamental = serie nacional (|dif| < 1 ha),OK,
+Estructurales,Figuras de ley 2021–2023: permisos + tránsito + ilícita = total = evoa_ha municipal,OK,
+Estructurales,El servicio ArcGIS reproduce datos.gov.co 2018–2020 (control de la extracción),OK,máx |dif| = 0.0001 ha; ArcGIS añade 218 municipio-años con 0 ha
+Estructurales,"Variables estructurales: una fila por municipio, ilícita ≤ total, share en [0, 1]",OK,
+Seguridad,"minas: numérico sin nulos ni negativos, mes 1–12, sin duplicados en cod_muni+anio+mes",OK,
+Seguridad,minas: todos los códigos de municipio válidos,OK,0 filas con código inválido [] (se excluyen)
+Seguridad,"minas: 2023, 2024 y 2025 con los 12 meses",OK,
+Seguridad,"capturas: numérico sin nulos ni negativos, mes 1–12, sin duplicados en cod_muni+anio+mes",OK,
+Seguridad,capturas: todos los códigos de municipio válidos,OK,0 filas con código inválido [] (se excluyen)
+Seguridad,"capturas: 2023, 2024 y 2025 con los 12 meses",OK,
+Seguridad,"maquinaria: numérico sin nulos ni negativos, mes 1–12, sin duplicados en cod_muni+anio+mes+clase_de_bien",OK,
+Seguridad,maquinaria: todos los códigos de municipio válidos,REVISAR,1 filas con código inválido ['760101'] (se excluyen)
+Seguridad,"maquinaria: 2023, 2024 y 2025 con los 12 meses",OK,
+Exportaciones,Comtrade: 710812 + 710813 = 7108 (|dif| ≤ 2 kg) y suma de socios = total mundial,OK,
+Exportaciones,Legiscomex: 18 archivos con 67 columnas; año y subpartida coinciden con el archivo; kg y FOB numéricos sin nulos,OK,
+Exportaciones,"Legiscomex reproduce Comtrade en 710812/710813 (|dif| ≤ 0,1 %, como afirma la sección 4)",OK,máx |dif| = 0.055 %
+Exportaciones,"Legiscomex 2023–2025: < 2 % de declaraciones de oro en bruto con precio implícito fuera de [0,3; 1,1] × LBMA",OK,"20 de 11,311 (0.18 %); mediana del cociente = 0.86"
+Llaves,"Nombres de municipio coherentes entre ANM, EVOA y RUCOM para un mismo código",REVISAR,"1 códigos: {'76111': {'anm': 'GUADALAJARADEBUGA', 'evoa': 'GUADALAJARADEBUGA', 'rucom': 'BUGA'}} — el código manda"
+Panel,"Balanceado (municipios × 3 años = filas), sin duplicados, todos con nombre y departamento",OK,
+Panel,"Totales del panel = totales de las fuentes (gramos ANM 2023–2025, huella 2023, minas 2023–2025)",OK,
+Panel,Trimestral: 12 trimestres por municipio y suma trimestral = suma anual,OK,
+Documento,Las cifras citadas en el documento se reproducen desde las bases,REVISAR,"difieren: ['TRM promedio 2023', 'exportaciones de oro 7108 2023 (t)']"

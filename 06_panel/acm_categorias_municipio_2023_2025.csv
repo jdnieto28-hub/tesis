@@ -1,0 +1,198 @@
+codigo_dane,municipio,departamento,produccion,explotador,huella,barequeo_tope,inscritos,minas_intervenidas,maquinaria_incautada
+05001,Medellin,Antioquia,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,más de 10,alguna
+05004,Abriaqui,Antioquia,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,ninguna,ninguna
+05031,Amalfi,Antioquia,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,1 a 10,alguna
+05034,Andes,Antioquia,100 kg a 1 t,otros,sin huella,no declara barequeo,ninguno,1 a 10,alguna
+05040,Anori,Antioquia,más de 1 t,títulos,"grande, mayor parte ilícita",sobre el tope,1 a 50,más de 10,alguna
+05042,Santafe de Antioquia,Antioquia,100 kg a 1 t,barequeros,sin huella,sobre el tope,1 a 50,1 a 10,ninguna
+05044,Anza,Antioquia,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,ninguna,alguna
+05055,Argelia - Antioquia,Antioquia,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,ninguna
+05079,Barbosa - Antioquia,Antioquia,menos de 100 kg,títulos,sin huella,dentro del tope,1 a 50,más de 10,alguna
+05086,Belmira,Antioquia,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,ninguna,alguna
+05088,Bello,Antioquia,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,más de 10,alguna
+05107,Briceño - Antioquia,Antioquia,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,ninguna,alguna
+05113,Buritica,Antioquia,más de 1 t,títulos,sin huella,no declara barequeo,1 a 50,más de 10,alguna
+05120,Caceres,Antioquia,más de 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,más de 50,más de 10,alguna
+05138,Cañasgordas,Antioquia,100 kg a 1 t,barequeros,sin huella,dentro del tope,más de 50,más de 10,ninguna
+05142,Caracoli,Antioquia,menos de 100 kg,barequeros,"pequeña, mayor parte ilícita",dentro del tope,1 a 50,más de 10,alguna
+05150,Carolina,Antioquia,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,alguna
+05154,Caucasia,Antioquia,más de 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,más de 10,alguna
+05172,Chigorodo,Antioquia,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,alguna
+05190,Cisneros,Antioquia,menos de 100 kg,barequeros,sin huella,sobre el tope,1 a 50,más de 10,alguna
+05212,Copacabana,Antioquia,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,más de 10,alguna
+05234,Dabeiba,Antioquia,más de 1 t,barequeros,sin huella,sobre el tope,más de 50,1 a 10,ninguna
+05237,Don Matias,Antioquia,menos de 100 kg,títulos,sin huella,declara sin inscritos,ninguno,1 a 10,alguna
+05240,Ebejico,Antioquia,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,ninguna
+05250,El Bagre,Antioquia,más de 1 t,títulos,mayor parte con figura de ley,sobre el tope,más de 50,más de 10,alguna
+05282,Fredonia,Antioquia,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,más de 10,alguna
+05284,Frontino,Antioquia,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,alguna
+05308,Girardota,Antioquia,menos de 100 kg,títulos,sin huella,no declara barequeo,1 a 50,más de 10,alguna
+05310,Gomez Plata,Antioquia,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,1 a 10,alguna
+05390,La Pintada,Antioquia,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,más de 10,alguna
+05425,Maceo,Antioquia,menos de 100 kg,otros,"pequeña, mayor parte ilícita",dentro del tope,1 a 50,más de 10,alguna
+05480,Mutata,Antioquia,100 kg a 1 t,barequeros,mayor parte con figura de ley,dentro del tope,más de 50,ninguna,alguna
+05495,Nechi,Antioquia,100 kg a 1 t,barequeros,mayor parte con figura de ley,sobre el tope,más de 50,más de 10,alguna
+05579,Puerto Berrio,Antioquia,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,1 a 50,más de 10,alguna
+05585,Puerto Nare,Antioquia,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,más de 50,más de 10,alguna
+05604,Remedios,Antioquia,más de 1 t,títulos,"grande, mayor parte ilícita",dentro del tope,más de 50,más de 10,alguna
+05667,San Rafael,Antioquia,menos de 100 kg,barequeros,sin huella,dentro del tope,más de 50,1 a 10,alguna
+05670,San Roque,Antioquia,100 kg a 1 t,otros,mayor parte con figura de ley,no declara barequeo,1 a 50,más de 10,alguna
+05674,San Vicente,Antioquia,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,1 a 10,alguna
+05686,Santa Rosa de Osos,Antioquia,100 kg a 1 t,títulos,sin huella,dentro del tope,1 a 50,1 a 10,alguna
+05690,Santo Domingo,Antioquia,más de 1 t,títulos,"pequeña, mayor parte ilícita",dentro del tope,1 a 50,más de 10,alguna
+05736,Segovia,Antioquia,más de 1 t,títulos,"grande, mayor parte ilícita",sobre el tope,más de 50,más de 10,alguna
+05756,Sonson,Antioquia,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,ninguno,1 a 10,alguna
+05790,Taraza,Antioquia,100 kg a 1 t,títulos,"grande, mayor parte ilícita",sobre el tope,1 a 50,ninguna,ninguna
+05809,Titiribi,Antioquia,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,ninguna,ninguna
+05854,Valdivia,Antioquia,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,1 a 50,ninguna,alguna
+05856,Valparaiso - Antioquia,Antioquia,menos de 100 kg,títulos,sin huella,declara sin inscritos,ninguno,1 a 10,alguna
+05858,Vegachi,Antioquia,más de 1 t,barequeros,mayor parte con figura de ley,declara sin inscritos,ninguno,1 a 10,alguna
+05861,Venecia - Antioquia,Antioquia,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,1 a 10,alguna
+05873,Vigia del Fuerte,Antioquia,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,ninguna,alguna
+05885,Yali,Antioquia,más de 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,más de 50,más de 10,alguna
+05887,Yarumal,Antioquia,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,ninguna,alguna
+05890,Yolombo,Antioquia,menos de 100 kg,barequeros,"pequeña, mayor parte ilícita",sobre el tope,1 a 50,más de 10,alguna
+05893,Yondo,Antioquia,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,ninguno,1 a 10,alguna
+05895,Zaragoza,Antioquia,más de 1 t,títulos,mayor parte con figura de ley,sobre el tope,1 a 50,1 a 10,alguna
+13006,Achi,Bolívar,más de 1 t,barequeros,sin huella,dentro del tope,más de 50,ninguna,alguna
+13030,Altos del Rosario,Bolívar,menos de 100 kg,barequeros,"pequeña, mayor parte ilícita",declara sin inscritos,ninguno,1 a 10,ninguna
+13042,Arenal,Bolívar,100 kg a 1 t,títulos,"pequeña, mayor parte ilícita",declara sin inscritos,ninguno,ninguna,ninguna
+13074,Barranco de Loba,Bolívar,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,ninguna,ninguna
+13212,Cordoba - Bolivar,Bolívar,100 kg a 1 t,barequeros,sin huella,declara sin inscritos,ninguno,ninguna,ninguna
+13244,El Carmen de Bolivar,Bolívar,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,ninguna
+13300,Hatillo de Loba,Bolívar,menos de 100 kg,títulos,sin huella,sobre el tope,1 a 50,1 a 10,ninguna
+13430,Magangue,Bolívar,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,más de 10,alguna
+13440,Margarita,Bolívar,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,ninguna
+13458,Montecristo,Bolívar,más de 1 t,títulos,"grande, mayor parte ilícita",no declara barequeo,ninguno,más de 10,alguna
+13473,Morales - Bolivar,Bolívar,menos de 100 kg,títulos,sin huella,no declara barequeo,1 a 50,ninguna,ninguna
+13490,Norosi,Bolívar,más de 1 t,títulos,"grande, mayor parte ilícita",dentro del tope,más de 50,ninguna,ninguna
+13600,Rio Viejo,Bolívar,menos de 100 kg,otros,"grande, mayor parte ilícita",no declara barequeo,ninguno,1 a 10,alguna
+13655,San Jacinto del Cauca,Bolívar,100 kg a 1 t,barequeros,"pequeña, mayor parte ilícita",declara sin inscritos,ninguno,1 a 10,ninguna
+13657,San Juan Nepomuceno,Bolívar,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,más de 10,alguna
+13667,San Martin de Loba,Bolívar,más de 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,más de 50,1 a 10,ninguna
+13670,San Pablo - Bolivar,Bolívar,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,1 a 10,alguna
+13683,Santa Rosa - Bolivar,Bolívar,ninguna,sin declaración,sin huella,no declara barequeo,ninguno,1 a 10,alguna
+13688,Santa Rosa del Sur,Bolívar,menos de 100 kg,títulos,"grande, mayor parte ilícita",declara sin inscritos,ninguno,más de 10,alguna
+13744,Simiti,Bolívar,menos de 100 kg,barequeros,"grande, mayor parte ilícita",sobre el tope,1 a 50,más de 10,alguna
+13810,Tiquisio,Bolívar,menos de 100 kg,títulos,"grande, mayor parte ilícita",no declara barequeo,1 a 50,ninguna,ninguna
+15572,Puerto Boyaca,Boyacá,menos de 100 kg,otros,sin huella,no declara barequeo,ninguno,más de 10,alguna
+17001,Manizales,Caldas,menos de 100 kg,títulos,sin huella,no declara barequeo,1 a 50,más de 10,alguna
+17042,Anserma,Caldas,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,más de 10,alguna
+17174,Chinchina,Caldas,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,alguna
+17380,La Dorada,Caldas,menos de 100 kg,barequeros,"pequeña, mayor parte ilícita",dentro del tope,más de 50,1 a 10,alguna
+17442,Marmato,Caldas,más de 1 t,títulos,sin huella,sobre el tope,más de 50,más de 10,ninguna
+17495,Norcasia,Caldas,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,más de 10,alguna
+17513,Pacora,Caldas,ninguna,sin declaración,sin huella,no declara barequeo,ninguno,1 a 10,ninguna
+17524,Palestina - Caldas,Caldas,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,ninguna,ninguna
+17541,Pensilvania,Caldas,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,ninguna,ninguna
+17614,Riosucio - Caldas,Caldas,menos de 100 kg,otros,sin huella,dentro del tope,1 a 50,más de 10,alguna
+17777,Supia,Caldas,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,más de 10,alguna
+17867,Victoria,Caldas,menos de 100 kg,títulos,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,más de 10,alguna
+18205,Curillo,Caquetá,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,ninguna,alguna
+18610,San Jose del Fragua,Caquetá,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,ninguno,1 a 10,alguna
+19001,Popayan,Cauca,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,más de 10,alguna
+19022,Almaguer,Cauca,menos de 100 kg,sin declaración,sin huella,no declara barequeo,ninguno,ninguna,ninguna
+19100,Bolivar - Cauca,Cauca,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,1 a 10,ninguna
+19110,Buenos Aires,Cauca,100 kg a 1 t,títulos,"pequeña, mayor parte ilícita",no declara barequeo,más de 50,más de 10,alguna
+19256,El Tambo - Cauca,Cauca,100 kg a 1 t,títulos,"pequeña, mayor parte ilícita",no declara barequeo,más de 50,1 a 10,ninguna
+19318,Guapi,Cauca,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,1 a 50,1 a 10,alguna
+19392,La Sierra,Cauca,menos de 100 kg,otros,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,ninguna,ninguna
+19418,Lopez,Cauca,menos de 100 kg,barequeros,"grande, mayor parte ilícita",dentro del tope,1 a 50,más de 10,alguna
+19450,Mercaderes,Cauca,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,1 a 10,alguna
+19533,Piamonte,Cauca,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,1 a 50,1 a 10,alguna
+19622,Rosas,Cauca,menos de 100 kg,otros,sin huella,no declara barequeo,1 a 50,1 a 10,ninguna
+19698,Santander de Quilichao,Cauca,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,más de 10,alguna
+19701,Santa Rosa - Cauca,Cauca,menos de 100 kg,títulos,sin huella,no declara barequeo,1 a 50,ninguna,ninguna
+19780,Suarez - Cauca,Cauca,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,ninguna,ninguna
+19809,Timbiqui,Cauca,menos de 100 kg,otros,mayor parte con figura de ley,no declara barequeo,1 a 50,ninguna,ninguna
+23068,Ayapel,Córdoba,más de 1 t,otros,"grande, mayor parte ilícita",declara sin inscritos,ninguno,más de 10,alguna
+23162,Cerete,Córdoba,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,ninguna
+23350,La Apartada,Córdoba,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,1 a 10,ninguna
+23466,Montelibano,Córdoba,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,1 a 10,ninguna
+23580,Puerto Libertador,Córdoba,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",declara sin inscritos,ninguno,más de 10,alguna
+23660,Sahagun,Córdoba,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,más de 10,alguna
+23670,San Andres Sotavento,Córdoba,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,ninguna
+23682,San Jose de Ure,Córdoba,más de 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,ninguna,ninguna
+27001,Quibdo,Chocó,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,más de 10,alguna
+27006,Acandi,Chocó,menos de 100 kg,barequeros,"pequeña, mayor parte ilícita",declara sin inscritos,ninguno,ninguna,ninguna
+27050,Atrato,Chocó,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,más de 10,alguna
+27073,Bagado,Chocó,menos de 100 kg,barequeros,"grande, mayor parte ilícita",dentro del tope,1 a 50,ninguna,alguna
+27135,El Canton del San Pablo,Chocó,más de 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,más de 50,1 a 10,alguna
+27160,Certegui,Chocó,más de 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,más de 50,más de 10,alguna
+27205,Condoto,Chocó,más de 1 t,otros,"grande, mayor parte ilícita",sobre el tope,más de 50,1 a 10,alguna
+27245,El Carmen de Atrato,Chocó,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,ninguna,alguna
+27250,El Litoral del San Juan,Chocó,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,ninguna,ninguna
+27361,Istmina,Chocó,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,más de 50,1 a 10,alguna
+27413,Lloro,Chocó,más de 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,1 a 10,alguna
+27425,Medio Atrato,Chocó,100 kg a 1 t,otros,"grande, mayor parte ilícita",sobre el tope,1 a 50,1 a 10,alguna
+27430,Medio Baudo,Chocó,menos de 100 kg,barequeros,"pequeña, mayor parte ilícita",declara sin inscritos,ninguno,ninguna,alguna
+27450,Medio San Juan,Chocó,más de 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,ninguna,alguna
+27491,Novita,Chocó,más de 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,1 a 50,1 a 10,alguna
+27493,MUNICIPIO NUEVO BELEN DE BAJIRA,Chocó,100 kg a 1 t,barequeros,sin huella,declara sin inscritos,ninguno,ninguna,ninguna
+27495,Nuqui,Chocó,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,ninguna,ninguna
+27580,Rio Iro,Chocó,menos de 100 kg,barequeros,"grande, mayor parte ilícita",sobre el tope,1 a 50,ninguna,ninguna
+27600,Rio Quito,Chocó,menos de 100 kg,otros,"grande, mayor parte ilícita",sobre el tope,1 a 50,más de 10,alguna
+27615,Riosucio - Choco,Chocó,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,ninguno,ninguna,alguna
+27660,San Jose del Palmar,Chocó,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,ninguna,ninguna
+27745,Sipi,Chocó,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,1 a 50,ninguna,ninguna
+27787,Tado,Chocó,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",sobre el tope,1 a 50,1 a 10,alguna
+27800,Unguia,Chocó,menos de 100 kg,barequeros,"pequeña, mayor parte ilícita",dentro del tope,1 a 50,ninguna,alguna
+27810,Union Panamericana,Chocó,más de 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,más de 10,alguna
+41001,Neiva,Huila,100 kg a 1 t,títulos,sin huella,no declara barequeo,1 a 50,más de 10,ninguna
+41132,Campoalegre,Huila,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,1 a 10,alguna
+41298,Garzon,Huila,menos de 100 kg,barequeros,sin huella,sobre el tope,1 a 50,más de 10,ninguna
+41357,Iquira,Huila,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,ninguna,ninguna
+41524,Palermo,Huila,menos de 100 kg,títulos,sin huella,no declara barequeo,1 a 50,más de 10,alguna
+41615,Rivera,Huila,100 kg a 1 t,títulos,sin huella,no declara barequeo,ninguno,más de 10,alguna
+44090,Dibulla,La Guajira,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,1 a 10,alguna
+50223,Cubarral,Meta,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,ninguna,alguna
+50330,Mesetas,Meta,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,ninguna,alguna
+52079,Barbacoas,Nariño,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,1 a 10,alguna
+52250,El Charco,Nariño,menos de 100 kg,otros,"grande, mayor parte ilícita",dentro del tope,1 a 50,ninguna,ninguna
+52385,La Llanada,Nariño,menos de 100 kg,títulos,"pequeña, mayor parte ilícita",no declara barequeo,más de 50,ninguna,ninguna
+52418,Los Andes,Nariño,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,1 a 50,ninguna,ninguna
+52427,Magüi,Nariño,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,más de 50,más de 10,alguna
+52621,Roberto Payan,Nariño,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",declara sin inscritos,ninguno,ninguna,alguna
+52685,San Bernardo - Nariño,Nariño,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,ninguna
+52696,Santa Barbara - Nariño,Nariño,100 kg a 1 t,barequeros,"grande, mayor parte ilícita",dentro del tope,más de 50,ninguna,alguna
+52835,San Andres de Tumaco,Nariño,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,ninguna,ninguna
+63130,Calarca,Quindío,menos de 100 kg,sin declaración,sin huella,no declara barequeo,1 a 50,más de 10,alguna
+66088,Belen de Umbria - Risaralda,Risaralda,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,1 a 10,alguna
+66456,Mistrato,Risaralda,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,1 a 10,alguna
+66572,Pueblo Rico,Risaralda,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,ninguna,alguna
+66594,Quinchia,Risaralda,100 kg a 1 t,barequeros,sin huella,dentro del tope,más de 50,más de 10,alguna
+68132,California,Santander,menos de 100 kg,títulos,sin huella,no declara barequeo,más de 50,más de 10,ninguna
+68406,Lebrija,Santander,menos de 100 kg,títulos,sin huella,dentro del tope,1 a 50,más de 10,ninguna
+68615,Rionegro - Santander,Santander,menos de 100 kg,títulos,sin huella,no declara barequeo,1 a 50,1 a 10,alguna
+68655,Sabana de Torres,Santander,menos de 100 kg,barequeros,sin huella,dentro del tope,más de 50,más de 10,alguna
+68867,Vetas,Santander,100 kg a 1 t,títulos,sin huella,no declara barequeo,1 a 50,más de 10,ninguna
+70771,Sucre - Sucre,Sucre,100 kg a 1 t,barequeros,sin huella,dentro del tope,más de 50,ninguna,ninguna
+73001,Ibague,Tolima,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,más de 10,alguna
+73043,Anzoategui,Tolima,menos de 100 kg,otros,sin huella,no declara barequeo,ninguno,ninguna,ninguna
+73067,Ataco,Tolima,100 kg a 1 t,títulos,mayor parte con figura de ley,no declara barequeo,1 a 50,más de 10,alguna
+73124,Cajamarca,Tolima,menos de 100 kg,sin declaración,sin huella,no declara barequeo,1 a 50,1 a 10,alguna
+73168,Chaparral,Tolima,100 kg a 1 t,barequeros,mayor parte con figura de ley,sobre el tope,1 a 50,1 a 10,alguna
+73217,Coyaima,Tolima,menos de 100 kg,barequeros,mayor parte con figura de ley,sobre el tope,1 a 50,1 a 10,alguna
+73270,Falan,Tolima,100 kg a 1 t,otros,sin huella,sobre el tope,1 a 50,1 a 10,alguna
+73408,Lerida,Tolima,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,más de 10,ninguna
+73411,Libano,Tolima,100 kg a 1 t,títulos,sin huella,no declara barequeo,1 a 50,1 a 10,alguna
+73443,Mariquita,Tolima,menos de 100 kg,barequeros,sin huella,sobre el tope,1 a 50,1 a 10,alguna
+73504,Ortega,Tolima,menos de 100 kg,barequeros,sin huella,sobre el tope,1 a 50,1 a 10,ninguna
+73686,Santa Isabel,Tolima,menos de 100 kg,títulos,sin huella,no declara barequeo,ninguno,1 a 10,alguna
+73861,Venadillo,Tolima,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,ninguna,ninguna
+73870,Villahermosa,Tolima,ninguna,sin declaración,sin huella,no declara barequeo,ninguno,ninguna,ninguna
+76109,Buenaventura,Valle del Cauca,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,más de 50,más de 10,alguna
+76126,Calima,Valle del Cauca,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,ninguna,ninguna
+76250,El Dovio,Valle del Cauca,menos de 100 kg,barequeros,sin huella,declara sin inscritos,ninguno,1 a 10,ninguna
+76364,Jamundi,Valle del Cauca,menos de 100 kg,otros,sin huella,no declara barequeo,1 a 50,más de 10,alguna
+86001,Mocoa,Putumayo,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,1 a 10,alguna
+86320,Orito,Putumayo,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,más de 10,alguna
+86568,Puerto Asís,Putumayo,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,más de 10,alguna
+86569,Puerto Caicedo,Putumayo,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,más de 10,alguna
+86571,Puerto Guzman,Putumayo,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,1 a 50,más de 10,alguna
+86885,Villagarzon,Putumayo,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,1 a 50,más de 10,alguna
+91798,Tarapacá,Amazonas,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,ninguna,alguna
+94001,Inirida,Guainía,menos de 100 kg,barequeros,"pequeña, mayor parte ilícita",sobre el tope,1 a 50,más de 10,alguna
+94884,Puerto Colombia,Guainía,ninguna,sin declaración,"pequeña, mayor parte ilícita",no declara barequeo,ninguno,ninguna,ninguna
+94887,Pana Pana,Guainía,ninguna,sin declaración,"grande, mayor parte ilícita",no declara barequeo,ninguno,ninguna,ninguna
+99001,Puerto Carreño,Vichada,menos de 100 kg,barequeros,sin huella,dentro del tope,1 a 50,1 a 10,alguna

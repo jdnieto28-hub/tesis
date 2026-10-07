@@ -1,0 +1,33 @@
+variable,familia,fuente,definicion,regla_de_ausencia
+codigo_dane,llave,DANE,"código de municipio, 5 dígitos",—
+municipio,llave,ANM/EVOA/RUCOM,nombre,—
+departamento,llave,DANE,departamento (2 primeros dígitos),—
+anio,llave,—,año,2023–2025
+gramos_anm,respuesta,ANM r85m-vv6c,"producción declarada, gramos (suma de proyectos y trimestres)",sin registro = 0
+regalias_cop,respuesta / económicos,ANM,"regalías liquidadas, COP corrientes",sin registro = 0
+n_trimestres,respuesta,ANM,trimestres con registro en el año (0–4),sin registro = 0
+precio_usd_onza,económicos,UPME–LBMA,"precio promedio anual, USD/oz troy",—
+trm,económicos,SFC 32sa-8pi3,TRM promedio anual,—
+precio_cop_gramo,económicos,derivada,"precio_usd_onza × trm / 31,1035",—
+g_titulos,institucionales,SIMCI,gramos declarados por títulos mineros,ausente = 0
+g_barequeros,institucionales,SIMCI,gramos declarados por barequeros,ausente = 0
+g_otros,institucionales,SIMCI,"ARE, chatarreros, solicitudes de legalización, subcontratos",ausente = 0
+gramos_simci,institucionales,SIMCI,suma de los tres anteriores,ausente = 0
+share_barequeo,institucionales,derivada,g_barequeros / gramos_simci,NaN si gramos_simci = 0
+share_titulos,institucionales,derivada,g_titulos / gramos_simci,NaN si gramos_simci = 0
+n_barequeros,institucionales,RUCOM 6xd6-hsen,mineros de subsistencia inscritos (padrón vigente),invariante; sin inscritos = 0
+tope_bareq_g,institucionales,derivada,n_barequeros × 420 g (Res. 40103/2017),0 sin inscritos
+ratio_tope_bareq,institucionales,derivada,g_barequeros / tope_bareq_g,NaN sin inscritos
+bareq_sin_inscritos,institucionales,derivada,1 si declara barequeo sin inscritos,—
+evoa_ha_2023,estructurales,EVOA SIMCI,"huella aluvial 2023, ha (invariante)",sin huella = 0
+evoa_ha_prom_2021_2023,estructurales,EVOA SIMCI,"promedio 2021–2023, ha",sin huella = 0
+ha_permisos_2023,estructurales,EVOA,huella con permisos técnicos 2023,0
+ha_transito_2023,estructurales,EVOA,huella en tránsito a la legalidad 2023,0
+ha_ilicita_2023,estructurales,EVOA,huella de explotación ilícita 2023,0
+share_ilicita_2023,estructurales,derivada,ha_ilicita_2023 / evoa_ha_2023,NaN sin huella
+var_huella_2021_2023_pct,estructurales,derivada,"variación de la huella 2021→2023, %",NaN sin huella 2021
+explotador_dominante,estructurales,derivada,figura con más gramos en el trienio,'sin declaración'
+tipo_predominante,estructurales,derivada,clasificación descriptiva (ver sección 9),—
+minas,seguridad,MinDefensa,minas intervenidas en el año,sin eventos = 0
+capturas,seguridad,MinDefensa,capturas por explotación ilícita en el año,sin eventos = 0
+maquinaria,seguridad,MinDefensa,unidades de maquinaria incautada en el año,sin eventos = 0

@@ -1,0 +1,32 @@
+bloque,verificacion,resultado,detalle
+Inventario,Todas las fuentes nuevas están en el repositorio,OK,0 faltantes
+05 Delictiva,homicidio: código DANE de 5 dígitos con departamento válido,OK,
+05 Delictiva,homicidio: sin duplicados municipio-año-mes; casos enteros no negativos,OK,
+05 Delictiva,homicidio: los tres años traen 12 meses,OK,"{2023: 12, 2024: 12, 2025: 12}"
+05 Delictiva,homicidio: la descarga completa reproduce el total de la fuente (ficha),OK,"344,919 casos en la fuente"
+05 Delictiva,homicidio: un solo nombre de municipio por código,OK,
+05 Delictiva,extorsion: código DANE de 5 dígitos con departamento válido,OK,
+05 Delictiva,extorsion: sin duplicados municipio-año-mes; casos enteros no negativos,OK,
+05 Delictiva,extorsion: los tres años traen 12 meses,OK,"{2023: 12, 2024: 12, 2025: 12}"
+05 Delictiva,extorsion: la descarga completa reproduce el total de la fuente (ficha),OK,"131,206 casos en la fuente"
+05 Delictiva,extorsion: un solo nombre de municipio por código,OK,
+05 Delictiva,"Decisión: homicidio y extorsión no se asocian con la producción declarada (|Spearman| < 0,20) y no entran al panel",OK,máx |r| con gramos = 0.07
+11 Población,"Código de 5 dígitos, sin duplicados municipio-año, tres años por municipio",OK,
+11 Población,Cabecera + rural = total en todas las filas,OK,
+11 Población,Todos los municipios del panel tienen población en los tres años,OK,faltan: []
+12 RUCOM,títulos: código DANE de 5 dígitos con departamento válido,OK,
+12 RUCOM,solicitudes: código DANE de 5 dígitos con departamento válido,OK,
+12 RUCOM,subcontratos: código DANE de 5 dígitos con departamento válido,OK,
+12 RUCOM,"Tabla por municipio: una fila por municipio, conteos enteros no negativos",OK,
+12 RUCOM,Los títulos de oro del RUCOM tienen anotación registral en 2023–2025 (≥ 95 %),OK,99.6 % de los expedientes
+12 RUCOM,Al menos el 70 % de los municipios que declaran por títulos tienen un título de oro autorizado en el RUCOM,OK,89 %
+13 Territorio,"Área: una fila por municipio, área positiva, suma cercana al área continental de Colombia (1,14 millones de km²)",OK,"suma = 1,140,974 km²"
+13 Territorio,Todos los municipios del panel tienen área,REVISAR,faltan: ['27493']
+13 Territorio,PDET: 170 municipios con código válido y sin duplicados,OK,
+13 Territorio,Nombres del MGN coherentes con los del panel para el mismo código,REVISAR,"2 distintos: [['23670', 'San Andres Sotavento', 'SAN ANDRÉS DE SOTAVENTO'], ['73443', 'Mariquita', 'SAN SEBASTIÁN DE MARIQUITA']]"
+01 Precio,"Precio base UPME ≈ 80 % del precio internacional en COP/g del mes anterior (0,75–0,85 en todos los meses)",OK,rango = [0.793; 0.801]
+01 Precio,"Con el precio base real la tasa mediana de regalía queda cerca del 4 % (0,035–0,045)",OK,mediana = 0.0393
+Panel,"Panel ampliado conserva las 591 filas y 197 municipios del notebook 01, sin duplicados",OK,
+Panel,Población y área sin nulos en el panel ampliado,REVISAR,
+Panel,El panel ampliado no contiene variables de homicidio ni extorsión,OK,
+ACM,Ninguna categoría nueva por debajo del 5 % de los municipios,OK,0 raras: []

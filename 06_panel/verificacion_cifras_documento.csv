@@ -1,0 +1,69 @@
+seccion,cifra,documento,calculado,resultado
+1.3 / Introducción,municipios que declararon en 2023,142.0,142.0,coincide
+1.3 / Introducción,municipios que declararon en 2024,129.0,129.0,coincide
+1.3 / Introducción,municipios que declararon en 2025,117.0,117.0,coincide
+1.3,municipios distintos con declaración 2023–2025,167.0,167.0,coincide
+1.3,producción declarada 2023 (t),61.3,61.33,coincide
+1.3,producción declarada 2024 (t),56.7,56.73,coincide
+1.3,producción declarada 2025 (t),51.2,51.15,coincide
+1.3,máximo de la serie: 2012 (t),66.2,66.22,coincide
+1.3,mínimo de la serie: 2018 (t),36.0,35.99,coincide
+1.3,total del trienio (t),169.0,169.22,coincide
+1.3,departamentos con declaración,18.0,18.0,coincide
+1.3,Antioquia (% del trienio),71.0,70.87,coincide
+1.3,Chocó (% del trienio),15.0,15.26,coincide
+1.3,Bolívar (% del trienio),5.0,5.47,coincide
+1.3,top-10 municipios (% del trienio),71.0,71.48,coincide
+1.3,Caucasia 2023–2025 (t),35.6,35.62,coincide
+1.3,Buritica 2023–2025 (t),24.6,24.55,coincide
+1.3,Segovia 2023–2025 (t),16.8,16.82,coincide
+1.3,El Bagre 2023–2025 (t),13.1,13.13,coincide
+1.3,Remedios 2023–2025 (t),7.8,7.76,coincide
+1.3,municipios con menos de 1 t en el trienio,141.0,141.0,coincide
+1.3,... de un total de,167.0,167.0,coincide
+1.1,precio promedio 2023 (USD/oz),1943.0,1942.67,coincide
+1.1,precio promedio 2024 (USD/oz),2388.0,2387.7,coincide
+1.1,precio promedio 2025 (USD/oz),3442.0,3441.51,coincide
+1.1,TRM promedio 2023,4424.0,4324.24,DIFIERE
+1.1,TRM promedio 2024,4075.0,4074.84,coincide
+1.1,TRM promedio 2025,4052.0,4051.78,coincide
+1.1,aumento del precio en USD 2023→2025 (%),77.0,77.15,coincide
+1.1,aumento del precio en COP/g 2023→2025 (%),66.0,65.26,coincide
+Introducción,primer mes por encima de 5.000 USD/oz,2026.02,2026.02,coincide
+1.3,barequeros 2023 (t),33.5,33.48,coincide
+1.3,títulos mineros 2023 (t),25.9,25.88,coincide
+1.3,barequeros 2024 (t),29.0,29.01,coincide
+1.3,títulos mineros 2024 (t),24.7,24.71,coincide
+1.3,barequeros 2025 (t),22.7,22.74,coincide
+1.3,títulos mineros 2025 (t),26.7,26.7,coincide
+Introducción / 1.3,barequeros inscritos,74013.0,74013.0,coincide
+Introducción / 1.3,municipios con inscritos,174.0,174.0,coincide
+1.4 / 2,municipios con barequeo declarado 2023,106.0,106.0,coincide
+1.4 / 2,... que superan el tope de sus inscritos,42.0,42.0,coincide
+1.4 / 2,... sin ningún inscrito,29.0,29.0,coincide
+1.3 / 1.4,huella EVOA 2023 (ha),105060.0,105059.75,coincide
+1.3,variación 2023 vs 2022 (%),11.0,10.9,coincide
+1.3,Antioquia + Chocó (% de la huella 2023),77.0,77.32,coincide
+1.4,huella sin figura de ley 2023 (%),76.0,75.8,coincide
+1.4,huella sin figura de ley 2023 (ha),79600.0,79631.3,coincide
+1.3,huella Zaragoza 2023 (ha),8669.0,8668.76,coincide
+1.3,huella Nechí 2023 (ha),8152.0,8152.45,coincide
+1.4,minas intervenidas 2023,2969.0,2969.0,coincide
+1.4,minas intervenidas 2024,5247.0,5247.0,coincide
+1.4,minas intervenidas 2025,6151.0,6151.0,coincide
+1.1,exportaciones de oro 7108 2023 (t),71.1,71.7,DIFIERE
+1.1,exportaciones de oro 7108 2024 (t),69.9,69.89,coincide
+1.1,exportaciones de oro 7108 2025 (t),57.2,57.16,coincide
+1.1 / 1.4,brecha exportado/declarado 2023 (%),17.0,16.91,coincide
+1.1 / 1.4,brecha exportado/declarado 2024 (%),23.0,23.18,coincide
+1.1 / 1.4,brecha exportado/declarado 2025 (%),12.0,11.74,coincide
+1.1,destino 2023: Estados Unidos (%),34.0,34.03,coincide
+1.1,destino 2023: Italia (%),21.0,20.94,coincide
+1.1,destino 2023: India (%),12.0,12.34,coincide
+1.1,destino 2023: Hong Kong (%),11.0,10.71,coincide
+1.1,destino 2023: zonas francas (%),12.0,12.45,coincide
+1.3,Buriticá: % títulos 2023–2025,100.0,100.0,coincide
+1.3,Segovia: % títulos 2023–2025,96.0,96.11,coincide
+1.3,Caucasia: % barequeros 2023–2025,92.0,91.89,coincide
+1.3,Zaragoza: declaración 2023–2025 (t),2.5,2.5,coincide
+1.3,Nechí: declaración 2023–2025 (t),0.2,0.23,coincide

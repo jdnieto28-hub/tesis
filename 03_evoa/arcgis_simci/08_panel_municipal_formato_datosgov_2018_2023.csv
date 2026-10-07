@@ -1,0 +1,602 @@
+﻿anio,codigo_departamento,departamento,codigo_municipio,municipio,hectareas_con_permisos,hectareas_en_transito_a,hectareas_explotacion_ilicita,total_evidencia_explotacion,fuente
+2018,05,Antioquia,05031,Amalfi,268.715581,55.921508,959.929273,1284.566362,datos.gov.co g48d-yu62
+2018,05,Antioquia,05040,Anorí,397.950798,52.438321,1237.886069,1688.275188,datos.gov.co g48d-yu62
+2018,05,Antioquia,05120,Cáceres,1809.804942,379.56547,3050.15314,5239.523552,datos.gov.co g48d-yu62
+2018,05,Antioquia,05134,Campamento,0.0,0.0,1.639286,1.639286,datos.gov.co g48d-yu62
+2018,05,Antioquia,05154,Caucasia,1034.647431,60.678633,369.128129,1464.454193,datos.gov.co g48d-yu62
+2018,05,Antioquia,05172,Chigorodó,0.0,0.0,82.56503,82.56503,datos.gov.co g48d-yu62
+2018,05,Antioquia,05234,Dabeiba,0.0,0.0,7.8075,7.8075,datos.gov.co g48d-yu62
+2018,05,Antioquia,05250,El Bagre,2151.509953,2.061497,2195.021254,4348.592704,datos.gov.co g48d-yu62
+2018,05,Antioquia,05284,Frontino,0.0,0.0,14.314907,14.314907,datos.gov.co g48d-yu62
+2018,05,Antioquia,05361,Ituango,0.0,0.0,23.377499,23.377499,datos.gov.co g48d-yu62
+2018,05,Antioquia,05480,Mutatá,123.187499,0.0,28.134971,151.32247,datos.gov.co g48d-yu62
+2018,05,Antioquia,05495,Nechí,3543.065387,15.679573,2689.640718,6248.385678,datos.gov.co g48d-yu62
+2018,05,Antioquia,05579,Puerto Berrío,0.0,0.0,63.267323,63.267323,datos.gov.co g48d-yu62
+2018,05,Antioquia,05585,Puerto Nare,0.0,0.0,155.027672,155.027672,datos.gov.co g48d-yu62
+2018,05,Antioquia,05604,Remedios,648.015461,179.752137,1312.094389,2139.861987,datos.gov.co g48d-yu62
+2018,05,Antioquia,05736,Segovia,501.657808,32.242029,1462.958929,1996.858766,datos.gov.co g48d-yu62
+2018,05,Antioquia,05756,Sonsón,11.260776,23.546906,203.579819,238.387501,datos.gov.co g48d-yu62
+2018,05,Antioquia,05790,Tarazá,142.190818,584.732018,1171.752179,1898.675015,datos.gov.co g48d-yu62
+2018,05,Antioquia,05847,Urrao,0.0,0.0,18.422595,18.422595,datos.gov.co g48d-yu62
+2018,05,Antioquia,05854,Valdivia,0.0,65.569309,455.631976,521.201285,datos.gov.co g48d-yu62
+2018,05,Antioquia,05858,Vegachí,191.467986,0.0,173.63182,365.099806,datos.gov.co g48d-yu62
+2018,05,Antioquia,05873,Vigía del Fuerte,0.0,0.0,56.475004,56.475004,datos.gov.co g48d-yu62
+2018,05,Antioquia,05885,Yalí,0.0,0.0,61.651294,61.651294,datos.gov.co g48d-yu62
+2018,05,Antioquia,05893,Yondó,0.0,24.331395,123.747271,148.078666,datos.gov.co g48d-yu62
+2018,05,Antioquia,05895,Zaragoza,5363.072597,156.53606,2709.584608,8229.19326499999,datos.gov.co g48d-yu62
+2018,13,Bolívar,13030,Altos del Rosario,3.194999,0.0,1.845,5.039999,datos.gov.co g48d-yu62
+2018,13,Bolívar,13042,Arenal,2.992395,0.0,22.950105,25.9425,datos.gov.co g48d-yu62
+2018,13,Bolívar,13074,Barranco de Loba,104.248709,4.286714,67.364937,175.90036,datos.gov.co g48d-yu62
+2018,13,Bolívar,13458,Montecristo,914.866101,613.299357,1542.300734,3070.466192,datos.gov.co g48d-yu62
+2018,13,Bolívar,13490,Norosí,199.446201,66.050458,290.86838,556.365039,datos.gov.co g48d-yu62
+2018,13,Bolívar,13600,Río Viejo,122.400027,112.861104,369.707278,604.968409,datos.gov.co g48d-yu62
+2018,13,Bolívar,13655,San Jacinto del Cauca,0.0,0.0,11.474999,11.474999,datos.gov.co g48d-yu62
+2018,13,Bolívar,13667,San Martín de Loba,116.888493,58.841503,274.814654,450.54465,datos.gov.co g48d-yu62
+2018,13,Bolívar,13670,San Pablo,0.0,0.0,35.996811,35.996811,datos.gov.co g48d-yu62
+2018,13,Bolívar,13688,Santa Rosa del Sur,779.452412,239.999772,1308.650298,2328.102482,datos.gov.co g48d-yu62
+2018,13,Bolívar,13744,Simití,1074.245835,27.68607,413.578094,1515.509999,datos.gov.co g48d-yu62
+2018,13,Bolívar,13810,Tiquisio,41.307581,1.8225,89.218985,132.349066,datos.gov.co g48d-yu62
+2018,17,Caldas,17380,La Dorada,0.0,0.0,2.031163,2.031163,datos.gov.co g48d-yu62
+2018,17,Caldas,17495,Norcasia,0.0,0.0,68.011337,68.011337,datos.gov.co g48d-yu62
+2018,18,Caquetá,18610,San José del Fragua,0.0,0.0,50.220005,50.220005,datos.gov.co g48d-yu62
+2018,19,Cauca,19100,Bolívar,0.0,29.298052,31.743558,61.04161,datos.gov.co g48d-yu62
+2018,19,Cauca,19110,Buenos Aires,0.0,0.0,44.674707,44.674707,datos.gov.co g48d-yu62
+2018,19,Cauca,19256,El Tambo,0.0,44.136615,76.752913,120.889528,datos.gov.co g48d-yu62
+2018,19,Cauca,19318,Guapi,0.0,7.981758,452.989703,460.971461,datos.gov.co g48d-yu62
+2018,19,Cauca,19355,Inzá,0.0,0.0,9.202499,9.202499,datos.gov.co g48d-yu62
+2018,19,Cauca,19392,La Sierra,0.0,69.145356,12.759655,81.905011,datos.gov.co g48d-yu62
+2018,19,Cauca,19418,López de Micay,0.0,3.4425,581.98853,585.43103,datos.gov.co g48d-yu62
+2018,19,Cauca,19450,Mercaderes,0.0,12.444879,116.256018,128.700897,datos.gov.co g48d-yu62
+2018,19,Cauca,19473,Morales,0.0,0.0,5.13,5.13,datos.gov.co g48d-yu62
+2018,19,Cauca,19532,Patía,0.0,9.075917,46.651014,55.726931,datos.gov.co g48d-yu62
+2018,19,Cauca,19533,Piamonte,0.0,0.0,63.1125,63.1125,datos.gov.co g48d-yu62
+2018,19,Cauca,19698,Santander de Quilichao,0.0,0.0,55.922793,55.922793,datos.gov.co g48d-yu62
+2018,19,Cauca,19701,Santa Rosa,0.0,0.0,22.297499,22.297499,datos.gov.co g48d-yu62
+2018,19,Cauca,19780,Suárez,0.0,0.0,2.07,2.07,datos.gov.co g48d-yu62
+2018,19,Cauca,19809,Timbiquí,609.789852,132.393764,564.399916,1306.583532,datos.gov.co g48d-yu62
+2018,23,Córdoba,23068,Ayapel,40.528758,13.551232,3758.426146,3812.506136,datos.gov.co g48d-yu62
+2018,23,Córdoba,23350,La Apartada,0.0,0.0,10.934999,10.934999,datos.gov.co g48d-yu62
+2018,23,Córdoba,23682,San José de Uré,113.754211,0.0,19.024645,132.778856,datos.gov.co g48d-yu62
+2018,23,Córdoba,23807,Tierralta,0.0,0.0,26.235001,26.235001,datos.gov.co g48d-yu62
+2018,27,Chocó,27001,Quibdó,166.310248,35.957315,2021.108153,2223.375716,datos.gov.co g48d-yu62
+2018,27,Chocó,27006,Acandí,0.0,0.0,62.099998,62.099998,datos.gov.co g48d-yu62
+2018,27,Chocó,27050,Atrato,0.0,63.016078,1000.064639,1063.080717,datos.gov.co g48d-yu62
+2018,27,Chocó,27073,Bagadó,51.694486,0.010886,255.707961,307.413333,datos.gov.co g48d-yu62
+2018,27,Chocó,27135,El Cantón del San Pablo,0.0,98.310447,4705.600323,4803.91077,datos.gov.co g48d-yu62
+2018,27,Chocó,27150,Carmen del Darién,0.0,2.619906,0.0,2.619906,datos.gov.co g48d-yu62
+2018,27,Chocó,27160,Cértegui,14.317637,113.005454,1318.604261,1445.927352,datos.gov.co g48d-yu62
+2018,27,Chocó,27205,Condoto,340.817737,888.928173,1337.15504,2566.90095,datos.gov.co g48d-yu62
+2018,27,Chocó,27361,Istmina,1948.670067,5.170923,2430.936107,4384.777097,datos.gov.co g48d-yu62
+2018,27,Chocó,27413,Lloró,0.0,5.671722,682.7755,688.447222,datos.gov.co g48d-yu62
+2018,27,Chocó,27425,Medio Atrato,50.628712,284.765862,1733.719559,2069.114133,datos.gov.co g48d-yu62
+2018,27,Chocó,27430,Medio Baudó,2.339695,0.0,2.809561,5.149256,datos.gov.co g48d-yu62
+2018,27,Chocó,27450,Medio San Juan,0.0,90.498057,1262.93876,1353.436817,datos.gov.co g48d-yu62
+2018,27,Chocó,27491,Nóvita,1408.641229,173.116508,3569.662987,5151.420724,datos.gov.co g48d-yu62
+2018,27,Chocó,27580,Río Iró,11.760117,7.503937,520.034342,539.298396,datos.gov.co g48d-yu62
+2018,27,Chocó,27600,Río Quito,1123.317148,99.286092,1778.917196,3001.520436,datos.gov.co g48d-yu62
+2018,27,Chocó,27615,Riosucio,5.715371,247.466834,66.960397,320.142602,datos.gov.co g48d-yu62
+2018,27,Chocó,27660,San José del Palmar,0.0,2.259401,86.278096,88.537497,datos.gov.co g48d-yu62
+2018,27,Chocó,27745,Sipí,65.978418,0.0,589.183199,655.161617,datos.gov.co g48d-yu62
+2018,27,Chocó,27787,Tadó,43.944519,157.087593,1068.559726,1269.591838,datos.gov.co g48d-yu62
+2018,27,Chocó,27800,Unguía,0.0,0.0,85.679999,85.679999,datos.gov.co g48d-yu62
+2018,27,Chocó,27810,Unión Panamericana,252.560978,1249.061011,1604.349188,3105.971177,datos.gov.co g48d-yu62
+2018,52,Nariño,52079,Barbacoas,0.0,274.045833,1334.652096,1608.697929,datos.gov.co g48d-yu62
+2018,52,Nariño,52233,Cumbitara,0.0,0.0,5.371109,5.371109,datos.gov.co g48d-yu62
+2018,52,Nariño,52250,El Charco,0.0,0.0,206.505846,206.505846,datos.gov.co g48d-yu62
+2018,52,Nariño,52385,La Llanada,0.0,0.0,16.718845,16.718845,datos.gov.co g48d-yu62
+2018,52,Nariño,52418,Los Andes,0.0,0.0,25.862131,25.862131,datos.gov.co g48d-yu62
+2018,52,Nariño,52427,Magüí,0.0,8.0325,707.330251,715.362751,datos.gov.co g48d-yu62
+2018,52,Nariño,52621,Roberto Payán,0.0,5.2425,99.18347,104.42597,datos.gov.co g48d-yu62
+2018,52,Nariño,52696,Santa Bárbara,0.0,4.958408,162.789834,167.748242,datos.gov.co g48d-yu62
+2018,52,Nariño,52835,San Andrés de Tumaco,0.0,20.180954,50.458709,70.639663,datos.gov.co g48d-yu62
+2018,76,Valle Del Cauca,76109,Buenaventura,0.0,0.0,868.139993,868.139993,datos.gov.co g48d-yu62
+2018,76,Valle Del Cauca,76126,Calima,0.0,0.0,20.879999,20.879999,datos.gov.co g48d-yu62
+2018,86,Putumayo,86001,Mocoa,0.0,0.053706,40.127582,40.181288,datos.gov.co g48d-yu62
+2018,86,Putumayo,86320,Orito,0.0,0.0,56.880003,56.880003,datos.gov.co g48d-yu62
+2018,86,Putumayo,86568,Puerto Asís,0.0,0.0,8.055002,8.055002,datos.gov.co g48d-yu62
+2018,86,Putumayo,86569,Puerto Caicedo,0.0,0.0,91.124997,91.124997,datos.gov.co g48d-yu62
+2018,86,Putumayo,86571,Puerto Guzmán,0.0,64.482693,148.732144,213.214837,datos.gov.co g48d-yu62
+2018,86,Putumayo,86885,Villagarzón,5.959686,8.807933,13.041268,27.808887,datos.gov.co g48d-yu62
+2018,94,Guainía,94884,Puerto Colombia,0.0,0.0,57.864764,57.864764,datos.gov.co g48d-yu62
+2018,94,Guainía,94887,Pana Pana,0.0,0.0,80.937742,80.937742,datos.gov.co g48d-yu62
+2019,05,Antioquia,05031,Amalfi,275.622772,48.189633,1095.263166,1419.075571,datos.gov.co g48d-yu62
+2019,05,Antioquia,05040,Anorí,525.431377,49.007911,1287.837522,1862.27681,datos.gov.co g48d-yu62
+2019,05,Antioquia,05055,Argelia,0.0,0.0,3.756435,3.756435,datos.gov.co g48d-yu62
+2019,05,Antioquia,05120,Cáceres,1618.716187,505.367114,3468.090796,5592.174097,datos.gov.co g48d-yu62
+2019,05,Antioquia,05154,Caucasia,1262.932227,67.384971,505.457728,1835.774926,datos.gov.co g48d-yu62
+2019,05,Antioquia,05172,Chigorodó,0.0,0.0,54.168724,54.168724,datos.gov.co g48d-yu62
+2019,05,Antioquia,05234,Dabeiba,0.0,0.0,4.5,4.5,datos.gov.co g48d-yu62
+2019,05,Antioquia,05250,El Bagre,2857.650727,8.983083,2264.871634,5131.505444,datos.gov.co g48d-yu62
+2019,05,Antioquia,05480,Mutatá,150.6825,0.0,25.143777,175.826277,datos.gov.co g48d-yu62
+2019,05,Antioquia,05495,Nechí,4097.037812,30.733666,3361.234232,7489.00571,datos.gov.co g48d-yu62
+2019,05,Antioquia,05579,Puerto Berrío,0.0,0.0,143.062508,143.062508,datos.gov.co g48d-yu62
+2019,05,Antioquia,05585,Puerto Nare,0.0,0.0,176.010008,176.010008,datos.gov.co g48d-yu62
+2019,05,Antioquia,05604,Remedios,476.80743,251.943125,1309.327042,2038.077597,datos.gov.co g48d-yu62
+2019,05,Antioquia,05736,Segovia,519.955775,44.334425,1954.193354,2518.483554,datos.gov.co g48d-yu62
+2019,05,Antioquia,05756,Sonsón,11.395777,0.0,270.056727,281.452504,datos.gov.co g48d-yu62
+2019,05,Antioquia,05790,Tarazá,365.859947,347.278124,1102.398031,1815.536102,datos.gov.co g48d-yu62
+2019,05,Antioquia,05854,Valdivia,0.0,0.459309,501.344919,501.804228,datos.gov.co g48d-yu62
+2019,05,Antioquia,05858,Vegachí,195.928895,0.0,213.1184,409.047295,datos.gov.co g48d-yu62
+2019,05,Antioquia,05873,Vigía del Fuerte,0.0,0.0,37.057502,37.057502,datos.gov.co g48d-yu62
+2019,05,Antioquia,05885,Yalí,0.0,0.0,52.605754,52.605754,datos.gov.co g48d-yu62
+2019,05,Antioquia,05893,Yondó,0.0,10.478585,188.469161,198.947746,datos.gov.co g48d-yu62
+2019,05,Antioquia,05895,Zaragoza,5441.217287,294.043822,2726.075336,8461.33644499999,datos.gov.co g48d-yu62
+2019,13,Bolívar,13030,Altos del Rosario,3.8025,0.0,4.275,8.0775,datos.gov.co g48d-yu62
+2019,13,Bolívar,13042,Arenal,1.642501,0.0,19.349999,20.9925,datos.gov.co g48d-yu62
+2019,13,Bolívar,13074,Barranco de Loba,112.796511,0.411888,95.550682,208.759081,datos.gov.co g48d-yu62
+2019,13,Bolívar,13160,Cantagallo,0.0,0.0,1.17,1.17,datos.gov.co g48d-yu62
+2019,13,Bolívar,13458,Montecristo,1101.257353,613.350306,1744.240067,3458.847726,datos.gov.co g48d-yu62
+2019,13,Bolívar,13490,Norosí,253.852847,123.145759,441.920443,818.919049,datos.gov.co g48d-yu62
+2019,13,Bolívar,13600,Río Viejo,129.477559,111.475628,381.156221,622.109408,datos.gov.co g48d-yu62
+2019,13,Bolívar,13655,San Jacinto del Cauca,0.0,0.0,12.79648,12.79648,datos.gov.co g48d-yu62
+2019,13,Bolívar,13667,San Martín de Loba,127.624494,61.97351,324.590398,514.188402,datos.gov.co g48d-yu62
+2019,13,Bolívar,13670,San Pablo,0.0,0.0,93.224299,93.224299,datos.gov.co g48d-yu62
+2019,13,Bolívar,13688,Santa Rosa del Sur,836.101466,265.618947,1929.646619,3031.367032,datos.gov.co g48d-yu62
+2019,13,Bolívar,13744,Simití,978.795982,72.960512,625.866008,1677.622502,datos.gov.co g48d-yu62
+2019,13,Bolívar,13810,Tiquisio,48.423069,0.0,125.463477,173.886546,datos.gov.co g48d-yu62
+2019,17,Caldas,17380,La Dorada,0.313741,0.0,1.896163,2.209904,datos.gov.co g48d-yu62
+2019,17,Caldas,17495,Norcasia,0.0,0.0,75.233833,75.233833,datos.gov.co g48d-yu62
+2019,17,Caldas,17662,Samaná,0.0,0.0,0.158565,0.158565,datos.gov.co g48d-yu62
+2019,17,Caldas,17867,Victoria,30.404733,0.0,8.859028,39.263761,datos.gov.co g48d-yu62
+2019,18,Caquetá,18610,San José del Fragua,0.0,0.0,53.099995,53.099995,datos.gov.co g48d-yu62
+2019,19,Cauca,19100,Bolívar,0.0,0.0,38.935165,38.935165,datos.gov.co g48d-yu62
+2019,19,Cauca,19110,Buenos Aires,0.0,0.0,46.419248,46.419248,datos.gov.co g48d-yu62
+2019,19,Cauca,19256,El Tambo,0.0,0.0,45.607136,45.607136,datos.gov.co g48d-yu62
+2019,19,Cauca,19318,Guapi,0.0,0.545304,459.422207,459.967511,datos.gov.co g48d-yu62
+2019,19,Cauca,19392,La Sierra,0.0,0.0,32.066384,32.066384,datos.gov.co g48d-yu62
+2019,19,Cauca,19418,López de Micay,0.0,0.0,535.262906,535.262906,datos.gov.co g48d-yu62
+2019,19,Cauca,19450,Mercaderes,0.0,0.0,87.739826,87.739826,datos.gov.co g48d-yu62
+2019,19,Cauca,19532,Patía,0.0,0.0,5.318591,5.318591,datos.gov.co g48d-yu62
+2019,19,Cauca,19533,Piamonte,0.0,0.0,45.517493,45.517493,datos.gov.co g48d-yu62
+2019,19,Cauca,19698,Santander de Quilichao,0.0,0.0,58.183251,58.183251,datos.gov.co g48d-yu62
+2019,19,Cauca,19809,Timbiquí,684.002512,127.445117,530.722375,1342.170004,datos.gov.co g48d-yu62
+2019,23,Córdoba,23068,Ayapel,82.555814,20.639962,4694.922851,4798.118627,datos.gov.co g48d-yu62
+2019,23,Córdoba,23350,La Apartada,0.0,0.0,10.935001,10.935001,datos.gov.co g48d-yu62
+2019,23,Córdoba,23580,Puerto Libertador,45.427501,0.0,0.0,45.427501,datos.gov.co g48d-yu62
+2019,23,Córdoba,23682,San José de Uré,104.303313,0.0,17.41113,121.714443,datos.gov.co g48d-yu62
+2019,27,Chocó,27001,Quibdó,28.537451,4.060448,1814.740913,1847.338812,datos.gov.co g48d-yu62
+2019,27,Chocó,27006,Acandí,0.0,0.0,67.230001,67.230001,datos.gov.co g48d-yu62
+2019,27,Chocó,27050,Atrato,0.0,59.644588,920.124297,979.768885,datos.gov.co g48d-yu62
+2019,27,Chocó,27073,Bagadó,44.032876,0.0,245.875465,289.908341,datos.gov.co g48d-yu62
+2019,27,Chocó,27135,El Cantón del San Pablo,0.0,116.272156,4952.979984,5069.25214,datos.gov.co g48d-yu62
+2019,27,Chocó,27150,Carmen del Darién,0.0,0.0,1.629906,1.629906,datos.gov.co g48d-yu62
+2019,27,Chocó,27160,Cértegui,12.490782,117.163018,1415.182113,1544.835913,datos.gov.co g48d-yu62
+2019,27,Chocó,27205,Condoto,333.783937,891.994612,1252.432302,2478.210851,datos.gov.co g48d-yu62
+2019,27,Chocó,27361,Istmina,2022.000363,5.49485,2475.530757,4503.02597,datos.gov.co g48d-yu62
+2019,27,Chocó,27413,Lloró,0.0,6.624512,613.476328,620.10084,datos.gov.co g48d-yu62
+2019,27,Chocó,27425,Medio Atrato,50.537179,286.006372,1775.778386,2112.321937,datos.gov.co g48d-yu62
+2019,27,Chocó,27430,Medio Baudó,2.339692,0.0,2.809561,5.149253,datos.gov.co g48d-yu62
+2019,27,Chocó,27450,Medio San Juan,0.0,52.554107,1342.981531,1395.535638,datos.gov.co g48d-yu62
+2019,27,Chocó,27491,Nóvita,1366.125127,185.985242,3774.365754,5326.476123,datos.gov.co g48d-yu62
+2019,27,Chocó,27580,Río Iró,8.926679,6.524409,339.02283,354.473918,datos.gov.co g48d-yu62
+2019,27,Chocó,27600,Río Quito,26.156987,242.171353,3210.899125,3479.227465,datos.gov.co g48d-yu62
+2019,27,Chocó,27615,Riosucio,3.258348,0.0,240.249241,243.507589,datos.gov.co g48d-yu62
+2019,27,Chocó,27660,San José del Palmar,0.0,0.0,37.912504,37.912504,datos.gov.co g48d-yu62
+2019,27,Chocó,27745,Sipí,75.110863,0.0,567.34596,642.456823,datos.gov.co g48d-yu62
+2019,27,Chocó,27787,Tadó,26.945114,134.409538,843.182748,1004.5374,datos.gov.co g48d-yu62
+2019,27,Chocó,27800,Unguía,0.0,0.0,37.642498,37.642498,datos.gov.co g48d-yu62
+2019,27,Chocó,27810,Unión Panamericana,240.811994,1212.284412,1611.80572,3064.902126,datos.gov.co g48d-yu62
+2019,52,Nariño,52079,Barbacoas,0.0,269.538177,1400.92174,1670.459917,datos.gov.co g48d-yu62
+2019,52,Nariño,52250,El Charco,0.0,0.0,220.725843,220.725843,datos.gov.co g48d-yu62
+2019,52,Nariño,52385,La Llanada,0.0,0.0,17.077499,17.077499,datos.gov.co g48d-yu62
+2019,52,Nariño,52418,Los Andes,0.0,0.0,19.41208,19.41208,datos.gov.co g48d-yu62
+2019,52,Nariño,52427,Magüí,0.0,16.776701,885.929555,902.706256,datos.gov.co g48d-yu62
+2019,52,Nariño,52621,Roberto Payán,0.0,6.525001,103.510966,110.035967,datos.gov.co g48d-yu62
+2019,52,Nariño,52696,Santa Bárbara,0.0,8.773344,166.017405,174.790749,datos.gov.co g48d-yu62
+2019,52,Nariño,52835,San Andrés de Tumaco,0.0,7.364397,48.644753,56.00915,datos.gov.co g48d-yu62
+2019,73,Tolima,73217,Coyaima,27.584093,0.0,2.543402,30.127495,datos.gov.co g48d-yu62
+2019,76,Valle Del Cauca,76109,Buenaventura,0.0,0.0,596.217136,596.217136,datos.gov.co g48d-yu62
+2019,76,Valle Del Cauca,76126,Calima,0.0,0.0,11.822867,11.822867,datos.gov.co g48d-yu62
+2019,86,Putumayo,86001,Mocoa,0.0,0.0,33.345327,33.345327,datos.gov.co g48d-yu62
+2019,86,Putumayo,86320,Orito,0.0,0.0,39.8925,39.8925,datos.gov.co g48d-yu62
+2019,86,Putumayo,86568,Puerto Asís,0.0,0.0,8.3475,8.3475,datos.gov.co g48d-yu62
+2019,86,Putumayo,86569,Puerto Caicedo,0.0,0.0,60.907502,60.907502,datos.gov.co g48d-yu62
+2019,86,Putumayo,86571,Puerto Guzmán,0.0,0.0,123.817171,123.817171,datos.gov.co g48d-yu62
+2019,86,Putumayo,86885,Villagarzón,6.056318,0.0,18.738684,24.795002,datos.gov.co g48d-yu62
+2019,94,Guainía,94001,Inírida,0.0,0.0,12.015001,12.015001,datos.gov.co g48d-yu62
+2019,94,Guainía,94884,Puerto Colombia,0.0,0.0,45.266077,45.266077,datos.gov.co g48d-yu62
+2019,94,Guainía,94887,Pana Pana,0.0,0.0,77.538921,77.538921,datos.gov.co g48d-yu62
+2020,05,Antioquia,05031,Amalfi,268.903049,35.146783,1119.003327,1423.053159,datos.gov.co g48d-yu62
+2020,05,Antioquia,05040,Anorí,547.850897,12.486491,1438.754114,1999.091502,datos.gov.co g48d-yu62
+2020,05,Antioquia,05055,Argelia,0.0,0.0,3.756435,3.756435,datos.gov.co g48d-yu62
+2020,05,Antioquia,05120,Cáceres,1556.082706,470.064684,3258.462839,5284.610229,datos.gov.co g48d-yu62
+2020,05,Antioquia,05154,Caucasia,887.515838,91.075423,1068.594379,2047.18564,datos.gov.co g48d-yu62
+2020,05,Antioquia,05172,Chigorodó,0.0,0.0,65.006929,65.006929,datos.gov.co g48d-yu62
+2020,05,Antioquia,05234,Dabeiba,0.0,0.0,6.66,6.66,datos.gov.co g48d-yu62
+2020,05,Antioquia,05250,El Bagre,2757.129797,21.670093,2064.171147,4842.971037,datos.gov.co g48d-yu62
+2020,05,Antioquia,05284,Frontino,8.505001,0.0,0.0,8.505001,datos.gov.co g48d-yu62
+2020,05,Antioquia,05480,Mutatá,158.6925,0.0,22.855571,181.548071,datos.gov.co g48d-yu62
+2020,05,Antioquia,05495,Nechí,4297.484377,44.238227,3654.707001,7996.429605,datos.gov.co g48d-yu62
+2020,05,Antioquia,05579,Puerto Berrío,0.0,0.012796,130.967206,130.980002,datos.gov.co g48d-yu62
+2020,05,Antioquia,05585,Puerto Nare,0.0,0.0,175.582513,175.582513,datos.gov.co g48d-yu62
+2020,05,Antioquia,05604,Remedios,678.061768,209.002111,1459.477458,2346.541337,datos.gov.co g48d-yu62
+2020,05,Antioquia,05736,Segovia,854.51349,35.364159,1589.449456,2479.327105,datos.gov.co g48d-yu62
+2020,05,Antioquia,05756,Sonsón,130.516064,21.849043,129.784897,282.150004,datos.gov.co g48d-yu62
+2020,05,Antioquia,05790,Tarazá,266.949811,403.786267,978.381077,1649.117155,datos.gov.co g48d-yu62
+2020,05,Antioquia,05847,Urrao,5.8725,0.0,0.0,5.8725,datos.gov.co g48d-yu62
+2020,05,Antioquia,05854,Valdivia,0.0,129.510881,296.684515,426.195396,datos.gov.co g48d-yu62
+2020,05,Antioquia,05858,Vegachí,184.610175,0.0,217.401082,402.011257,datos.gov.co g48d-yu62
+2020,05,Antioquia,05873,Vigía del Fuerte,0.0,0.0,73.192504,73.192504,datos.gov.co g48d-yu62
+2020,05,Antioquia,05885,Yalí,4.904999,0.0,14.398026,19.303025,datos.gov.co g48d-yu62
+2020,05,Antioquia,05893,Yondó,0.0,84.589555,113.968266,198.557821,datos.gov.co g48d-yu62
+2020,05,Antioquia,05895,Zaragoza,6633.406001,247.452556,1961.074277,8841.932834,datos.gov.co g48d-yu62
+2020,13,Bolívar,13030,Altos del Rosario,7.147148,0.0,4.139485,11.286633,datos.gov.co g48d-yu62
+2020,13,Bolívar,13042,Arenal,7.543859,0.0,67.268637,74.812496,datos.gov.co g48d-yu62
+2020,13,Bolívar,13074,Barranco de Loba,85.408602,11.940057,102.672093,200.020752,datos.gov.co g48d-yu62
+2020,13,Bolívar,13458,Montecristo,622.42958,0.0,2477.364619,3099.794199,datos.gov.co g48d-yu62
+2020,13,Bolívar,13490,Norosí,201.873725,112.495253,558.52365,872.892628,datos.gov.co g48d-yu62
+2020,13,Bolívar,13600,Río Viejo,18.566547,0.0,683.668531,702.235078,datos.gov.co g48d-yu62
+2020,13,Bolívar,13655,San Jacinto del Cauca,0.0,0.0,17.801152,17.801152,datos.gov.co g48d-yu62
+2020,13,Bolívar,13667,San Martín de Loba,133.477344,79.074597,299.313168,511.865109,datos.gov.co g48d-yu62
+2020,13,Bolívar,13670,San Pablo,0.0,0.0,133.460758,133.460758,datos.gov.co g48d-yu62
+2020,13,Bolívar,13688,Santa Rosa del Sur,430.08239,62.454574,2442.780715,2935.317679,datos.gov.co g48d-yu62
+2020,13,Bolívar,13744,Simití,266.041003,87.011399,1524.730099,1877.782501,datos.gov.co g48d-yu62
+2020,13,Bolívar,13810,Tiquisio,13.433912,0.0,132.23838,145.672292,datos.gov.co g48d-yu62
+2020,17,Caldas,17380,La Dorada,0.313741,0.0,1.896163,2.209904,datos.gov.co g48d-yu62
+2020,17,Caldas,17495,Norcasia,0.0,0.0,70.171334,70.171334,datos.gov.co g48d-yu62
+2020,17,Caldas,17662,Samaná,0.0,0.0,0.158565,0.158565,datos.gov.co g48d-yu62
+2020,17,Caldas,17867,Victoria,30.426603,0.0,8.837158,39.263761,datos.gov.co g48d-yu62
+2020,18,Caquetá,18205,Curillo,0.0,0.0,0.892785,0.892785,datos.gov.co g48d-yu62
+2020,18,Caquetá,18610,San José del Fragua,0.0,0.0,77.42971,77.42971,datos.gov.co g48d-yu62
+2020,19,Cauca,19100,Bolívar,0.0,0.0,41.262527,41.262527,datos.gov.co g48d-yu62
+2020,19,Cauca,19110,Buenos Aires,0.0,0.0,46.419248,46.419248,datos.gov.co g48d-yu62
+2020,19,Cauca,19256,El Tambo,0.0,19.174522,8.612572,27.787094,datos.gov.co g48d-yu62
+2020,19,Cauca,19318,Guapi,0.0,3.250639,446.141864,449.392503,datos.gov.co g48d-yu62
+2020,19,Cauca,19392,La Sierra,0.0,8.369419,10.463488,18.832907,datos.gov.co g48d-yu62
+2020,19,Cauca,19418,López de Micay,0.0,0.0,570.420002,570.420002,datos.gov.co g48d-yu62
+2020,19,Cauca,19450,Mercaderes,0.0,0.0,91.329963,91.329963,datos.gov.co g48d-yu62
+2020,19,Cauca,19532,Patía,0.0,0.0,0.135,0.135,datos.gov.co g48d-yu62
+2020,19,Cauca,19533,Piamonte,0.0,0.0,51.142492,51.142492,datos.gov.co g48d-yu62
+2020,19,Cauca,19698,Santander de Quilichao,0.0,0.0,60.815749,60.815749,datos.gov.co g48d-yu62
+2020,19,Cauca,19701,Santa Rosa,0.0,0.0,27.832503,27.832503,datos.gov.co g48d-yu62
+2020,19,Cauca,19809,Timbiquí,0.0,320.559333,1101.373169,1421.932502,datos.gov.co g48d-yu62
+2020,23,Córdoba,23068,Ayapel,78.390333,347.618587,4341.734643,4767.743563,datos.gov.co g48d-yu62
+2020,23,Córdoba,23350,La Apartada,0.0,0.0,15.839999,15.839999,datos.gov.co g48d-yu62
+2020,23,Córdoba,23580,Puerto Libertador,0.0,0.0,48.847505,48.847505,datos.gov.co g48d-yu62
+2020,23,Córdoba,23682,San José de Uré,0.0,0.0,142.190383,142.190383,datos.gov.co g48d-yu62
+2020,27,Chocó,27001,Quibdó,139.004865,0.0,2027.616885,2166.62175,datos.gov.co g48d-yu62
+2020,27,Chocó,27006,Acandí,0.0,0.0,43.379999,43.379999,datos.gov.co g48d-yu62
+2020,27,Chocó,27050,Atrato,0.469211,1.807755,1003.815178,1006.092144,datos.gov.co g48d-yu62
+2020,27,Chocó,27073,Bagadó,48.176929,0.0,286.818784,334.995713,datos.gov.co g48d-yu62
+2020,27,Chocó,27135,El Cantón del San Pablo,0.0,49.699779,5203.474824,5253.174603,datos.gov.co g48d-yu62
+2020,27,Chocó,27150,Carmen del Darién,0.0,0.0,2.436715,2.436715,datos.gov.co g48d-yu62
+2020,27,Chocó,27160,Cértegui,0.0,183.783075,1404.852231,1588.635306,datos.gov.co g48d-yu62
+2020,27,Chocó,27205,Condoto,88.797407,796.798135,1636.898914,2522.494456,datos.gov.co g48d-yu62
+2020,27,Chocó,27361,Istmina,1639.87199,0.0,2952.73367,4592.60566,datos.gov.co g48d-yu62
+2020,27,Chocó,27413,Lloró,0.0,0.0,624.53334,624.53334,datos.gov.co g48d-yu62
+2020,27,Chocó,27425,Medio Atrato,55.256114,343.455265,1935.476864,2334.188243,datos.gov.co g48d-yu62
+2020,27,Chocó,27430,Medio Baudó,2.339692,0.0,2.809561,5.149253,datos.gov.co g48d-yu62
+2020,27,Chocó,27450,Medio San Juan,0.0,144.008017,1283.612617,1427.620634,datos.gov.co g48d-yu62
+2020,27,Chocó,27491,Nóvita,1000.128381,267.061276,4054.504304,5321.693961,datos.gov.co g48d-yu62
+2020,27,Chocó,27580,Río Iró,0.0,8.329756,388.20366,396.533416,datos.gov.co g48d-yu62
+2020,27,Chocó,27600,Río Quito,0.0,411.943193,3398.237911,3810.181104,datos.gov.co g48d-yu62
+2020,27,Chocó,27615,Riosucio,3.760636,0.0,297.552653,301.313289,datos.gov.co g48d-yu62
+2020,27,Chocó,27660,San José del Palmar,0.0,0.0,36.382504,36.382504,datos.gov.co g48d-yu62
+2020,27,Chocó,27745,Sipí,82.327442,0.0,577.910037,660.237479,datos.gov.co g48d-yu62
+2020,27,Chocó,27787,Tadó,25.18447,135.670539,824.590371,985.445379999999,datos.gov.co g48d-yu62
+2020,27,Chocó,27800,Unguía,0.0,0.0,60.637502,60.637502,datos.gov.co g48d-yu62
+2020,27,Chocó,27810,Unión Panamericana,60.402875,1185.79834,1831.14628,3077.347495,datos.gov.co g48d-yu62
+2020,52,Nariño,52079,Barbacoas,0.0,410.266312,1236.083058,1646.34937,datos.gov.co g48d-yu62
+2020,52,Nariño,52250,El Charco,0.0,0.0,251.230335,251.230335,datos.gov.co g48d-yu62
+2020,52,Nariño,52385,La Llanada,0.0,0.0,5.893655,5.893655,datos.gov.co g48d-yu62
+2020,52,Nariño,52418,Los Andes,0.0,0.0,34.003104,34.003104,datos.gov.co g48d-yu62
+2020,52,Nariño,52427,Magüí,359.026584,24.091561,651.369608,1034.487753,datos.gov.co g48d-yu62
+2020,52,Nariño,52621,Roberto Payán,0.0,3.78,120.567566,124.347566,datos.gov.co g48d-yu62
+2020,52,Nariño,52678,Samaniego,0.0,0.0,9.860006,9.860006,datos.gov.co g48d-yu62
+2020,52,Nariño,52696,Santa Bárbara,0.0,11.802849,199.730398,211.533247,datos.gov.co g48d-yu62
+2020,52,Nariño,52835,San Andrés de Tumaco,0.0,16.639262,39.800679,56.439941,datos.gov.co g48d-yu62
+2020,73,Tolima,73217,Coyaima,25.021319,0.0,2.068678,27.089997,datos.gov.co g48d-yu62
+2020,76,Valle Del Cauca,76109,Buenaventura,0.0,0.0,755.572507,755.572507,datos.gov.co g48d-yu62
+2020,76,Valle Del Cauca,76126,Calima,0.0,0.0,9.157501,9.157501,datos.gov.co g48d-yu62
+2020,86,Putumayo,86001,Mocoa,0.0,0.0,46.453122,46.453122,datos.gov.co g48d-yu62
+2020,86,Putumayo,86320,Orito,0.0,0.0,48.2625,48.2625,datos.gov.co g48d-yu62
+2020,86,Putumayo,86568,Puerto Asís,0.0,0.0,8.942734,8.942734,datos.gov.co g48d-yu62
+2020,86,Putumayo,86569,Puerto Caicedo,0.0,0.0,72.282263,72.282263,datos.gov.co g48d-yu62
+2020,86,Putumayo,86571,Puerto Guzmán,0.0,11.631589,180.685286,192.316875,datos.gov.co g48d-yu62
+2020,86,Putumayo,86885,Villagarzón,11.155138,11.443736,13.716128,36.315002,datos.gov.co g48d-yu62
+2020,94,Guainía,94001,Inírida,0.0,0.0,12.555002,12.555002,datos.gov.co g48d-yu62
+2020,94,Guainía,94884,Puerto Colombia,0.0,0.0,73.270222,73.270222,datos.gov.co g48d-yu62
+2020,94,Guainía,94887,Pana Pana,0.0,0.0,98.989764,98.989764,datos.gov.co g48d-yu62
+2021,05,Antioquia,05031,Amalfi,289.5876616,23.89699374,1015.2321028,1328.71675445,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05040,Anorí,485.52188151,16.81790108,1226.8360427700002,1729.17582228,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05055,Argelia,0.0,0.0,3.75643519,3.756435,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05120,Cáceres,1510.74027625,272.03535662,3188.80536463,4971.58100407,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05154,Caucasia,1331.59676975,113.13294478,561.3337092300001,2006.06342516,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05172,Chigorodó,0.0,0.0,23.16722107,23.167220920000002,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05234,Dabeiba,0.0,0.0,12.9375,12.9375,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05250,El Bagre,2885.36761826,18.23161428,1665.53700168,4569.13623267,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05284,Frontino,7.2675,0.0,0.0,7.2675,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05480,Mutatá,162.27000002,0.0,10.35777894,172.62777909,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05495,Nechí,4265.88967985,4.23879627,3338.83983262,7608.9683075,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05579,Puerto Berrío,0.0,0.27640262,116.45185357,116.72825651000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05585,Puerto Nare,0.0,0.0,161.97924383,161.97924348,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05604,Remedios,710.87631638,90.96215893,1409.02360924,2210.86208824,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05736,Segovia,695.30245293,27.13006556,1142.4744976499999,1864.90701996,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05756,Sonsón,113.67379492,15.81224273,148.45646238,277.9425,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05790,Tarazá,262.23843972000003,353.02605475999997,903.35214346,1518.61664202,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05854,Valdivia,0.0,115.97486443,269.26806816,385.24292618,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05858,Vegachí,184.99152865,0.53735865,174.81756923999998,360.34645188999997,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05873,Vigía del Fuerte,0.0,0.0,89.75250001,89.75250003,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05885,Yalí,8.72886873,14.1608106,39.34539694,62.23507681,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05890,Yolombó,0.0,0.0,2.29492374,2.2949232,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05893,Yondó,0.0,0.0,234.39516824,234.39516914,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,05,Antioquia,05895,Zaragoza,6342.44883219,202.90778373999999,1323.58858504,7868.94520476,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13030,Altos del Rosario,4.36500001,0.0,7.5825,11.9475,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13042,Arenal,2.97,0.0,46.035,49.005,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13074,Barranco de Loba,108.73174838999999,8.16984053,86.31304827,203.21463876,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13458,Montecristo,679.00173633,0.0,1771.7382379599999,2450.73997568,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13490,Norosí,431.18656569,115.81111016,416.01141315,963.0090864699999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13600,Río Viejo,112.19983875,0.0,500.03779561,612.23763524,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13655,San Jacinto del Cauca,0.0,0.0,16.2225,16.2225,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13667,San Martín de Loba,132.85143028,54.32421683,309.53971568,496.71536127,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13670,San Pablo,0.0,0.0,110.63263887000001,110.63263911,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13688,Santa Rosa del Sur,632.39902777,48.603622959999996,1728.19113313,2409.19378143,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13744,Simití,1018.28178702,92.22944226,929.31627072,2039.82749995,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,13,Bolívar,13810,Tiquisio,34.78155752,0.0,74.6817192,109.46327831,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,17,Caldas,17380,La Dorada,0.0,0.0,2.71854817,2.7185472,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,17,Caldas,17495,Norcasia,0.0,0.0,32.13,32.13000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,17,Caldas,17662,Samaná,0.0,0.0,0.15856481,0.158565,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,17,Caldas,17867,Victoria,0.0,0.0,33.82145182,33.8214528,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,18,Caquetá,18205,Curillo,0.0,0.0,2.20295762,2.20295768,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,18,Caquetá,18610,San José del Fragua,0.0,0.0,98.88954238,98.88954231999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19100,Bolívar,0.0,0.0,44.06243875,44.06243767,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19110,Buenos Aires,0.0,0.0,39.05111035,39.05111048,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19256,El Tambo,0.0,21.69147975,8.73497143,30.42645088,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19318,Guapi,0.0,6.05413171,547.97176215,554.025894,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19392,La Sierra,0.0,9.69005935,10.46348947,20.15354912,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19418,López de Micay,0.0,0.0,482.55750001,482.55749997,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19450,Mercaderes,0.0,0.0,91.36506126,91.36506233,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19532,Patía,0.0,0.0,0.135,0.135,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19533,Piamonte,0.0,0.0,45.53999999,45.54,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19698,Santander de Quilichao,0.0,0.0,57.76638966,57.76638953,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,19,Cauca,19809,Timbiquí,747.81578216,64.54308208,554.2602415599999,1366.6191059999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,23,Córdoba,23068,Ayapel,65.87133627,320.1095888,3970.6957805499997,4356.67669305,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,23,Córdoba,23350,La Apartada,0.0,0.0,18.2475,18.24749999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,23,Córdoba,23580,Puerto Libertador,0.0,0.0,66.105,66.10499999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,23,Córdoba,23682,San José de Uré,0.0,0.0,138.81985243,138.81985043,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27001,Quibdó,198.74715444,0.63,2038.55844102,2237.9355943299997,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27006,Acandí,0.0,0.0,51.6375,51.6375,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27050,Atrato,1.79974422,15.278690870000002,1049.4378508300001,1066.51628601,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27073,Bagadó,49.30455517,0.0,287.67632584,336.98088062,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27135,El Cantón del San Pablo,0.0,45.05347552,5597.91953525,5642.9730079500005,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27150,Carmen del Darién,0.0,0.0,1.53990589,1.53990585,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27160,Cértegui,13.630003969999999,187.73725923,1543.69034574,1745.05761262,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27205,Condoto,383.91058771,870.03349672,1415.4753989600001,2669.41947688,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27361,Istmina,2105.2953577599997,0.0,2626.10589318,4731.40125387,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27413,Lloró,0.0,0.0,634.29225144,634.292251,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27425,Medio Atrato,56.65111005,362.07463324,2047.0986612,2465.8244056800004,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27430,Medio Baudó,2.3396932300000004,0.0,2.80956235,5.149254559999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27450,Medio San Juan,0.0,187.05697898000003,1456.68875475,1643.7457347,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27491,Nóvita,1395.8676271000002,232.88979367,4047.39926405,5676.15668861,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27580,Río Iró,9.16773378,8.3297576,459.1079341,476.60542743,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27600,Río Quito,0.0,439.47890885000004,3851.36916178,4290.84806565,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27615,Riosucio,3.01813711,0.0,270.68445699,273.70259417,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27660,San José del Palmar,0.0,0.0,38.542500000000004,38.54249998,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27745,Sipí,91.11774605,0.0,666.72702373,757.84476982,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27787,Tadó,27.66596745,141.74968562,837.5637825800001,1006.97944062,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27800,Unguía,0.0,0.0,84.2175,84.2175,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,27,Chocó,27810,Unión Panamericana,272.20098826000003,1190.44535299,1679.83851004,3142.4848498700003,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,44,La Guajira,44090,Dibulla,0.0,0.0,1.9125,1.9125,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52079,Barbacoas,144.20315011000002,387.65965838,1187.02906444,1718.8918623099999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52250,El Charco,0.0,0.0,233.416357,233.41635639,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52385,La Llanada,0.0,0.0,2.67618591,2.676186,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52418,Los Andes,3.84729234,0.0,91.10381409,94.95110711999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52427,Magüí,397.04758797,24.21793489,891.15928676,1312.42482035,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52621,Roberto Payán,0.0,6.0075,116.55365065,122.56115014,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52678,Samaniego,0.0,0.0,4.58850317,4.5885033,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52696,Santa Bárbara,0.0,11.49023317,216.02480675,227.51504082,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,52,Nariño,52835,San Andrés de Tumaco,0.0,0.0,46.50497437,46.50497355,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,73,Tolima,73217,Coyaima,25.81558605,0.0,2.33191395,28.1475,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,76,Valle Del Cauca,76109,Buenaventura,2.80229529,0.0,563.50020471,566.30249999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,76,Valle Del Cauca,76126,Calima,0.0,0.0,9.15749999,9.1575,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,86,Putumayo,86001,Mocoa,0.0,1.74576315,69.74130124000001,71.48706306,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,86,Putumayo,86320,Orito,0.0,0.0,51.63749999,51.6375,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,86,Putumayo,86568,Puerto Asís,0.0,0.0,10.81635922,10.81635916,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,86,Putumayo,86569,Puerto Caicedo,0.0,0.0,91.49114079,91.49114086,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,86,Putumayo,86571,Puerto Guzmán,0.0,15.05069934,228.21473629,243.26543697,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,86,Putumayo,86885,Villagarzón,15.79187287,18.905981519999997,22.497145609999997,57.19499999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,94,Guainía,94001,Inírida,0.0,0.0,13.77,13.77,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,94,Guainía,94884,Puerto Colombia,0.0,0.0,49.99160856,49.99160813,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2021,94,Guainía,94887,Pana Pana,0.0,0.0,87.16839146000001,87.16839187,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05031,Amalfi,120.87126381,0.0,839.1341328,960.005394,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05038,Angostura,0.0,0.0,1.1925,1.1925,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05040,Anorí,296.76547836,10.66011022,1031.08100751,1338.5065940799998,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05120,Cáceres,1573.1276097,156.24440683999998,3206.3471988399997,4935.7192048,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05142,Caracolí,0.0,0.8325,7.46749902,8.29999902,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05154,Caucasia,1425.3447184000001,53.372160820000005,704.6074803500001,2183.32435933,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05250,El Bagre,2634.72104834,0.0,1763.0520209,4397.7730695499995,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05425,Maceo,6.2775,0.0,52.51750098,58.79500098,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05480,Mutatá,151.55999954,0.0,2.9810164,154.54101642,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05495,Nechí,4187.600164580001,42.14116003,3499.56774537,7729.30906517,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05579,Puerto Berrío,0.0,0.31329891,124.87763515,125.1909355,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05585,Puerto Nare,0.0,0.0,155.04656467,155.04656449,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05604,Remedios,365.16238956,82.1246244,1037.46617194,1484.75318715,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05670,San Roque,5.00892142,0.0,0.8325,5.84142142,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05690,Santo Domingo,0.44087824,0.0,0.01770034,0.45857858,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05736,Segovia,461.7042253000001,20.56339422,885.57483125,1367.84245027,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05756,Sonsón,90.66627757,0.0,146.95622072,237.62250003,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05790,Tarazá,49.52354517,283.46065165,1159.64980529,1492.63400322,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05854,Valdivia,0.0,63.72760054,311.28145685,375.00905967,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05858,Vegachí,183.72883798,0.0,143.41684178,327.14568065,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05873,Vigía del Fuerte,0.0,0.0,68.28750203,68.28750001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05885,Yalí,0.3375,1.54367064,74.70263758,76.58380843,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05890,Yolombó,1.0651366,0.0,9.69605521,10.76119158,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05893,Yondó,0.0,46.35424519,141.75470602000001,188.10895068000002,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,05,Antioquia,05895,Zaragoza,4936.17638466,219.15888629,2493.4868488,7648.82210621,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13030,Altos del Rosario,4.70249948,0.0,15.028271610000001,19.73077154,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13042,Arenal,3.51000006,0.0,51.86249884,55.3725,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13074,Barranco de Loba,145.01582047,13.56400759,134.45525022,293.03507932,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13458,Montecristo,136.12110984,0.0,1442.6980842100002,1578.81919166,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13490,Norosí,410.63109478,135.80815239,524.439256,1070.87850317,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13600,Río Viejo,113.10357336999999,0.0,563.0498594500001,676.15343203,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13655,San Jacinto del Cauca,0.0,0.0,12.66749995,12.6675,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13667,San Martín de Loba,141.07760698,69.80771838,436.08632627,646.97164909,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13670,San Pablo,0.0,0.0,119.00249987,119.00249999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13688,Santa Rosa del Sur,67.15729422999999,30.9609252,928.75136201,1026.86957644,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13744,Simití,899.18502429,68.01619388,1142.0387815899999,2109.24000002,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,13,Bolívar,13810,Tiquisio,17.95321501,0.0,142.18234979,160.13556481,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,17,Caldas,17380,La Dorada,0.0,0.0,4.17447957,4.17447942,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,17,Caldas,17495,Norcasia,0.0,0.0,36.89999899,36.9,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,17,Caldas,17867,Victoria,0.0,0.0,36.21302033,36.21302058,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,18,Caquetá,18205,Curillo,0.0,0.0,2.72249999,2.72249999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,18,Caquetá,18610,San José del Fragua,0.0,0.0,130.86000113,130.85999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19100,Bolívar,0.0,0.0,39.20464619,39.2046462,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19110,Buenos Aires,0.0,0.0,39.34361038,39.34361035,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19256,El Tambo,0.0,16.00441157,20.083190709999997,36.08760248,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19318,Guapi,0.0,4.56949732,469.91488204999996,474.48437594,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19392,La Sierra,0.0,8.12421877,10.28010485,18.40432325,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19418,López de Micay,0.0,0.0,660.94057398,660.94057431,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19450,Mercaderes,0.0,0.0,74.51035367,74.51035379999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19533,Piamonte,0.0,0.0,63.225001209999995,63.22499999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19698,Santander de Quilichao,0.0,0.0,59.0713898,59.07138965,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,19,Cauca,19809,Timbiquí,738.05212595,20.15195091,550.59404708,1308.79812417,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,23,Córdoba,23068,Ayapel,0.0,408.20625494,4468.15295385,4876.35920558,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,23,Córdoba,23350,La Apartada,0.0,0.0,30.33000012,30.33,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,23,Córdoba,23580,Puerto Libertador,0.0,0.0,74.92499981,74.92499999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,23,Córdoba,23682,San José de Uré,0.0,0.0,154.77390102,154.77390167000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27001,Quibdó,214.0861248,0.0,1953.51040906,2167.5965312900003,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27006,Acandí,0.0,0.0,28.64250041,28.6425,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27050,Atrato,2.02868647,1.69525509,1034.83265042,1038.55658847,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27073,Bagadó,38.61000071,0.0,247.85263978,286.46264119999995,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27135,El Cantón del San Pablo,0.0,43.69372465,5856.366069629999,5900.0597982,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27160,Cértegui,7.99974797,151.59406764,1665.52261352,1825.11642547,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27205,Condoto,115.61122399,790.47236403,1527.46522653,2433.54882325,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27250,El Litoral del San Juan,0.0,0.0,0.7425,0.7425,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27361,Istmina,50.88771851,0.0,4706.796283209999,4757.6839987,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27413,Lloró,0.0,0.0,608.58795527,608.5879561300001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27425,Medio Atrato,0.0,382.92133758,1985.74777607,2368.66911047,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27430,Medio Baudó,0.0,0.0,8.39603343,8.3960334,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27450,Medio San Juan,0.0,169.38290511,1401.08675631,1570.46966222,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27491,Nóvita,0.0,210.24959589000002,5134.518233729999,5344.76782626,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27580,Río Iró,8.71463804,8.64707848,443.994461,461.35617873,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27600,Río Quito,0.0,431.15472491,3929.38130809,4360.53602595,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27615,Riosucio,0.0,0.0,223.39148483999998,223.39148362,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27660,San José del Palmar,0.0,0.0,25.24500002,25.245,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27745,Sipí,76.55723418,0.0,588.7125194,665.2697526200001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27787,Tadó,13.71838823,54.59705817,707.4555798,775.77102388,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27800,Unguía,0.0,0.0,45.11249958,45.1125,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,27,Chocó,27810,Unión Panamericana,90.77403598999999,1039.3809715,1814.48661349,2944.64162376,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,44,La Guajira,44090,Dibulla,0.0,0.0,6.16500025,6.165,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,52,Nariño,52079,Barbacoas,0.0,207.07925141,1621.03550539,1828.11476097,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,52,Nariño,52250,El Charco,0.0,0.0865118,274.60374528,274.69025611,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,52,Nariño,52385,La Llanada,0.0,0.0,3.08118622,3.08118591,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,52,Nariño,52418,Los Andes,0.0,0.0,117.22610814,117.22610643,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,52,Nariño,52427,Magüí,434.74453445,33.82892393,980.30314448,1448.87660031,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,52,Nariño,52621,Roberto Payán,0.0,5.4224999700000005,168.39507779000002,173.81757625,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,52,Nariño,52696,Santa Bárbara,0.0,27.38254236,295.21749604999997,322.60003994,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,52,Nariño,52835,San Andrés de Tumaco,0.0,0.0,67.42097246,67.42097412000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,73,Tolima,73067,Ataco,11.16,0.0,0.6075,11.7675,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,73,Tolima,73168,Chaparral,0.0,0.0,3.105,3.105,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,73,Tolima,73217,Coyaima,24.48482126,0.0,2.06517888,26.55,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,76,Valle Del Cauca,76109,Buenaventura,0.0,1.3851121,630.63988714,632.02500007,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,76,Valle Del Cauca,76126,Calima,0.0,0.0,11.22749974,11.2275,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,86,Putumayo,86001,Mocoa,0.0,0.0,75.6053751,75.6053741,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,86,Putumayo,86320,Orito,0.0,0.0,27.22500014,27.22500001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,86,Putumayo,86568,Puerto Asís,0.0,0.0,13.38135931,13.38135922,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,86,Putumayo,86569,Puerto Caicedo,0.0,0.0,86.27114067,86.27114077,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,86,Putumayo,86571,Puerto Guzmán,0.0,3.62874421,318.8808793,322.50962589000005,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,86,Putumayo,86885,Villagarzón,17.13136757,18.63242087,21.22871179,56.9925,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,94,Guainía,94001,Inírida,0.0,0.0,16.49250052,16.4925,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,94,Guainía,94884,Puerto Colombia,0.0,0.0,57.08249781,57.082500020000005,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2022,94,Guainía,94887,Pana Pana,0.0,0.0,88.40249916,88.40250001000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05031,Amalfi,143.50498601,0.0,1089.81448812,1233.319479,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05040,Anorí,405.67745153000004,0.0,1608.70137146,2014.3788240000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05120,Cáceres,1430.4251347,191.57055784,4256.88620135,5878.881897,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05142,Caracolí,0.0,0.0,3.07840156,3.078401,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05154,Caucasia,962.3415496199999,17.11682213,1855.54119408,2834.999565,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05250,El Bagre,3016.6213791699997,0.0,2524.65281717,5541.274203000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05425,Maceo,0.0,0.0,17.10619285,17.106192999999998,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05480,Mutatá,145.49075378,0.0,4.24668798,149.737441,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05495,Nechí,4259.64776275,35.03228203,3857.76907528,8152.449116,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05579,Puerto Berrío,23.48932972,0.0,141.72643683,165.215767,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05585,Puerto Nare,1.2825,0.0,195.02042439,196.30292400000002,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05604,Remedios,386.17499303,109.24659679,1040.6791059099999,1536.100696,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05670,San Roque,4.16767991,3.1275,3.68015459,10.975335,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05690,Santo Domingo,0.62070861,0.0,8.98161148,9.60232,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05736,Segovia,530.8335435500001,22.67151275,945.1143107500001,1498.6193660000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05756,Sonsón,100.73897884,0.0,162.75093685,263.489919,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05790,Tarazá,275.24415098,295.44130083,1273.99173028,1844.677185,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05854,Valdivia,0.0,68.41065807,300.26442792,368.67508399999997,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05858,Vegachí,188.31393782,0.0,161.6798252,349.99376600000005,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05873,Vigía del Fuerte,0.0,0.0,67.05619229999999,67.056191,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05885,Yalí,6.68279894,0.0,103.81487411,110.497674,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05890,Yolombó,0.0,0.0,18.89348145,18.893481,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05893,Yondó,0.0,51.57200539,133.2902096,184.862216,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,05,Antioquia,05895,Zaragoza,5418.26436875,218.29404941,3032.20176807,8668.760189,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13030,Altos del Rosario,0.70323086,0.0,8.05485324,8.758084,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13042,Arenal,0.0,0.0,50.93260713,50.932608,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13074,Barranco de Loba,135.39261744,6.87347441,197.89832687,340.16442,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13458,Montecristo,159.48942418000001,0.24648379,1665.31936118,1825.055257,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13490,Norosí,267.27787355,97.06924151,574.19793899,938.545055,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13600,Río Viejo,17.52582717,0.0,605.3501926800001,622.8760209999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13655,San Jacinto del Cauca,0.0,0.0,20.31678265,20.316783,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13667,San Martín de Loba,172.1080453,20.46095499,530.87827381,723.447275,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13670,San Pablo,0.0,0.0,67.27690694,67.276907,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13688,Santa Rosa del Sur,61.44452109,0.0,734.9289578,796.3734830000001,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13744,Simití,166.2189189,0.03592381,2036.2291430500002,2202.483983,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,13,Bolívar,13810,Tiquisio,28.93808607,0.0,216.20483356,245.14292,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,17,Caldas,17380,La Dorada,0.0,0.0,4.51177635,4.511776,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,17,Caldas,17495,Norcasia,0.0,0.0,35.235,35.235,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,17,Caldas,17867,Victoria,10.99179845,0.0,44.81197569,55.803774,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,18,Caquetá,18205,Curillo,0.0,0.0,8.09765046,8.09765,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,18,Caquetá,18610,San José del Fragua,0.0,0.0,173.24025072,173.240251,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19100,Bolívar,0.0,0.0,40.55237401,40.552374,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19110,Buenos Aires,0.0,0.0,31.2395223,31.239522,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19256,El Tambo,0.0,15.49117953,28.8207098,44.31189,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19318,Guapi,0.0,5.35499169,614.39789434,619.752887,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19392,La Sierra,0.0,8.80932186,10.9784934,19.787815,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19418,López de Micay,9.247499999999999,60.28501745,1115.97723485,1185.509746,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19450,Mercaderes,0.0,0.0,69.59164609000001,69.591646,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19533,Piamonte,0.0,0.0,121.52315014999999,121.52315,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19698,Santander de Quilichao,0.0,0.0,61.05657642,61.056577,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,19,Cauca,19809,Timbiquí,772.4811304000001,21.53971056,574.45671822,1368.477561,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,23,Córdoba,23068,Ayapel,0.0,477.90511711,4811.69793195,5289.603048,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,23,Córdoba,23350,La Apartada,0.0,0.0,38.55380787,38.553808,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,23,Córdoba,23466,Montelíbano,0.0,0.0,40.35058079,40.350581,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,23,Córdoba,23580,Puerto Libertador,0.5955642,0.0,149.60828831,150.203852,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,23,Córdoba,23682,San José de Uré,0.0,0.0,225.32851437,225.328514,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27001,Quibdó,210.73357471,0.0,2058.61393786,2269.347506,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27006,Acandí,0.0,0.0,29.722500000000004,29.7225,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27050,Atrato,0.43312048,0.0,1068.00590566,1068.439029,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27073,Bagadó,43.939169320000005,0.0,221.17426086999998,265.113432,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27135,El Cantón del San Pablo,0.0,45.76136516,6351.12095113,6396.882322,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27160,Cértegui,9.1751646,158.43407753,1828.43667998,1996.04592,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27205,Condoto,303.01230802,669.05623531,1541.49213494,2513.560677,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27361,Istmina,46.12105889,0.0,4935.37327124,4981.494328,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27413,Lloró,0.0,0.0,616.58694583,616.586942,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27425,Medio Atrato,0.0,418.61023663,2041.26272679,2459.872964,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27430,Medio Baudó,0.0,0.0,3.7558591100000003,3.75586,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27450,Medio San Juan,7.80371624,157.26374338,1514.50961876,1679.577079,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27491,Nóvita,0.0,235.07288053000002,5673.48242049,5908.555288,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27580,Río Iró,15.53186286,0.0,432.65750073,448.189363,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27600,Río Quito,0.0,157.95099088,4648.53951343,4806.490509,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27615,Riosucio,0.0,0.0,229.53381493,229.533817,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27660,San José del Palmar,0.0,0.0,25.13142887,25.131429,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27745,Sipí,77.47662783,0.0,565.28024866,642.756874,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27787,Tadó,11.85967468,120.20148921,572.55692471,704.618088,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27800,Unguía,0.0,0.0,59.7791229,59.779124,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,27,Chocó,27810,Unión Panamericana,292.24349605,835.0579818599999,1876.0861146099999,3003.387591,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,44,La Guajira,44090,Dibulla,0.0,0.0,4.612500000000001,4.6125,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,52,Nariño,52079,Barbacoas,0.0,166.66134951,1651.65004383,1818.311391,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,52,Nariño,52250,El Charco,0.0,0.38550935,365.29531194000003,365.68082200000003,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,52,Nariño,52385,La Llanada,0.0,0.0,21.988607140000003,21.988607000000002,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,52,Nariño,52418,Los Andes,0.0,0.0,140.00573541,140.005737,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,52,Nariño,52427,Magüí,485.11256907,9.31026824,1241.81249917,1736.23534,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,52,Nariño,52621,Roberto Payán,0.0,4.702500000000001,198.47235715,203.174858,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,52,Nariño,52696,Santa Bárbara,0.0,36.62214211,434.21502007,470.837163,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,52,Nariño,52835,San Andrés de Tumaco,0.0,0.0,97.23472091,97.234719,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,73,Tolima,73067,Ataco,16.75124227,0.0,0.36,17.111242,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,73,Tolima,73168,Chaparral,4.62375772,0.0,3.825,8.448758,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,73,Tolima,73217,Coyaima,28.08180911,0.0,3.08112556,31.162935,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,76,Valle Del Cauca,76109,Buenaventura,0.45,0.03413992,585.10241076,585.586555,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,76,Valle Del Cauca,76126,Calima,0.0,0.0,5.89108316,5.891083,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,86,Putumayo,86001,Mocoa,0.0,0.0,84.74677211,84.74677199999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,86,Putumayo,86320,Orito,0.0,0.0,20.11356918,20.113569,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,86,Putumayo,86568,Puerto Asís,0.0,0.0,25.77885921,25.77886,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,86,Putumayo,86569,Puerto Caicedo,0.0,0.0,90.14558328,90.145583,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,86,Putumayo,86571,Puerto Guzmán,0.0,5.1258492,401.13897536,406.264826,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,86,Putumayo,86885,Villagarzón,16.38270509,9.98171469,43.162812960000004,69.527232,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,91,Amazonas,91798,Tarapacá,0.0,0.0,7.16465845,7.164658,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,94,Guainía,94001,Inírida,0.0,0.0,19.9125,19.9125,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,94,Guainía,94884,Puerto Colombia,0.0,0.0,74.65916222999999,74.659164,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)
+2023,94,Guainía,94887,Pana Pana,0.0,0.0,103.26744069,103.26744199999999,arcgisenterprise.unodc.org.co SIMCI_EVOA/VISOR_EVOA_FIGURAS_DE_LEY/2 (agregado por municipio)

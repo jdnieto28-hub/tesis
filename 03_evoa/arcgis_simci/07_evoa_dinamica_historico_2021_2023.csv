@@ -1,0 +1,2113 @@
+﻿anio,codigo_departamento,departamento,codigo_municipio,municipio,dinamica,area_ha
+2021,05,Antioquia,05031,Amalfi,Abandono,248.27843037
+2021,05,Antioquia,05031,Amalfi,Estable,1174.77474808
+2021,05,Antioquia,05031,Amalfi,Expansion,86.59950575
+2021,05,Antioquia,05031,Amalfi,Nuevo,67.34249999
+2021,05,Antioquia,05034,Andes,Abandono,0.0
+2021,05,Antioquia,05034,Andes,Estable,0.0
+2021,05,Antioquia,05034,Andes,Expansion,0.0
+2021,05,Antioquia,05034,Andes,Nuevo,0.0
+2021,05,Antioquia,05036,Angelópolis,Abandono,0.0
+2021,05,Antioquia,05036,Angelópolis,Estable,0.0
+2021,05,Antioquia,05036,Angelópolis,Expansion,0.0
+2021,05,Antioquia,05036,Angelópolis,Nuevo,0.0
+2021,05,Antioquia,05040,Anorí,Abandono,543.0314274
+2021,05,Antioquia,05040,Anorí,Estable,1456.06006378
+2021,05,Antioquia,05040,Anorí,Expansion,152.96116616
+2021,05,Antioquia,05040,Anorí,Nuevo,120.15458245
+2021,05,Antioquia,05044,Anzá,Abandono,0.0
+2021,05,Antioquia,05044,Anzá,Estable,0.0
+2021,05,Antioquia,05044,Anzá,Expansion,0.0
+2021,05,Antioquia,05044,Anzá,Nuevo,0.0
+2021,05,Antioquia,05055,Argelia,Abandono,0.0
+2021,05,Antioquia,05055,Argelia,Estable,3.75643519
+2021,05,Antioquia,05055,Argelia,Expansion,0.0
+2021,05,Antioquia,05055,Argelia,Nuevo,0.0
+2021,05,Antioquia,05059,Armenia,Abandono,0.0
+2021,05,Antioquia,05059,Armenia,Estable,0.0
+2021,05,Antioquia,05059,Armenia,Expansion,0.0
+2021,05,Antioquia,05059,Armenia,Nuevo,0.0
+2021,05,Antioquia,05091,Betania,Abandono,0.0
+2021,05,Antioquia,05091,Betania,Estable,0.0
+2021,05,Antioquia,05091,Betania,Expansion,0.0
+2021,05,Antioquia,05091,Betania,Nuevo,0.0
+2021,05,Antioquia,05120,Cáceres,Abandono,1062.8639873
+2021,05,Antioquia,05120,Cáceres,Estable,4221.74619899
+2021,05,Antioquia,05120,Cáceres,Expansion,609.0986616
+2021,05,Antioquia,05120,Cáceres,Nuevo,140.73612884
+2021,05,Antioquia,05134,Campamento,Abandono,0.0
+2021,05,Antioquia,05134,Campamento,Estable,0.0
+2021,05,Antioquia,05134,Campamento,Expansion,0.0
+2021,05,Antioquia,05134,Campamento,Nuevo,0.0
+2021,05,Antioquia,05148,El Carmen De Viboral,Abandono,0.0
+2021,05,Antioquia,05148,El Carmen De Viboral,Estable,0.0
+2021,05,Antioquia,05148,El Carmen De Viboral,Expansion,0.0
+2021,05,Antioquia,05148,El Carmen De Viboral,Nuevo,0.0
+2021,05,Antioquia,05154,Caucasia,Abandono,237.29624857
+2021,05,Antioquia,05154,Caucasia,Estable,1809.88941283
+2021,05,Antioquia,05154,Caucasia,Expansion,129.12861639
+2021,05,Antioquia,05154,Caucasia,Nuevo,67.04539247
+2021,05,Antioquia,05172,Chigorodó,Abandono,41.83970938
+2021,05,Antioquia,05172,Chigorodó,Estable,23.16722126
+2021,05,Antioquia,05172,Chigorodó,Expansion,0.0
+2021,05,Antioquia,05172,Chigorodó,Nuevo,0.0
+2021,05,Antioquia,05209,Concordia,Abandono,0.0
+2021,05,Antioquia,05209,Concordia,Estable,0.0
+2021,05,Antioquia,05209,Concordia,Expansion,0.0
+2021,05,Antioquia,05209,Concordia,Nuevo,0.0
+2021,05,Antioquia,05234,Dabeiba,Abandono,2.9025
+2021,05,Antioquia,05234,Dabeiba,Estable,3.7575
+2021,05,Antioquia,05234,Dabeiba,Expansion,0.0
+2021,05,Antioquia,05234,Dabeiba,Nuevo,9.18
+2021,05,Antioquia,05250,El Bagre,Abandono,971.40375674
+2021,05,Antioquia,05250,El Bagre,Estable,3871.567364
+2021,05,Antioquia,05250,El Bagre,Expansion,541.27203323
+2021,05,Antioquia,05250,El Bagre,Nuevo,156.29682554
+2021,05,Antioquia,05284,Frontino,Abandono,1.26
+2021,05,Antioquia,05284,Frontino,Estable,7.245
+2021,05,Antioquia,05284,Frontino,Expansion,0.0225
+2021,05,Antioquia,05284,Frontino,Nuevo,0.0
+2021,05,Antioquia,05313,Granada,Abandono,0.0
+2021,05,Antioquia,05313,Granada,Estable,0.0
+2021,05,Antioquia,05313,Granada,Expansion,0.0
+2021,05,Antioquia,05313,Granada,Nuevo,0.0
+2021,05,Antioquia,05315,Guadalupe,Abandono,0.0
+2021,05,Antioquia,05315,Guadalupe,Estable,0.0
+2021,05,Antioquia,05315,Guadalupe,Expansion,0.0
+2021,05,Antioquia,05315,Guadalupe,Nuevo,0.0
+2021,05,Antioquia,05361,Ituango,Abandono,0.0
+2021,05,Antioquia,05361,Ituango,Estable,0.0
+2021,05,Antioquia,05361,Ituango,Expansion,0.0
+2021,05,Antioquia,05361,Ituango,Nuevo,0.0
+2021,05,Antioquia,05425,Maceo,Abandono,0.0
+2021,05,Antioquia,05425,Maceo,Estable,0.0
+2021,05,Antioquia,05425,Maceo,Expansion,0.0
+2021,05,Antioquia,05425,Maceo,Nuevo,0.0
+2021,05,Antioquia,05440,Marinilla,Abandono,0.0
+2021,05,Antioquia,05440,Marinilla,Estable,0.0
+2021,05,Antioquia,05440,Marinilla,Expansion,0.0
+2021,05,Antioquia,05440,Marinilla,Nuevo,0.0
+2021,05,Antioquia,05475,Murindó,Abandono,0.0
+2021,05,Antioquia,05475,Murindó,Estable,0.0
+2021,05,Antioquia,05475,Murindó,Expansion,0.0
+2021,05,Antioquia,05475,Murindó,Nuevo,0.0
+2021,05,Antioquia,05480,Mutatá,Abandono,18.28029033
+2021,05,Antioquia,05480,Mutatá,Estable,163.26777895
+2021,05,Antioquia,05480,Mutatá,Expansion,8.91
+2021,05,Antioquia,05480,Mutatá,Nuevo,0.45
+2021,05,Antioquia,05483,Nariño,Abandono,0.0
+2021,05,Antioquia,05483,Nariño,Estable,0.0
+2021,05,Antioquia,05483,Nariño,Expansion,0.0
+2021,05,Antioquia,05483,Nariño,Nuevo,0.0
+2021,05,Antioquia,05495,Nechí,Abandono,786.03057949
+2021,05,Antioquia,05495,Nechí,Estable,7210.39904698
+2021,05,Antioquia,05495,Nechí,Expansion,340.11582049
+2021,05,Antioquia,05495,Nechí,Nuevo,58.45342881
+2021,05,Antioquia,05579,Puerto Berrío,Abandono,35.85098896
+2021,05,Antioquia,05579,Puerto Berrío,Estable,95.12901391
+2021,05,Antioquia,05579,Puerto Berrío,Expansion,19.64174227
+2021,05,Antioquia,05579,Puerto Berrío,Nuevo,1.9575
+2021,05,Antioquia,05585,Puerto Nare,Abandono,19.02651133
+2021,05,Antioquia,05585,Puerto Nare,Estable,156.55598591
+2021,05,Antioquia,05585,Puerto Nare,Expansion,5.423258
+2021,05,Antioquia,05585,Puerto Nare,Nuevo,0.0
+2021,05,Antioquia,05591,Puerto Triunfo,Abandono,0.0
+2021,05,Antioquia,05591,Puerto Triunfo,Estable,0.0
+2021,05,Antioquia,05591,Puerto Triunfo,Expansion,0.0
+2021,05,Antioquia,05591,Puerto Triunfo,Nuevo,0.0
+2021,05,Antioquia,05604,Remedios,Abandono,670.88387611
+2021,05,Antioquia,05604,Remedios,Estable,1645.5621521
+2021,05,Antioquia,05604,Remedios,Expansion,292.22226762
+2021,05,Antioquia,05604,Remedios,Nuevo,273.07766352
+2021,05,Antioquia,05652,San Francisco,Abandono,0.0
+2021,05,Antioquia,05652,San Francisco,Estable,0.0
+2021,05,Antioquia,05652,San Francisco,Expansion,0.0
+2021,05,Antioquia,05652,San Francisco,Nuevo,0.0
+2021,05,Antioquia,05660,San Luis,Abandono,0.0
+2021,05,Antioquia,05660,San Luis,Estable,0.0
+2021,05,Antioquia,05660,San Luis,Expansion,0.0
+2021,05,Antioquia,05660,San Luis,Nuevo,0.0
+2021,05,Antioquia,05670,San Roque,Abandono,0.0
+2021,05,Antioquia,05670,San Roque,Estable,0.0
+2021,05,Antioquia,05670,San Roque,Expansion,0.0
+2021,05,Antioquia,05670,San Roque,Nuevo,0.0
+2021,05,Antioquia,05679,Santa Bárbara,Abandono,0.0
+2021,05,Antioquia,05679,Santa Bárbara,Estable,0.0
+2021,05,Antioquia,05679,Santa Bárbara,Expansion,0.0
+2021,05,Antioquia,05679,Santa Bárbara,Nuevo,0.0
+2021,05,Antioquia,05690,Santo Domingo,Abandono,0.0
+2021,05,Antioquia,05690,Santo Domingo,Estable,0.0
+2021,05,Antioquia,05690,Santo Domingo,Expansion,0.0
+2021,05,Antioquia,05690,Santo Domingo,Nuevo,0.0
+2021,05,Antioquia,05736,Segovia,Abandono,899.23114518
+2021,05,Antioquia,05736,Segovia,Estable,1580.09599916
+2021,05,Antioquia,05736,Segovia,Expansion,209.84078388
+2021,05,Antioquia,05736,Segovia,Nuevo,74.97022657
+2021,05,Antioquia,05756,Sonsón,Abandono,43.89750034
+2021,05,Antioquia,05756,Sonsón,Estable,238.25249995
+2021,05,Antioquia,05756,Sonsón,Expansion,26.84249984
+2021,05,Antioquia,05756,Sonsón,Nuevo,12.8475
+2021,05,Antioquia,05789,Támesis,Abandono,0.0
+2021,05,Antioquia,05789,Támesis,Estable,0.0
+2021,05,Antioquia,05789,Támesis,Expansion,0.0
+2021,05,Antioquia,05789,Támesis,Nuevo,0.0
+2021,05,Antioquia,05790,Tarazá,Abandono,422.25762925
+2021,05,Antioquia,05790,Tarazá,Estable,1226.85954424
+2021,05,Antioquia,05790,Tarazá,Expansion,204.8620908
+2021,05,Antioquia,05790,Tarazá,Nuevo,86.895
+2021,05,Antioquia,05809,Titiribí,Abandono,0.0
+2021,05,Antioquia,05809,Titiribí,Estable,0.0
+2021,05,Antioquia,05809,Titiribí,Expansion,0.0
+2021,05,Antioquia,05809,Titiribí,Nuevo,0.0
+2021,05,Antioquia,05847,Urrao,Abandono,5.8725
+2021,05,Antioquia,05847,Urrao,Estable,0.0
+2021,05,Antioquia,05847,Urrao,Expansion,0.0
+2021,05,Antioquia,05847,Urrao,Nuevo,0.0
+2021,05,Antioquia,05854,Valdivia,Abandono,76.89986022
+2021,05,Antioquia,05854,Valdivia,Estable,349.29554
+2021,05,Antioquia,05854,Valdivia,Expansion,35.94739228
+2021,05,Antioquia,05854,Valdivia,Nuevo,0.0
+2021,05,Antioquia,05858,Vegachí,Abandono,141.88101531
+2021,05,Antioquia,05858,Vegachí,Estable,290.22554072
+2021,05,Antioquia,05858,Vegachí,Expansion,34.30091475
+2021,05,Antioquia,05858,Vegachí,Nuevo,35.81999999
+2021,05,Antioquia,05861,Venecia,Abandono,0.0
+2021,05,Antioquia,05861,Venecia,Estable,0.0
+2021,05,Antioquia,05861,Venecia,Expansion,0.0
+2021,05,Antioquia,05861,Venecia,Nuevo,0.0
+2021,05,Antioquia,05873,Vigía Del Fuerte,Abandono,11.79
+2021,05,Antioquia,05873,Vigía Del Fuerte,Estable,61.4025
+2021,05,Antioquia,05873,Vigía Del Fuerte,Expansion,13.1175
+2021,05,Antioquia,05873,Vigía Del Fuerte,Nuevo,15.2325
+2021,05,Antioquia,05885,Yalí,Abandono,14.93802549
+2021,05,Antioquia,05885,Yalí,Estable,4.365
+2021,05,Antioquia,05885,Yalí,Expansion,8.0325
+2021,05,Antioquia,05885,Yalí,Nuevo,49.83757627
+2021,05,Antioquia,05890,Yolombó,Abandono,0.0
+2021,05,Antioquia,05890,Yolombó,Estable,0.0
+2021,05,Antioquia,05890,Yolombó,Expansion,0.0
+2021,05,Antioquia,05890,Yolombó,Nuevo,2.29492374
+2021,05,Antioquia,05893,Yondó,Abandono,30.78001176
+2021,05,Antioquia,05893,Yondó,Estable,167.77781068
+2021,05,Antioquia,05893,Yondó,Expansion,29.33002021
+2021,05,Antioquia,05893,Yondó,Nuevo,37.28733646
+2021,05,Antioquia,05895,Zaragoza,Abandono,1614.37213207
+2021,05,Antioquia,05895,Zaragoza,Estable,7227.56069018
+2021,05,Antioquia,05895,Zaragoza,Expansion,521.49107353
+2021,05,Antioquia,05895,Zaragoza,Nuevo,119.89341525
+2021,13,Bolívar,13030,Altos Del Rosario,Abandono,8.67663138
+2021,13,Bolívar,13030,Altos Del Rosario,Estable,2.61
+2021,13,Bolívar,13030,Altos Del Rosario,Expansion,0.58500001
+2021,13,Bolívar,13030,Altos Del Rosario,Nuevo,8.7525
+2021,13,Bolívar,13042,Arenal,Abandono,32.51250001
+2021,13,Bolívar,13042,Arenal,Estable,42.3
+2021,13,Bolívar,13042,Arenal,Expansion,2.5425
+2021,13,Bolívar,13042,Arenal,Nuevo,4.1625
+2021,13,Bolívar,13074,Barranco De Loba,Abandono,68.93286637
+2021,13,Bolívar,13074,Barranco De Loba,Estable,131.08787947
+2021,13,Bolívar,13074,Barranco De Loba,Expansion,35.25952353
+2021,13,Bolívar,13074,Barranco De Loba,Nuevo,36.8672342
+2021,13,Bolívar,13160,Cantagallo,Abandono,0.0
+2021,13,Bolívar,13160,Cantagallo,Estable,0.0
+2021,13,Bolívar,13160,Cantagallo,Expansion,0.0
+2021,13,Bolívar,13160,Cantagallo,Nuevo,0.0
+2021,13,Bolívar,13300,Hatillo De Loba,Abandono,0.0
+2021,13,Bolívar,13300,Hatillo De Loba,Estable,0.0
+2021,13,Bolívar,13300,Hatillo De Loba,Expansion,0.0
+2021,13,Bolívar,13300,Hatillo De Loba,Nuevo,0.0
+2021,13,Bolívar,13458,Montecristo,Abandono,913.05349525
+2021,13,Bolívar,13458,Montecristo,Estable,2186.74073323
+2021,13,Bolívar,13458,Montecristo,Expansion,138.31423829
+2021,13,Bolívar,13458,Montecristo,Nuevo,125.685
+2021,13,Bolívar,13473,Morales,Abandono,0.0
+2021,13,Bolívar,13473,Morales,Estable,0.0
+2021,13,Bolívar,13473,Morales,Expansion,0.0
+2021,13,Bolívar,13473,Morales,Nuevo,0.0
+2021,13,Bolívar,13490,Norosí,Abandono,187.30668826
+2021,13,Bolívar,13490,Norosí,Estable,685.58593431
+2021,13,Bolívar,13490,Norosí,Expansion,178.82065767
+2021,13,Bolívar,13490,Norosí,Nuevo,98.60249611
+2021,13,Bolívar,13600,Río Viejo,Abandono,178.87134991
+2021,13,Bolívar,13600,Río Viejo,Estable,523.36372687
+2021,13,Bolívar,13600,Río Viejo,Expansion,77.03890734
+2021,13,Bolívar,13600,Río Viejo,Nuevo,11.835
+2021,13,Bolívar,13655,San Jacinto Del Cauca,Abandono,8.53115084
+2021,13,Bolívar,13655,San Jacinto Del Cauca,Estable,9.27
+2021,13,Bolívar,13655,San Jacinto Del Cauca,Expansion,2.925
+2021,13,Bolívar,13655,San Jacinto Del Cauca,Nuevo,4.0275
+2021,13,Bolívar,13667,San Martín De Loba,Abandono,143.38550222
+2021,13,Bolívar,13667,San Martín De Loba,Estable,368.47962053
+2021,13,Bolívar,13667,San Martín De Loba,Expansion,87.43297645
+2021,13,Bolívar,13667,San Martín De Loba,Nuevo,40.8027658
+2021,13,Bolívar,13670,San Pablo,Abandono,41.733042
+2021,13,Bolívar,13670,San Pablo,Estable,91.72770319
+2021,13,Bolívar,13670,San Pablo,Expansion,11.32243558
+2021,13,Bolívar,13670,San Pablo,Nuevo,7.5825
+2021,13,Bolívar,13688,Santa Rosa Del Sur,Abandono,852.82736326
+2021,13,Bolívar,13688,Santa Rosa Del Sur,Estable,2082.49034946
+2021,13,Bolívar,13688,Santa Rosa Del Sur,Expansion,305.37343257
+2021,13,Bolívar,13688,Santa Rosa Del Sur,Nuevo,21.33
+2021,13,Bolívar,13744,Simití,Abandono,110.96999618
+2021,13,Bolívar,13744,Simití,Estable,1766.8125026
+2021,13,Bolívar,13744,Simití,Expansion,261.26999912
+2021,13,Bolívar,13744,Simití,Nuevo,11.745
+2021,13,Bolívar,13810,Tiquisio,Abandono,74.28196261
+2021,13,Bolívar,13810,Tiquisio,Estable,71.39033836
+2021,13,Bolívar,13810,Tiquisio,Expansion,17.98793422
+2021,13,Bolívar,13810,Tiquisio,Nuevo,20.08500391
+2021,17,Caldas,17001,Manizales,Abandono,0.0
+2021,17,Caldas,17001,Manizales,Estable,0.0
+2021,17,Caldas,17001,Manizales,Expansion,0.0
+2021,17,Caldas,17001,Manizales,Nuevo,0.0
+2021,17,Caldas,17380,La Dorada,Abandono,2.03030707
+2021,17,Caldas,17380,La Dorada,Estable,0.17959781
+2021,17,Caldas,17380,La Dorada,Expansion,0.0
+2021,17,Caldas,17380,La Dorada,Nuevo,2.53895036
+2021,17,Caldas,17388,La Merced,Abandono,0.0
+2021,17,Caldas,17388,La Merced,Estable,0.0
+2021,17,Caldas,17388,La Merced,Expansion,0.0
+2021,17,Caldas,17388,La Merced,Nuevo,0.0
+2021,17,Caldas,17433,Manzanares,Abandono,0.0
+2021,17,Caldas,17433,Manzanares,Estable,0.0
+2021,17,Caldas,17433,Manzanares,Expansion,0.0
+2021,17,Caldas,17433,Manzanares,Nuevo,0.0
+2021,17,Caldas,17442,Marmato,Abandono,0.0
+2021,17,Caldas,17442,Marmato,Estable,0.0
+2021,17,Caldas,17442,Marmato,Expansion,0.0
+2021,17,Caldas,17442,Marmato,Nuevo,0.0
+2021,17,Caldas,17444,Marquetalia,Abandono,0.0
+2021,17,Caldas,17444,Marquetalia,Estable,0.0
+2021,17,Caldas,17444,Marquetalia,Expansion,0.0
+2021,17,Caldas,17444,Marquetalia,Nuevo,0.0
+2021,17,Caldas,17495,Norcasia,Abandono,38.73883624
+2021,17,Caldas,17495,Norcasia,Estable,31.4325
+2021,17,Caldas,17495,Norcasia,Expansion,0.6975
+2021,17,Caldas,17495,Norcasia,Nuevo,0.0
+2021,17,Caldas,17513,Pácora,Abandono,0.0
+2021,17,Caldas,17513,Pácora,Estable,0.0
+2021,17,Caldas,17513,Pácora,Expansion,0.0
+2021,17,Caldas,17513,Pácora,Nuevo,0.0
+2021,17,Caldas,17541,Pensilvania,Abandono,0.0
+2021,17,Caldas,17541,Pensilvania,Estable,0.0
+2021,17,Caldas,17541,Pensilvania,Expansion,0.0
+2021,17,Caldas,17541,Pensilvania,Nuevo,0.0
+2021,17,Caldas,17614,Riosucio,Abandono,0.0
+2021,17,Caldas,17614,Riosucio,Estable,0.0
+2021,17,Caldas,17614,Riosucio,Expansion,0.0
+2021,17,Caldas,17614,Riosucio,Nuevo,0.0
+2021,17,Caldas,17662,Samaná,Abandono,0.0
+2021,17,Caldas,17662,Samaná,Estable,0.15856481
+2021,17,Caldas,17662,Samaná,Expansion,0.0
+2021,17,Caldas,17662,Samaná,Nuevo,0.0
+2021,17,Caldas,17777,Supía,Abandono,0.0
+2021,17,Caldas,17777,Supía,Estable,0.0
+2021,17,Caldas,17777,Supía,Expansion,0.0
+2021,17,Caldas,17777,Supía,Nuevo,0.0
+2021,17,Caldas,17867,Victoria,Abandono,10.95835668
+2021,17,Caldas,17867,Victoria,Estable,28.30540218
+2021,17,Caldas,17867,Victoria,Expansion,2.025
+2021,17,Caldas,17867,Victoria,Nuevo,3.49104964
+2021,18,Caquetá,18205,Curillo,Abandono,0.0
+2021,18,Caquetá,18205,Curillo,Estable,0.89278516
+2021,18,Caquetá,18205,Curillo,Expansion,0.0
+2021,18,Caquetá,18205,Curillo,Nuevo,1.31017246
+2021,18,Caquetá,18610,San José Del Fragua,Abandono,3.1275
+2021,18,Caquetá,18610,San José Del Fragua,Estable,74.30221483
+2021,18,Caquetá,18610,San José Del Fragua,Expansion,16.2675
+2021,18,Caquetá,18610,San José Del Fragua,Nuevo,8.31982754
+2021,19,Cauca,19001,Popayán,Abandono,0.0
+2021,19,Cauca,19001,Popayán,Estable,0.0
+2021,19,Cauca,19001,Popayán,Expansion,0.0
+2021,19,Cauca,19001,Popayán,Nuevo,0.0
+2021,19,Cauca,19100,Bolívar,Abandono,0.0
+2021,19,Cauca,19100,Bolívar,Estable,41.26252863
+2021,19,Cauca,19100,Bolívar,Expansion,2.79991012
+2021,19,Cauca,19100,Bolívar,Nuevo,0.0
+2021,19,Cauca,19110,Buenos Aires,Abandono,8.4375
+2021,19,Cauca,19110,Buenos Aires,Estable,37.98174408
+2021,19,Cauca,19110,Buenos Aires,Expansion,1.06936627
+2021,19,Cauca,19110,Buenos Aires,Nuevo,0.0
+2021,19,Cauca,19142,Caloto,Abandono,0.0
+2021,19,Cauca,19142,Caloto,Estable,0.0
+2021,19,Cauca,19142,Caloto,Expansion,0.0
+2021,19,Cauca,19142,Caloto,Nuevo,0.0
+2021,19,Cauca,19256,El Tambo,Abandono,0.0
+2021,19,Cauca,19256,El Tambo,Estable,27.78709416
+2021,19,Cauca,19256,El Tambo,Expansion,2.63935701
+2021,19,Cauca,19256,El Tambo,Nuevo,0.0
+2021,19,Cauca,19300,Guachené,Abandono,0.0
+2021,19,Cauca,19300,Guachené,Estable,0.0
+2021,19,Cauca,19300,Guachené,Expansion,0.0
+2021,19,Cauca,19300,Guachené,Nuevo,0.0
+2021,19,Cauca,19318,Guapi,Abandono,91.79999908
+2021,19,Cauca,19318,Guapi,Estable,357.59250151
+2021,19,Cauca,19318,Guapi,Expansion,82.6283922
+2021,19,Cauca,19318,Guapi,Nuevo,113.80499999
+2021,19,Cauca,19355,Inzá,Abandono,0.0
+2021,19,Cauca,19355,Inzá,Estable,0.0
+2021,19,Cauca,19355,Inzá,Expansion,0.0
+2021,19,Cauca,19355,Inzá,Nuevo,0.0
+2021,19,Cauca,19392,La Sierra,Abandono,0.0
+2021,19,Cauca,19392,La Sierra,Estable,18.83290583
+2021,19,Cauca,19392,La Sierra,Expansion,1.32064299
+2021,19,Cauca,19392,La Sierra,Nuevo,0.0
+2021,19,Cauca,19397,La Vega,Abandono,0.0
+2021,19,Cauca,19397,La Vega,Estable,0.0
+2021,19,Cauca,19397,La Vega,Expansion,0.0
+2021,19,Cauca,19397,La Vega,Nuevo,0.0
+2021,19,Cauca,19418,López De Micay,Abandono,226.91250001
+2021,19,Cauca,19418,López De Micay,Estable,343.50750003
+2021,19,Cauca,19418,López De Micay,Expansion,100.5525
+2021,19,Cauca,19418,López De Micay,Nuevo,38.4975
+2021,19,Cauca,19450,Mercaderes,Abandono,0.0
+2021,19,Cauca,19450,Mercaderes,Estable,91.32997138
+2021,19,Cauca,19450,Mercaderes,Expansion,0.03508988
+2021,19,Cauca,19450,Mercaderes,Nuevo,0.0
+2021,19,Cauca,19473,Morales,Abandono,0.0
+2021,19,Cauca,19473,Morales,Estable,0.0
+2021,19,Cauca,19473,Morales,Expansion,0.0
+2021,19,Cauca,19473,Morales,Nuevo,0.0
+2021,19,Cauca,19532,Patía,Abandono,0.0
+2021,19,Cauca,19532,Patía,Estable,0.135
+2021,19,Cauca,19532,Patía,Expansion,0.0
+2021,19,Cauca,19532,Patía,Nuevo,0.0
+2021,19,Cauca,19533,Piamonte,Abandono,11.835
+2021,19,Cauca,19533,Piamonte,Estable,39.3075
+2021,19,Cauca,19533,Piamonte,Expansion,4.5225
+2021,19,Cauca,19533,Piamonte,Nuevo,1.71
+2021,19,Cauca,19622,Rosas,Abandono,0.0
+2021,19,Cauca,19622,Rosas,Estable,0.0
+2021,19,Cauca,19622,Rosas,Expansion,0.0
+2021,19,Cauca,19622,Rosas,Nuevo,0.0
+2021,19,Cauca,19698,Santander De Quilichao,Abandono,7.245
+2021,19,Cauca,19698,Santander De Quilichao,Estable,53.57075593
+2021,19,Cauca,19698,Santander De Quilichao,Expansion,4.19563373
+2021,19,Cauca,19698,Santander De Quilichao,Nuevo,0.0
+2021,19,Cauca,19701,Santa Rosa,Abandono,27.8325
+2021,19,Cauca,19701,Santa Rosa,Estable,0.0
+2021,19,Cauca,19701,Santa Rosa,Expansion,0.0
+2021,19,Cauca,19701,Santa Rosa,Nuevo,0.0
+2021,19,Cauca,19780,Suárez,Abandono,0.0
+2021,19,Cauca,19780,Suárez,Estable,0.0
+2021,19,Cauca,19780,Suárez,Expansion,0.0
+2021,19,Cauca,19780,Suárez,Nuevo,0.0
+2021,19,Cauca,19809,Timbiquí,Abandono,249.77249752
+2021,19,Cauca,19809,Timbiquí,Estable,1172.16000194
+2021,19,Cauca,19809,Timbiquí,Expansion,163.99410498
+2021,19,Cauca,19809,Timbiquí,Nuevo,30.465
+2021,23,Córdoba,23068,Ayapel,Abandono,859.88438975
+2021,23,Córdoba,23068,Ayapel,Estable,3907.85922408
+2021,23,Córdoba,23068,Ayapel,Expansion,320.09496712
+2021,23,Córdoba,23068,Ayapel,Nuevo,128.7225
+2021,23,Córdoba,23350,La Apartada,Abandono,0.6075
+2021,23,Córdoba,23350,La Apartada,Estable,15.2325
+2021,23,Córdoba,23350,La Apartada,Expansion,3.015
+2021,23,Córdoba,23350,La Apartada,Nuevo,0.0
+2021,23,Córdoba,23466,Montelíbano,Abandono,0.0
+2021,23,Córdoba,23466,Montelíbano,Estable,0.0
+2021,23,Córdoba,23466,Montelíbano,Expansion,0.0
+2021,23,Córdoba,23466,Montelíbano,Nuevo,0.0
+2021,23,Córdoba,23580,Puerto Libertador,Abandono,0.0
+2021,23,Córdoba,23580,Puerto Libertador,Estable,48.84749942
+2021,23,Córdoba,23580,Puerto Libertador,Expansion,11.38500106
+2021,23,Córdoba,23580,Puerto Libertador,Nuevo,5.87249999
+2021,23,Córdoba,23682,San José De Uré,Abandono,21.68260611
+2021,23,Córdoba,23682,San José De Uré,Estable,120.50777103
+2021,23,Córdoba,23682,San José De Uré,Expansion,18.31208101
+2021,23,Córdoba,23682,San José De Uré,Nuevo,0.0
+2021,23,Córdoba,23807,Tierralta,Abandono,0.0
+2021,23,Córdoba,23807,Tierralta,Estable,0.0
+2021,23,Córdoba,23807,Tierralta,Expansion,0.0
+2021,23,Córdoba,23807,Tierralta,Nuevo,0.0
+2021,27,Chocó,27001,Quibdó,Abandono,114.52200741
+2021,27,Chocó,27001,Quibdó,Estable,2052.09977061
+2021,27,Chocó,27001,Quibdó,Expansion,121.14832486
+2021,27,Chocó,27001,Quibdó,Nuevo,64.6875
+2021,27,Chocó,27006,Acandí,Abandono,6.0075
+2021,27,Chocó,27006,Acandí,Estable,37.37250001
+2021,27,Chocó,27006,Acandí,Expansion,14.2425
+2021,27,Chocó,27006,Acandí,Nuevo,0.0225
+2021,27,Chocó,27025,Alto Baudó,Abandono,0.0
+2021,27,Chocó,27025,Alto Baudó,Estable,0.0
+2021,27,Chocó,27025,Alto Baudó,Expansion,0.0
+2021,27,Chocó,27025,Alto Baudó,Nuevo,0.0
+2021,27,Chocó,27050,Atrato,Abandono,37.55249999
+2021,27,Chocó,27050,Atrato,Estable,968.53965896
+2021,27,Chocó,27050,Atrato,Expansion,78.95858363
+2021,27,Chocó,27050,Atrato,Nuevo,19.01804324
+2021,27,Chocó,27073,Bagadó,Abandono,26.18482281
+2021,27,Chocó,27073,Bagadó,Estable,308.81088153
+2021,27,Chocó,27073,Bagadó,Expansion,20.63249931
+2021,27,Chocó,27073,Bagadó,Nuevo,7.53750001
+2021,27,Chocó,27077,Bajo Baudó,Abandono,0.0
+2021,27,Chocó,27077,Bajo Baudó,Estable,0.0
+2021,27,Chocó,27077,Bajo Baudó,Expansion,0.0
+2021,27,Chocó,27077,Bajo Baudó,Nuevo,0.0
+2021,27,Chocó,27099,Bojayá,Abandono,0.0
+2021,27,Chocó,27099,Bojayá,Estable,0.0
+2021,27,Chocó,27099,Bojayá,Expansion,0.0
+2021,27,Chocó,27099,Bojayá,Nuevo,0.0
+2021,27,Chocó,27135,El Cantón Del San Pablo,Abandono,274.81855484
+2021,27,Chocó,27135,El Cantón Del San Pablo,Estable,4978.35610731
+2021,27,Chocó,27135,El Cantón Del San Pablo,Expansion,638.53077938
+2021,27,Chocó,27135,El Cantón Del San Pablo,Nuevo,26.08613058
+2021,27,Chocó,27150,Carmen Del Darién,Abandono,0.89680797
+2021,27,Chocó,27150,Carmen Del Darién,Estable,1.53990589
+2021,27,Chocó,27150,Carmen Del Darién,Expansion,0.0
+2021,27,Chocó,27150,Carmen Del Darién,Nuevo,0.0
+2021,27,Chocó,27160,Cértegui,Abandono,16.10479298
+2021,27,Chocó,27160,Cértegui,Estable,1572.53050134
+2021,27,Chocó,27160,Cértegui,Expansion,120.83073759
+2021,27,Chocó,27160,Cértegui,Nuevo,51.69636943
+2021,27,Chocó,27205,Condoto,Abandono,64.46250023
+2021,27,Chocó,27205,Condoto,Estable,2458.03198283
+2021,27,Chocó,27205,Condoto,Expansion,182.87999921
+2021,27,Chocó,27205,Condoto,Nuevo,28.5075
+2021,27,Chocó,27245,El Carmen De Atrato,Abandono,0.0
+2021,27,Chocó,27245,El Carmen De Atrato,Estable,0.0
+2021,27,Chocó,27245,El Carmen De Atrato,Expansion,0.0
+2021,27,Chocó,27245,El Carmen De Atrato,Nuevo,0.0
+2021,27,Chocó,27250,El Litoral Del San Juan,Abandono,0.0
+2021,27,Chocó,27250,El Litoral Del San Juan,Estable,0.0
+2021,27,Chocó,27250,El Litoral Del San Juan,Expansion,0.0
+2021,27,Chocó,27250,El Litoral Del San Juan,Nuevo,0.0
+2021,27,Chocó,27361,Istmina,Abandono,258.15172082
+2021,27,Chocó,27361,Istmina,Estable,4334.45397203
+2021,27,Chocó,27361,Istmina,Expansion,373.20978
+2021,27,Chocó,27361,Istmina,Nuevo,23.7375
+2021,27,Chocó,27413,Lloró,Abandono,29.6325
+2021,27,Chocó,27413,Lloró,Estable,594.90083535
+2021,27,Chocó,27413,Lloró,Expansion,19.07391609
+2021,27,Chocó,27413,Lloró,Nuevo,20.3175
+2021,27,Chocó,27425,Medio Atrato,Abandono,47.54549214
+2021,27,Chocó,27425,Medio Atrato,Estable,2286.64272899
+2021,27,Chocó,27425,Medio Atrato,Expansion,142.9116763
+2021,27,Chocó,27425,Medio Atrato,Nuevo,36.27
+2021,27,Chocó,27430,Medio Baudó,Abandono,0.0
+2021,27,Chocó,27430,Medio Baudó,Estable,5.14925558
+2021,27,Chocó,27430,Medio Baudó,Expansion,0.0
+2021,27,Chocó,27430,Medio Baudó,Nuevo,0.0
+2021,27,Chocó,27450,Medio San Juan,Abandono,55.55249984
+2021,27,Chocó,27450,Medio San Juan,Estable,1372.06812799
+2021,27,Chocó,27450,Medio San Juan,Expansion,171.08010579
+2021,27,Chocó,27450,Medio San Juan,Nuevo,100.5975
+2021,27,Chocó,27491,Nóvita,Abandono,321.34233543
+2021,27,Chocó,27491,Nóvita,Estable,5000.35163165
+2021,27,Chocó,27491,Nóvita,Expansion,589.58505479
+2021,27,Chocó,27491,Nóvita,Nuevo,86.21999999
+2021,27,Chocó,27495,Nuquí,Abandono,0.0
+2021,27,Chocó,27495,Nuquí,Estable,0.0
+2021,27,Chocó,27495,Nuquí,Expansion,0.0
+2021,27,Chocó,27495,Nuquí,Nuevo,0.0
+2021,27,Chocó,27580,Río Iró,Abandono,11.97548624
+2021,27,Chocó,27580,Río Iró,Estable,384.55792544
+2021,27,Chocó,27580,Río Iró,Expansion,76.05000009
+2021,27,Chocó,27580,Río Iró,Nuevo,15.9975
+2021,27,Chocó,27600,Río Quito,Abandono,45.39003324
+2021,27,Chocó,27600,Río Quito,Estable,3764.79105121
+2021,27,Chocó,27600,Río Quito,Expansion,472.78256136
+2021,27,Chocó,27600,Río Quito,Nuevo,53.27445677
+2021,27,Chocó,27615,Riosucio,Abandono,43.06819203
+2021,27,Chocó,27615,Riosucio,Estable,258.24509411
+2021,27,Chocó,27615,Riosucio,Expansion,7.4475
+2021,27,Chocó,27615,Riosucio,Nuevo,8.01
+2021,27,Chocó,27660,San José Del Palmar,Abandono,0.0
+2021,27,Chocó,27660,San José Del Palmar,Estable,36.3825
+2021,27,Chocó,27660,San José Del Palmar,Expansion,2.16
+2021,27,Chocó,27660,San José Del Palmar,Nuevo,0.0
+2021,27,Chocó,27745,Sipí,Abandono,25.90015797
+2021,27,Chocó,27745,Sipí,Estable,634.33733323
+2021,27,Chocó,27745,Sipí,Expansion,112.12243468
+2021,27,Chocó,27745,Sipí,Nuevo,11.385
+2021,27,Chocó,27787,Tadó,Abandono,78.24951344
+2021,27,Chocó,27787,Tadó,Estable,907.19585231
+2021,27,Chocó,27787,Tadó,Expansion,46.7775
+2021,27,Chocó,27787,Tadó,Nuevo,53.00608354
+2021,27,Chocó,27800,Unguía,Abandono,15.4125
+2021,27,Chocó,27800,Unguía,Estable,45.22499999
+2021,27,Chocó,27800,Unguía,Expansion,18.9225
+2021,27,Chocó,27800,Unguía,Nuevo,20.07
+2021,27,Chocó,27810,Unión Panamericana,Abandono,62.00007941
+2021,27,Chocó,27810,Unión Panamericana,Estable,3015.34739047
+2021,27,Chocó,27810,Unión Panamericana,Expansion,99.03103851
+2021,27,Chocó,27810,Unión Panamericana,Nuevo,28.10641647
+2021,41,Huila,41357,Íquira,Abandono,0.0
+2021,41,Huila,41357,Íquira,Estable,0.0
+2021,41,Huila,41357,Íquira,Expansion,0.0
+2021,41,Huila,41357,Íquira,Nuevo,0.0
+2021,41,Huila,41518,Paicol,Abandono,0.0
+2021,41,Huila,41518,Paicol,Estable,0.0
+2021,41,Huila,41518,Paicol,Expansion,0.0
+2021,41,Huila,41518,Paicol,Nuevo,0.0
+2021,41,Huila,41797,Tesalia,Abandono,0.0
+2021,41,Huila,41797,Tesalia,Estable,0.0
+2021,41,Huila,41797,Tesalia,Expansion,0.0
+2021,41,Huila,41797,Tesalia,Nuevo,0.0
+2021,44,La Guajira,44090,Dibulla,Abandono,0.0
+2021,44,La Guajira,44090,Dibulla,Estable,0.0
+2021,44,La Guajira,44090,Dibulla,Expansion,0.0
+2021,44,La Guajira,44090,Dibulla,Nuevo,1.9125
+2021,47,Magdalena,47245,El Banco,Abandono,0.0
+2021,47,Magdalena,47245,El Banco,Estable,0.0
+2021,47,Magdalena,47245,El Banco,Expansion,0.0
+2021,47,Magdalena,47245,El Banco,Nuevo,0.0
+2021,52,Nariño,52079,Barbacoas,Abandono,390.83549682
+2021,52,Nariño,52079,Barbacoas,Estable,1255.51389014
+2021,52,Nariño,52079,Barbacoas,Expansion,368.81048284
+2021,52,Nariño,52079,Barbacoas,Nuevo,94.5675
+2021,52,Nariño,52233,Cumbitara,Abandono,0.0
+2021,52,Nariño,52233,Cumbitara,Estable,0.0
+2021,52,Nariño,52233,Cumbitara,Expansion,0.0
+2021,52,Nariño,52233,Cumbitara,Nuevo,0.0
+2021,52,Nariño,52250,El Charco,Abandono,52.0828137
+2021,52,Nariño,52250,El Charco,Estable,199.14753784
+2021,52,Nariño,52250,El Charco,Expansion,29.94881863
+2021,52,Nariño,52250,El Charco,Nuevo,4.32
+2021,52,Nariño,52385,La Llanada,Abandono,3.51704132
+2021,52,Nariño,52385,La Llanada,Estable,2.37661362
+2021,52,Nariño,52385,La Llanada,Expansion,0.29957229
+2021,52,Nariño,52385,La Llanada,Nuevo,0.0
+2021,52,Nariño,52418,Los Andes,Abandono,1.27992163
+2021,52,Nariño,52418,Los Andes,Estable,32.72317872
+2021,52,Nariño,52418,Los Andes,Expansion,42.22542771
+2021,52,Nariño,52418,Los Andes,Nuevo,20.0025
+2021,52,Nariño,52427,Magüí,Abandono,168.45812368
+2021,52,Nariño,52427,Magüí,Estable,866.029624
+2021,52,Nariño,52427,Magüí,Expansion,350.36518571
+2021,52,Nariño,52427,Magüí,Nuevo,96.03
+2021,52,Nariño,52621,Roberto Payán,Abandono,39.91710106
+2021,52,Nariño,52621,Roberto Payán,Estable,84.43047017
+2021,52,Nariño,52621,Roberto Payán,Expansion,30.05318054
+2021,52,Nariño,52621,Roberto Payán,Nuevo,8.0775
+2021,52,Nariño,52678,Samaniego,Abandono,5.49650211
+2021,52,Nariño,52678,Samaniego,Estable,4.36350317
+2021,52,Nariño,52678,Samaniego,Expansion,0.225
+2021,52,Nariño,52678,Samaniego,Nuevo,0.0
+2021,52,Nariño,52696,Santa Bárbara,Abandono,62.67599578
+2021,52,Nariño,52696,Santa Bárbara,Estable,148.85724764
+2021,52,Nariño,52696,Santa Bárbara,Expansion,42.79279169
+2021,52,Nariño,52696,Santa Bárbara,Nuevo,35.86499999
+2021,52,Nariño,52835,San Andrés De Tumaco,Abandono,27.93450599
+2021,52,Nariño,52835,San Andrés De Tumaco,Estable,28.50543421
+2021,52,Nariño,52835,San Andrés De Tumaco,Expansion,12.82454016
+2021,52,Nariño,52835,San Andrés De Tumaco,Nuevo,5.175
+2021,66,Risaralda,66456,Mistrató,Abandono,0.0
+2021,66,Risaralda,66456,Mistrató,Estable,0.0
+2021,66,Risaralda,66456,Mistrató,Expansion,0.0
+2021,66,Risaralda,66456,Mistrató,Nuevo,0.0
+2021,66,Risaralda,66572,Pueblo Rico,Abandono,0.0
+2021,66,Risaralda,66572,Pueblo Rico,Estable,0.0
+2021,66,Risaralda,66572,Pueblo Rico,Expansion,0.0
+2021,66,Risaralda,66572,Pueblo Rico,Nuevo,0.0
+2021,68,Santander,68132,California,Abandono,0.0
+2021,68,Santander,68132,California,Estable,0.0
+2021,68,Santander,68132,California,Expansion,0.0
+2021,68,Santander,68132,California,Nuevo,0.0
+2021,68,Santander,68780,Suratá,Abandono,0.0
+2021,68,Santander,68780,Suratá,Estable,0.0
+2021,68,Santander,68780,Suratá,Expansion,0.0
+2021,68,Santander,68780,Suratá,Nuevo,0.0
+2021,68,Santander,68867,Vetas,Abandono,0.0
+2021,68,Santander,68867,Vetas,Estable,0.0
+2021,68,Santander,68867,Vetas,Expansion,0.0
+2021,68,Santander,68867,Vetas,Nuevo,0.0
+2021,73,Tolima,73217,Coyaima,Abandono,6.345
+2021,73,Tolima,73217,Coyaima,Estable,20.745
+2021,73,Tolima,73217,Coyaima,Expansion,7.4025
+2021,73,Tolima,73217,Coyaima,Nuevo,0.0
+2021,76,Valle Del Cauca,76109,Buenaventura,Abandono,288.74249955
+2021,76,Valle Del Cauca,76109,Buenaventura,Estable,466.83000033
+2021,76,Valle Del Cauca,76109,Buenaventura,Expansion,76.94999955
+2021,76,Valle Del Cauca,76109,Buenaventura,Nuevo,22.5225
+2021,76,Valle Del Cauca,76111,Guadalajara De Buga,Abandono,0.0
+2021,76,Valle Del Cauca,76111,Guadalajara De Buga,Estable,0.0
+2021,76,Valle Del Cauca,76111,Guadalajara De Buga,Expansion,0.0
+2021,76,Valle Del Cauca,76111,Guadalajara De Buga,Nuevo,0.0
+2021,76,Valle Del Cauca,76122,Caicedonia,Abandono,0.0
+2021,76,Valle Del Cauca,76122,Caicedonia,Estable,0.0
+2021,76,Valle Del Cauca,76122,Caicedonia,Expansion,0.0
+2021,76,Valle Del Cauca,76122,Caicedonia,Nuevo,0.0
+2021,76,Valle Del Cauca,76126,Calima,Abandono,2.7675
+2021,76,Valle Del Cauca,76126,Calima,Estable,6.39
+2021,76,Valle Del Cauca,76126,Calima,Expansion,0.0225
+2021,76,Valle Del Cauca,76126,Calima,Nuevo,2.745
+2021,76,Valle Del Cauca,76233,Dagua,Abandono,0.0
+2021,76,Valle Del Cauca,76233,Dagua,Estable,0.0
+2021,76,Valle Del Cauca,76233,Dagua,Expansion,0.0
+2021,76,Valle Del Cauca,76233,Dagua,Nuevo,0.0
+2021,76,Valle Del Cauca,76670,San Pedro,Abandono,0.0
+2021,76,Valle Del Cauca,76670,San Pedro,Estable,0.0
+2021,76,Valle Del Cauca,76670,San Pedro,Expansion,0.0
+2021,76,Valle Del Cauca,76670,San Pedro,Nuevo,0.0
+2021,76,Valle Del Cauca,76736,Sevilla,Abandono,0.0
+2021,76,Valle Del Cauca,76736,Sevilla,Estable,0.0
+2021,76,Valle Del Cauca,76736,Sevilla,Expansion,0.0
+2021,76,Valle Del Cauca,76736,Sevilla,Nuevo,0.0
+2021,86,Putumayo,86001,Mocoa,Abandono,0.0
+2021,86,Putumayo,86001,Mocoa,Estable,46.45312597
+2021,86,Putumayo,86001,Mocoa,Expansion,10.29643898
+2021,86,Putumayo,86001,Mocoa,Nuevo,14.7375
+2021,86,Putumayo,86219,Colón,Abandono,0.0
+2021,86,Putumayo,86219,Colón,Estable,0.0
+2021,86,Putumayo,86219,Colón,Expansion,0.0
+2021,86,Putumayo,86219,Colón,Nuevo,0.0
+2021,86,Putumayo,86320,Orito,Abandono,6.525
+2021,86,Putumayo,86320,Orito,Estable,41.7375
+2021,86,Putumayo,86320,Orito,Expansion,9.765
+2021,86,Putumayo,86320,Orito,Nuevo,0.135
+2021,86,Putumayo,86568,Puerto Asís,Abandono,0.57887507
+2021,86,Putumayo,86568,Puerto Asís,Estable,8.36385922
+2021,86,Putumayo,86568,Puerto Asís,Expansion,1.935
+2021,86,Putumayo,86568,Puerto Asís,Nuevo,0.5175
+2021,86,Putumayo,86569,Puerto Caicedo,Abandono,11.36862493
+2021,86,Putumayo,86569,Puerto Caicedo,Estable,60.91364078
+2021,86,Putumayo,86569,Puerto Caicedo,Expansion,18.405
+2021,86,Putumayo,86569,Puerto Caicedo,Nuevo,12.1725
+2021,86,Putumayo,86571,Puerto Guzmán,Abandono,19.125
+2021,86,Putumayo,86571,Puerto Guzmán,Estable,173.1918733
+2021,86,Putumayo,86571,Puerto Guzmán,Expansion,46.13356224
+2021,86,Putumayo,86571,Puerto Guzmán,Nuevo,23.94000001
+2021,86,Putumayo,86749,Sibundoy,Abandono,0.0
+2021,86,Putumayo,86749,Sibundoy,Estable,0.0
+2021,86,Putumayo,86749,Sibundoy,Expansion,0.0
+2021,86,Putumayo,86749,Sibundoy,Nuevo,0.0
+2021,86,Putumayo,86885,Villagarzón,Abandono,2.4075
+2021,86,Putumayo,86885,Villagarzón,Estable,33.90749999
+2021,86,Putumayo,86885,Villagarzón,Expansion,16.335
+2021,86,Putumayo,86885,Villagarzón,Nuevo,6.9525
+2021,94,Guainía,94001,Inírida,Abandono,0.2475
+2021,94,Guainía,94001,Inírida,Estable,12.3075
+2021,94,Guainía,94001,Inírida,Expansion,1.35
+2021,94,Guainía,94001,Inírida,Nuevo,0.1125
+2021,94,Guainía,94884,Puerto Colombia,Abandono,24.8682913
+2021,94,Guainía,94884,Puerto Colombia,Estable,48.40193039
+2021,94,Guainía,94884,Puerto Colombia,Expansion,1.58967817
+2021,94,Guainía,94884,Puerto Colombia,Nuevo,0.0
+2021,94,Guainía,94887,Pana Pana,Abandono,21.34670879
+2021,94,Guainía,94887,Pana Pana,Estable,77.64306957
+2021,94,Guainía,94887,Pana Pana,Expansion,9.52532182
+2021,94,Guainía,94887,Pana Pana,Nuevo,0.0
+2021,97,Vaupés,97666,Taraira,Abandono,0.0
+2021,97,Vaupés,97666,Taraira,Estable,0.0
+2021,97,Vaupés,97666,Taraira,Expansion,0.0
+2021,97,Vaupés,97666,Taraira,Nuevo,0.0
+2022,05,Antioquia,05031,Amalfi,Abandono,610.46657369
+2022,05,Antioquia,05031,Amalfi,Estable,718.25005773
+2022,05,Antioquia,05031,Amalfi,Expansion,136.88268359
+2022,05,Antioquia,05031,Amalfi,Nuevo,104.87249991
+2022,05,Antioquia,05034,Andes,Abandono,0.0
+2022,05,Antioquia,05034,Andes,Estable,0.0
+2022,05,Antioquia,05034,Andes,Expansion,0.0
+2022,05,Antioquia,05034,Andes,Nuevo,0.0
+2022,05,Antioquia,05036,Angelópolis,Abandono,0.0
+2022,05,Antioquia,05036,Angelópolis,Estable,0.0
+2022,05,Antioquia,05036,Angelópolis,Expansion,0.0
+2022,05,Antioquia,05036,Angelópolis,Nuevo,0.0
+2022,05,Antioquia,05038,Angostura,Abandono,0.0
+2022,05,Antioquia,05038,Angostura,Estable,0.0
+2022,05,Antioquia,05038,Angostura,Expansion,0.0
+2022,05,Antioquia,05038,Angostura,Nuevo,1.1925
+2022,05,Antioquia,05040,Anorí,Abandono,688.19422018
+2022,05,Antioquia,05040,Anorí,Estable,1040.98164071
+2022,05,Antioquia,05040,Anorí,Expansion,164.06196177
+2022,05,Antioquia,05040,Anorí,Nuevo,133.46301125
+2022,05,Antioquia,05044,Anzá,Abandono,0.0
+2022,05,Antioquia,05044,Anzá,Estable,0.0
+2022,05,Antioquia,05044,Anzá,Expansion,0.0
+2022,05,Antioquia,05044,Anzá,Nuevo,0.0
+2022,05,Antioquia,05055,Argelia,Abandono,3.756435
+2022,05,Antioquia,05055,Argelia,Estable,0.0
+2022,05,Antioquia,05055,Argelia,Expansion,0.0
+2022,05,Antioquia,05055,Argelia,Nuevo,0.0
+2022,05,Antioquia,05059,Armenia,Abandono,0.0
+2022,05,Antioquia,05059,Armenia,Estable,0.0
+2022,05,Antioquia,05059,Armenia,Expansion,0.0
+2022,05,Antioquia,05059,Armenia,Nuevo,0.0
+2022,05,Antioquia,05091,Betania,Abandono,0.0
+2022,05,Antioquia,05091,Betania,Estable,0.0
+2022,05,Antioquia,05091,Betania,Expansion,0.0
+2022,05,Antioquia,05091,Betania,Nuevo,0.0
+2022,05,Antioquia,05120,Cáceres,Abandono,853.15817671
+2022,05,Antioquia,05120,Cáceres,Estable,4118.42299179
+2022,05,Antioquia,05120,Cáceres,Expansion,517.99307171
+2022,05,Antioquia,05120,Cáceres,Nuevo,299.30329024
+2022,05,Antioquia,05134,Campamento,Abandono,0.0
+2022,05,Antioquia,05134,Campamento,Estable,0.0
+2022,05,Antioquia,05134,Campamento,Expansion,0.0
+2022,05,Antioquia,05134,Campamento,Nuevo,0.0
+2022,05,Antioquia,05142,Caracolí,Abandono,0.0
+2022,05,Antioquia,05142,Caracolí,Estable,0.0
+2022,05,Antioquia,05142,Caracolí,Expansion,0.0
+2022,05,Antioquia,05142,Caracolí,Nuevo,8.29999679
+2022,05,Antioquia,05148,El Carmen De Viboral,Abandono,0.0
+2022,05,Antioquia,05148,El Carmen De Viboral,Estable,0.0
+2022,05,Antioquia,05148,El Carmen De Viboral,Expansion,0.0
+2022,05,Antioquia,05148,El Carmen De Viboral,Nuevo,0.0
+2022,05,Antioquia,05154,Caucasia,Abandono,168.41312851
+2022,05,Antioquia,05154,Caucasia,Estable,1837.65034171
+2022,05,Antioquia,05154,Caucasia,Expansion,225.56527782
+2022,05,Antioquia,05154,Caucasia,Nuevo,120.10883712
+2022,05,Antioquia,05172,Chigorodó,Abandono,23.16731817
+2022,05,Antioquia,05172,Chigorodó,Estable,0.0
+2022,05,Antioquia,05172,Chigorodó,Expansion,0.0
+2022,05,Antioquia,05172,Chigorodó,Nuevo,0.0
+2022,05,Antioquia,05209,Concordia,Abandono,0.0
+2022,05,Antioquia,05209,Concordia,Estable,0.0
+2022,05,Antioquia,05209,Concordia,Expansion,0.0
+2022,05,Antioquia,05209,Concordia,Nuevo,0.0
+2022,05,Antioquia,05234,Dabeiba,Abandono,12.93750179
+2022,05,Antioquia,05234,Dabeiba,Estable,0.0
+2022,05,Antioquia,05234,Dabeiba,Expansion,0.0
+2022,05,Antioquia,05234,Dabeiba,Nuevo,0.0
+2022,05,Antioquia,05250,El Bagre,Abandono,1149.39090622
+2022,05,Antioquia,05250,El Bagre,Estable,3419.74532232
+2022,05,Antioquia,05250,El Bagre,Expansion,669.4648045
+2022,05,Antioquia,05250,El Bagre,Nuevo,308.56290415
+2022,05,Antioquia,05284,Frontino,Abandono,7.26749922
+2022,05,Antioquia,05284,Frontino,Estable,0.0
+2022,05,Antioquia,05284,Frontino,Expansion,0.0
+2022,05,Antioquia,05284,Frontino,Nuevo,0.0
+2022,05,Antioquia,05313,Granada,Abandono,0.0
+2022,05,Antioquia,05313,Granada,Estable,0.0
+2022,05,Antioquia,05313,Granada,Expansion,0.0
+2022,05,Antioquia,05313,Granada,Nuevo,0.0
+2022,05,Antioquia,05315,Guadalupe,Abandono,0.0
+2022,05,Antioquia,05315,Guadalupe,Estable,0.0
+2022,05,Antioquia,05315,Guadalupe,Expansion,0.0
+2022,05,Antioquia,05315,Guadalupe,Nuevo,0.0
+2022,05,Antioquia,05361,Ituango,Abandono,0.0
+2022,05,Antioquia,05361,Ituango,Estable,0.0
+2022,05,Antioquia,05361,Ituango,Expansion,0.0
+2022,05,Antioquia,05361,Ituango,Nuevo,0.0
+2022,05,Antioquia,05425,Maceo,Abandono,0.0
+2022,05,Antioquia,05425,Maceo,Estable,0.0
+2022,05,Antioquia,05425,Maceo,Expansion,0.0
+2022,05,Antioquia,05425,Maceo,Nuevo,58.79500329
+2022,05,Antioquia,05440,Marinilla,Abandono,0.0
+2022,05,Antioquia,05440,Marinilla,Estable,0.0
+2022,05,Antioquia,05440,Marinilla,Expansion,0.0
+2022,05,Antioquia,05440,Marinilla,Nuevo,0.0
+2022,05,Antioquia,05475,Murindó,Abandono,0.0
+2022,05,Antioquia,05475,Murindó,Estable,0.0
+2022,05,Antioquia,05475,Murindó,Expansion,0.0
+2022,05,Antioquia,05475,Murindó,Nuevo,0.0
+2022,05,Antioquia,05480,Mutatá,Abandono,21.51768025
+2022,05,Antioquia,05480,Mutatá,Estable,151.10999947
+2022,05,Antioquia,05480,Mutatá,Expansion,0.45000015
+2022,05,Antioquia,05480,Mutatá,Nuevo,2.98104107
+2022,05,Antioquia,05483,Nariño,Abandono,0.0
+2022,05,Antioquia,05483,Nariño,Estable,0.0
+2022,05,Antioquia,05483,Nariño,Expansion,0.0
+2022,05,Antioquia,05483,Nariño,Nuevo,0.0
+2022,05,Antioquia,05495,Nechí,Abandono,342.60241036
+2022,05,Antioquia,05495,Nechí,Estable,7266.36604902
+2022,05,Antioquia,05495,Nechí,Expansion,358.14301983
+2022,05,Antioquia,05495,Nechí,Nuevo,104.8000817
+2022,05,Antioquia,05579,Puerto Berrío,Abandono,15.94982813
+2022,05,Antioquia,05579,Puerto Berrío,Estable,100.77854598
+2022,05,Antioquia,05579,Puerto Berrío,Expansion,18.69750097
+2022,05,Antioquia,05579,Puerto Berrío,Nuevo,5.715
+2022,05,Antioquia,05585,Puerto Nare,Abandono,10.48767199
+2022,05,Antioquia,05585,Puerto Nare,Estable,151.49145106
+2022,05,Antioquia,05585,Puerto Nare,Expansion,3.5550008
+2022,05,Antioquia,05585,Puerto Nare,Nuevo,0.0
+2022,05,Antioquia,05591,Puerto Triunfo,Abandono,0.0
+2022,05,Antioquia,05591,Puerto Triunfo,Estable,0.0
+2022,05,Antioquia,05591,Puerto Triunfo,Expansion,0.0
+2022,05,Antioquia,05591,Puerto Triunfo,Nuevo,0.0
+2022,05,Antioquia,05604,Remedios,Abandono,1232.33438193
+2022,05,Antioquia,05604,Remedios,Estable,941.71548775
+2022,05,Antioquia,05604,Remedios,Expansion,238.2025994
+2022,05,Antioquia,05604,Remedios,Nuevo,304.83504798
+2022,05,Antioquia,05652,San Francisco,Abandono,0.0
+2022,05,Antioquia,05652,San Francisco,Estable,0.0
+2022,05,Antioquia,05652,San Francisco,Expansion,0.0
+2022,05,Antioquia,05652,San Francisco,Nuevo,0.0
+2022,05,Antioquia,05660,San Luis,Abandono,0.0
+2022,05,Antioquia,05660,San Luis,Estable,0.0
+2022,05,Antioquia,05660,San Luis,Expansion,0.0
+2022,05,Antioquia,05660,San Luis,Nuevo,0.0
+2022,05,Antioquia,05670,San Roque,Abandono,0.0
+2022,05,Antioquia,05670,San Roque,Estable,0.0
+2022,05,Antioquia,05670,San Roque,Expansion,0.0
+2022,05,Antioquia,05670,San Roque,Nuevo,5.84142808
+2022,05,Antioquia,05679,Santa Bárbara,Abandono,0.0
+2022,05,Antioquia,05679,Santa Bárbara,Estable,0.0
+2022,05,Antioquia,05679,Santa Bárbara,Expansion,0.0
+2022,05,Antioquia,05679,Santa Bárbara,Nuevo,0.0
+2022,05,Antioquia,05690,Santo Domingo,Abandono,0.0
+2022,05,Antioquia,05690,Santo Domingo,Estable,0.0
+2022,05,Antioquia,05690,Santo Domingo,Expansion,0.0
+2022,05,Antioquia,05690,Santo Domingo,Nuevo,0.45857193
+2022,05,Antioquia,05736,Segovia,Abandono,885.96816914
+2022,05,Antioquia,05736,Segovia,Estable,1015.75090395
+2022,05,Antioquia,05736,Segovia,Expansion,164.08866116
+2022,05,Antioquia,05736,Segovia,Nuevo,188.00290024
+2022,05,Antioquia,05756,Sonsón,Abandono,78.9524998
+2022,05,Antioquia,05756,Sonsón,Estable,198.98999639
+2022,05,Antioquia,05756,Sonsón,Expansion,32.1075016
+2022,05,Antioquia,05756,Sonsón,Nuevo,6.525
+2022,05,Antioquia,05789,Támesis,Abandono,0.0
+2022,05,Antioquia,05789,Támesis,Estable,0.0
+2022,05,Antioquia,05789,Támesis,Expansion,0.0
+2022,05,Antioquia,05789,Támesis,Nuevo,0.0
+2022,05,Antioquia,05790,Tarazá,Abandono,334.64531064
+2022,05,Antioquia,05790,Tarazá,Estable,1183.97139411
+2022,05,Antioquia,05790,Tarazá,Expansion,185.0615239
+2022,05,Antioquia,05790,Tarazá,Nuevo,123.60113265
+2022,05,Antioquia,05809,Titiribí,Abandono,0.0
+2022,05,Antioquia,05809,Titiribí,Estable,0.0
+2022,05,Antioquia,05809,Titiribí,Expansion,0.0
+2022,05,Antioquia,05809,Titiribí,Nuevo,0.0
+2022,05,Antioquia,05847,Urrao,Abandono,0.0
+2022,05,Antioquia,05847,Urrao,Estable,0.0
+2022,05,Antioquia,05847,Urrao,Expansion,0.0
+2022,05,Antioquia,05847,Urrao,Nuevo,0.0
+2022,05,Antioquia,05854,Valdivia,Abandono,27.0336942
+2022,05,Antioquia,05854,Valdivia,Estable,358.20900633
+2022,05,Antioquia,05854,Valdivia,Expansion,13.21918653
+2022,05,Antioquia,05854,Valdivia,Nuevo,3.58067178
+2022,05,Antioquia,05858,Vegachí,Abandono,234.77838119
+2022,05,Antioquia,05858,Vegachí,Estable,125.56802882
+2022,05,Antioquia,05858,Vegachí,Expansion,45.57639954
+2022,05,Antioquia,05858,Vegachí,Nuevo,156.00119762
+2022,05,Antioquia,05861,Venecia,Abandono,0.0
+2022,05,Antioquia,05861,Venecia,Estable,0.0
+2022,05,Antioquia,05861,Venecia,Expansion,0.0
+2022,05,Antioquia,05861,Venecia,Nuevo,0.0
+2022,05,Antioquia,05873,Vigía Del Fuerte,Abandono,23.91750218
+2022,05,Antioquia,05873,Vigía Del Fuerte,Estable,65.83500226
+2022,05,Antioquia,05873,Vigía Del Fuerte,Expansion,0.42749993
+2022,05,Antioquia,05873,Vigía Del Fuerte,Nuevo,2.02500002
+2022,05,Antioquia,05885,Yalí,Abandono,53.06127539
+2022,05,Antioquia,05885,Yalí,Estable,9.17383667
+2022,05,Antioquia,05885,Yalí,Expansion,0.69749978
+2022,05,Antioquia,05885,Yalí,Nuevo,66.71250001
+2022,05,Antioquia,05890,Yolombó,Abandono,0.3312242
+2022,05,Antioquia,05890,Yolombó,Estable,1.9636635
+2022,05,Antioquia,05890,Yolombó,Expansion,0.0
+2022,05,Antioquia,05890,Yolombó,Nuevo,8.79749997
+2022,05,Antioquia,05893,Yondó,Abandono,84.61945167
+2022,05,Antioquia,05893,Yondó,Estable,149.77562575
+2022,05,Antioquia,05893,Yondó,Expansion,31.14702065
+2022,05,Antioquia,05893,Yondó,Nuevo,7.18625282
+2022,05,Antioquia,05895,Zaragoza,Abandono,981.34620132
+2022,05,Antioquia,05895,Zaragoza,Estable,6887.59894825
+2022,05,Antioquia,05895,Zaragoza,Expansion,598.44006411
+2022,05,Antioquia,05895,Zaragoza,Nuevo,162.78310143
+2022,13,Bolívar,13030,Altos Del Rosario,Abandono,0.0
+2022,13,Bolívar,13030,Altos Del Rosario,Estable,11.94750023
+2022,13,Bolívar,13030,Altos Del Rosario,Expansion,3.53249935
+2022,13,Bolívar,13030,Altos Del Rosario,Nuevo,4.25077213
+2022,13,Bolívar,13042,Arenal,Abandono,0.405
+2022,13,Bolívar,13042,Arenal,Estable,48.59999884
+2022,13,Bolívar,13042,Arenal,Expansion,4.65749978
+2022,13,Bolívar,13042,Arenal,Nuevo,2.115
+2022,13,Bolívar,13074,Barranco De Loba,Abandono,7.62749956
+2022,13,Bolívar,13074,Barranco De Loba,Estable,195.58710118
+2022,13,Bolívar,13074,Barranco De Loba,Expansion,65.47614085
+2022,13,Bolívar,13074,Barranco De Loba,Nuevo,31.97180321
+2022,13,Bolívar,13160,Cantagallo,Abandono,0.0
+2022,13,Bolívar,13160,Cantagallo,Estable,0.0
+2022,13,Bolívar,13160,Cantagallo,Expansion,0.0
+2022,13,Bolívar,13160,Cantagallo,Nuevo,0.0
+2022,13,Bolívar,13300,Hatillo De Loba,Abandono,0.0
+2022,13,Bolívar,13300,Hatillo De Loba,Estable,0.0
+2022,13,Bolívar,13300,Hatillo De Loba,Expansion,0.0
+2022,13,Bolívar,13300,Hatillo De Loba,Nuevo,0.0
+2022,13,Bolívar,13458,Montecristo,Abandono,1210.0809554
+2022,13,Bolívar,13458,Montecristo,Estable,1240.65960705
+2022,13,Bolívar,13458,Montecristo,Expansion,246.2359943
+2022,13,Bolívar,13458,Montecristo,Nuevo,91.92376543
+2022,13,Bolívar,13473,Morales,Abandono,0.0
+2022,13,Bolívar,13473,Morales,Estable,0.0
+2022,13,Bolívar,13473,Morales,Expansion,0.0
+2022,13,Bolívar,13473,Morales,Nuevo,0.0
+2022,13,Bolívar,13490,Norosí,Abandono,73.4762598
+2022,13,Bolívar,13490,Norosí,Estable,889.53331889
+2022,13,Bolívar,13490,Norosí,Expansion,127.32952199
+2022,13,Bolívar,13490,Norosí,Nuevo,54.01603397
+2022,13,Bolívar,13600,Río Viejo,Abandono,32.55808994
+2022,13,Bolívar,13600,Río Viejo,Estable,579.67901355
+2022,13,Bolívar,13600,Río Viejo,Expansion,77.73132664
+2022,13,Bolívar,13600,Río Viejo,Nuevo,18.7425
+2022,13,Bolívar,13655,San Jacinto Del Cauca,Abandono,5.96249996
+2022,13,Bolívar,13655,San Jacinto Del Cauca,Estable,10.26000008
+2022,13,Bolívar,13655,San Jacinto Del Cauca,Expansion,0.56249983
+2022,13,Bolívar,13655,San Jacinto Del Cauca,Nuevo,1.845
+2022,13,Bolívar,13667,San Martín De Loba,Abandono,43.78499993
+2022,13,Bolívar,13667,San Martín De Loba,Estable,452.93040148
+2022,13,Bolívar,13667,San Martín De Loba,Expansion,100.7763587
+2022,13,Bolívar,13667,San Martín De Loba,Nuevo,93.26492461
+2022,13,Bolívar,13670,San Pablo,Abandono,55.23765967
+2022,13,Bolívar,13670,San Pablo,Estable,55.3950009
+2022,13,Bolívar,13670,San Pablo,Expansion,50.51249933
+2022,13,Bolívar,13670,San Pablo,Nuevo,13.09499999
+2022,13,Bolívar,13688,Santa Rosa Del Sur,Abandono,1544.61761341
+2022,13,Bolívar,13688,Santa Rosa Del Sur,Estable,864.57569367
+2022,13,Bolívar,13688,Santa Rosa Del Sur,Expansion,102.02592518
+2022,13,Bolívar,13688,Santa Rosa Del Sur,Nuevo,60.26780425
+2022,13,Bolívar,13744,Simití,Abandono,241.94249277
+2022,13,Bolívar,13744,Simití,Estable,1797.8849975
+2022,13,Bolívar,13744,Simití,Expansion,219.2400026
+2022,13,Bolívar,13744,Simití,Nuevo,92.11500006
+2022,13,Bolívar,13810,Tiquisio,Abandono,30.29314797
+2022,13,Bolívar,13810,Tiquisio,Estable,79.17016546
+2022,13,Bolívar,13810,Tiquisio,Expansion,45.25165401
+2022,13,Bolívar,13810,Tiquisio,Nuevo,35.71396613
+2022,17,Caldas,17001,Manizales,Abandono,0.0
+2022,17,Caldas,17001,Manizales,Estable,0.0
+2022,17,Caldas,17001,Manizales,Expansion,0.0
+2022,17,Caldas,17001,Manizales,Nuevo,0.0
+2022,17,Caldas,17380,La Dorada,Abandono,1.06614948
+2022,17,Caldas,17380,La Dorada,Estable,1.65239802
+2022,17,Caldas,17380,La Dorada,Expansion,2.52208096
+2022,17,Caldas,17380,La Dorada,Nuevo,0.0
+2022,17,Caldas,17388,La Merced,Abandono,0.0
+2022,17,Caldas,17388,La Merced,Estable,0.0
+2022,17,Caldas,17388,La Merced,Expansion,0.0
+2022,17,Caldas,17388,La Merced,Nuevo,0.0
+2022,17,Caldas,17433,Manzanares,Abandono,0.0
+2022,17,Caldas,17433,Manzanares,Estable,0.0
+2022,17,Caldas,17433,Manzanares,Expansion,0.0
+2022,17,Caldas,17433,Manzanares,Nuevo,0.0
+2022,17,Caldas,17442,Marmato,Abandono,0.0
+2022,17,Caldas,17442,Marmato,Estable,0.0
+2022,17,Caldas,17442,Marmato,Expansion,0.0
+2022,17,Caldas,17442,Marmato,Nuevo,0.0
+2022,17,Caldas,17444,Marquetalia,Abandono,0.0
+2022,17,Caldas,17444,Marquetalia,Estable,0.0
+2022,17,Caldas,17444,Marquetalia,Expansion,0.0
+2022,17,Caldas,17444,Marquetalia,Nuevo,0.0
+2022,17,Caldas,17495,Norcasia,Abandono,4.92749854
+2022,17,Caldas,17495,Norcasia,Estable,27.20249809
+2022,17,Caldas,17495,Norcasia,Expansion,1.55250096
+2022,17,Caldas,17495,Norcasia,Nuevo,8.145
+2022,17,Caldas,17513,Pácora,Abandono,0.0
+2022,17,Caldas,17513,Pácora,Estable,0.0
+2022,17,Caldas,17513,Pácora,Expansion,0.0
+2022,17,Caldas,17513,Pácora,Nuevo,0.0
+2022,17,Caldas,17541,Pensilvania,Abandono,0.0
+2022,17,Caldas,17541,Pensilvania,Estable,0.0
+2022,17,Caldas,17541,Pensilvania,Expansion,0.0
+2022,17,Caldas,17541,Pensilvania,Nuevo,0.0
+2022,17,Caldas,17614,Riosucio,Abandono,0.0
+2022,17,Caldas,17614,Riosucio,Estable,0.0
+2022,17,Caldas,17614,Riosucio,Expansion,0.0
+2022,17,Caldas,17614,Riosucio,Nuevo,0.0
+2022,17,Caldas,17662,Samaná,Abandono,0.15856497
+2022,17,Caldas,17662,Samaná,Estable,0.0
+2022,17,Caldas,17662,Samaná,Expansion,0.0
+2022,17,Caldas,17662,Samaná,Nuevo,0.0
+2022,17,Caldas,17777,Supía,Abandono,0.0
+2022,17,Caldas,17777,Supía,Estable,0.0
+2022,17,Caldas,17777,Supía,Expansion,0.0
+2022,17,Caldas,17777,Supía,Nuevo,0.0
+2022,17,Caldas,17867,Victoria,Abandono,10.20635117
+2022,17,Caldas,17867,Victoria,Estable,23.61510228
+2022,17,Caldas,17867,Victoria,Expansion,10.77541893
+2022,17,Caldas,17867,Victoria,Nuevo,1.8225
+2022,18,Caquetá,18205,Curillo,Abandono,0.0
+2022,18,Caquetá,18205,Curillo,Estable,0.0
+2022,18,Caquetá,18205,Curillo,Expansion,0.0
+2022,18,Caquetá,18205,Curillo,Nuevo,2.72250001
+2022,18,Caquetá,18610,San José Del Fragua,Abandono,10.89000091
+2022,18,Caquetá,18610,San José Del Fragua,Estable,90.20250235
+2022,18,Caquetá,18610,San José Del Fragua,Expansion,17.48249885
+2022,18,Caquetá,18610,San José Del Fragua,Nuevo,23.17500004
+2022,19,Cauca,19001,Popayán,Abandono,0.0
+2022,19,Cauca,19001,Popayán,Estable,0.0
+2022,19,Cauca,19001,Popayán,Expansion,0.0
+2022,19,Cauca,19001,Popayán,Nuevo,0.0
+2022,19,Cauca,19100,Bolívar,Abandono,9.53079195
+2022,19,Cauca,19100,Bolívar,Estable,34.53169298
+2022,19,Cauca,19100,Bolívar,Expansion,4.67298299
+2022,19,Cauca,19100,Bolívar,Nuevo,0.0
+2022,19,Cauca,19110,Buenos Aires,Abandono,0.42749976
+2022,19,Cauca,19110,Buenos Aires,Estable,38.62360804
+2022,19,Cauca,19110,Buenos Aires,Expansion,0.71999993
+2022,19,Cauca,19110,Buenos Aires,Nuevo,0.0
+2022,19,Cauca,19142,Caloto,Abandono,0.0
+2022,19,Cauca,19142,Caloto,Estable,0.0
+2022,19,Cauca,19142,Caloto,Expansion,0.0
+2022,19,Cauca,19142,Caloto,Nuevo,0.0
+2022,19,Cauca,19256,El Tambo,Abandono,6.17076687
+2022,19,Cauca,19256,El Tambo,Estable,24.25567481
+2022,19,Cauca,19256,El Tambo,Expansion,0.06750005
+2022,19,Cauca,19256,El Tambo,Nuevo,11.76443718
+2022,19,Cauca,19300,Guachené,Abandono,0.0
+2022,19,Cauca,19300,Guachené,Estable,0.0
+2022,19,Cauca,19300,Guachené,Expansion,0.0
+2022,19,Cauca,19300,Guachené,Nuevo,0.0
+2022,19,Cauca,19318,Guapi,Abandono,148.75151099
+2022,19,Cauca,19318,Guapi,Estable,405.27436862
+2022,19,Cauca,19318,Guapi,Expansion,25.69499959
+2022,19,Cauca,19318,Guapi,Nuevo,43.51500007
+2022,19,Cauca,19355,Inzá,Abandono,0.0
+2022,19,Cauca,19355,Inzá,Estable,0.0
+2022,19,Cauca,19355,Inzá,Expansion,0.0
+2022,19,Cauca,19355,Inzá,Nuevo,0.0
+2022,19,Cauca,19392,La Sierra,Abandono,1.97423329
+2022,19,Cauca,19392,La Sierra,Estable,18.17932547
+2022,19,Cauca,19392,La Sierra,Expansion,0.225
+2022,19,Cauca,19392,La Sierra,Nuevo,0.0
+2022,19,Cauca,19397,La Vega,Abandono,0.0
+2022,19,Cauca,19397,La Vega,Estable,0.0
+2022,19,Cauca,19397,La Vega,Expansion,0.0
+2022,19,Cauca,19397,La Vega,Nuevo,0.0
+2022,19,Cauca,19418,López De Micay,Abandono,43.04250262
+2022,19,Cauca,19418,López De Micay,Estable,439.51500141
+2022,19,Cauca,19418,López De Micay,Expansion,87.7724987
+2022,19,Cauca,19418,López De Micay,Nuevo,133.65306279
+2022,19,Cauca,19450,Mercaderes,Abandono,21.76671009
+2022,19,Cauca,19450,Mercaderes,Estable,69.59830912
+2022,19,Cauca,19450,Mercaderes,Expansion,4.91201475
+2022,19,Cauca,19450,Mercaderes,Nuevo,0.0
+2022,19,Cauca,19473,Morales,Abandono,0.0
+2022,19,Cauca,19473,Morales,Estable,0.0
+2022,19,Cauca,19473,Morales,Expansion,0.0
+2022,19,Cauca,19473,Morales,Nuevo,0.0
+2022,19,Cauca,19532,Patía,Abandono,0.13500014
+2022,19,Cauca,19532,Patía,Estable,0.0
+2022,19,Cauca,19532,Patía,Expansion,0.0
+2022,19,Cauca,19532,Patía,Nuevo,0.0
+2022,19,Cauca,19533,Piamonte,Abandono,7.82999818
+2022,19,Cauca,19533,Piamonte,Estable,37.71000008
+2022,19,Cauca,19533,Piamonte,Expansion,5.37750123
+2022,19,Cauca,19533,Piamonte,Nuevo,20.1375
+2022,19,Cauca,19622,Rosas,Abandono,0.0
+2022,19,Cauca,19622,Rosas,Estable,0.0
+2022,19,Cauca,19622,Rosas,Expansion,0.0
+2022,19,Cauca,19622,Rosas,Nuevo,0.0
+2022,19,Cauca,19698,Santander De Quilichao,Abandono,1.71000028
+2022,19,Cauca,19698,Santander De Quilichao,Estable,56.05639253
+2022,19,Cauca,19698,Santander De Quilichao,Expansion,3.01499989
+2022,19,Cauca,19698,Santander De Quilichao,Nuevo,0.0
+2022,19,Cauca,19701,Santa Rosa,Abandono,0.0
+2022,19,Cauca,19701,Santa Rosa,Estable,0.0
+2022,19,Cauca,19701,Santa Rosa,Expansion,0.0
+2022,19,Cauca,19701,Santa Rosa,Nuevo,0.0
+2022,19,Cauca,19780,Suárez,Abandono,0.0
+2022,19,Cauca,19780,Suárez,Estable,0.0
+2022,19,Cauca,19780,Suárez,Expansion,0.0
+2022,19,Cauca,19780,Suárez,Nuevo,0.0
+2022,19,Cauca,19809,Timbiquí,Abandono,105.36349161
+2022,19,Cauca,19809,Timbiquí,Estable,1261.25563511
+2022,19,Cauca,19809,Timbiquí,Expansion,23.80500055
+2022,19,Cauca,19809,Timbiquí,Nuevo,23.73749999
+2022,23,Córdoba,23068,Ayapel,Abandono,251.64000215
+2022,23,Córdoba,23068,Ayapel,Estable,4105.03673079
+2022,23,Córdoba,23068,Ayapel,Expansion,585.02249947
+2022,23,Córdoba,23068,Ayapel,Nuevo,186.29999995
+2022,23,Córdoba,23350,La Apartada,Abandono,2.94750029
+2022,23,Córdoba,23350,La Apartada,Estable,15.29999966
+2022,23,Córdoba,23350,La Apartada,Expansion,12.51000031
+2022,23,Córdoba,23350,La Apartada,Nuevo,2.52000001
+2022,23,Córdoba,23466,Montelíbano,Abandono,0.0
+2022,23,Córdoba,23466,Montelíbano,Estable,0.0
+2022,23,Córdoba,23466,Montelíbano,Expansion,0.0
+2022,23,Córdoba,23466,Montelíbano,Nuevo,0.0
+2022,23,Córdoba,23580,Puerto Libertador,Abandono,5.89499965
+2022,23,Córdoba,23580,Puerto Libertador,Estable,60.21000032
+2022,23,Córdoba,23580,Puerto Libertador,Expansion,5.42249936
+2022,23,Córdoba,23580,Puerto Libertador,Nuevo,9.2925
+2022,23,Córdoba,23682,San José De Uré,Abandono,19.09024283
+2022,23,Córdoba,23682,San José De Uré,Estable,119.72973709
+2022,23,Córdoba,23682,San José De Uré,Expansion,14.65928602
+2022,23,Córdoba,23682,San José De Uré,Nuevo,20.3849997
+2022,23,Córdoba,23807,Tierralta,Abandono,0.0
+2022,23,Córdoba,23807,Tierralta,Estable,0.0
+2022,23,Córdoba,23807,Tierralta,Expansion,0.0
+2022,23,Córdoba,23807,Tierralta,Nuevo,0.0
+2022,27,Chocó,27001,Quibdó,Abandono,386.07227605
+2022,27,Chocó,27001,Quibdó,Estable,1851.86309619
+2022,27,Chocó,27001,Quibdó,Expansion,250.76923031
+2022,27,Chocó,27001,Quibdó,Nuevo,64.96411343
+2022,27,Chocó,27006,Acandí,Abandono,23.19750065
+2022,27,Chocó,27006,Acandí,Estable,28.44000016
+2022,27,Chocó,27006,Acandí,Expansion,0.20249956
+2022,27,Chocó,27006,Acandí,Nuevo,0.0
+2022,27,Chocó,27025,Alto Baudó,Abandono,0.0
+2022,27,Chocó,27025,Alto Baudó,Estable,0.0
+2022,27,Chocó,27025,Alto Baudó,Expansion,0.0
+2022,27,Chocó,27025,Alto Baudó,Nuevo,0.0
+2022,27,Chocó,27050,Atrato,Abandono,191.62494506
+2022,27,Chocó,27050,Atrato,Estable,874.89132886
+2022,27,Chocó,27050,Atrato,Expansion,115.8483072
+2022,27,Chocó,27050,Atrato,Nuevo,47.81690566
+2022,27,Chocó,27073,Bagadó,Abandono,79.80014891
+2022,27,Chocó,27073,Bagadó,Estable,257.18075006
+2022,27,Chocó,27073,Bagadó,Expansion,27.50440844
+2022,27,Chocó,27073,Bagadó,Nuevo,1.77750002
+2022,27,Chocó,27077,Bajo Baudó,Abandono,0.0
+2022,27,Chocó,27077,Bajo Baudó,Estable,0.0
+2022,27,Chocó,27077,Bajo Baudó,Expansion,0.0
+2022,27,Chocó,27077,Bajo Baudó,Nuevo,0.0
+2022,27,Chocó,27099,Bojayá,Abandono,0.0
+2022,27,Chocó,27099,Bojayá,Estable,0.0
+2022,27,Chocó,27099,Bojayá,Expansion,0.0
+2022,27,Chocó,27099,Bojayá,Nuevo,0.0
+2022,27,Chocó,27135,El Cantón Del San Pablo,Abandono,373.52639035
+2022,27,Chocó,27135,El Cantón Del San Pablo,Estable,5269.44585828
+2022,27,Chocó,27135,El Cantón Del San Pablo,Expansion,603.43303135
+2022,27,Chocó,27135,El Cantón Del San Pablo,Nuevo,27.17999999
+2022,27,Chocó,27150,Carmen Del Darién,Abandono,1.53990357
+2022,27,Chocó,27150,Carmen Del Darién,Estable,0.0
+2022,27,Chocó,27150,Carmen Del Darién,Expansion,0.0
+2022,27,Chocó,27150,Carmen Del Darién,Nuevo,0.0
+2022,27,Chocó,27160,Cértegui,Abandono,213.82221286
+2022,27,Chocó,27160,Cértegui,Estable,1531.23586414
+2022,27,Chocó,27160,Cértegui,Expansion,269.37860946
+2022,27,Chocó,27160,Cértegui,Nuevo,24.50250005
+2022,27,Chocó,27205,Condoto,Abandono,472.77784539
+2022,27,Chocó,27205,Condoto,Estable,2196.64173688
+2022,27,Chocó,27205,Condoto,Expansion,211.88723747
+2022,27,Chocó,27205,Condoto,Nuevo,25.02
+2022,27,Chocó,27245,El Carmen De Atrato,Abandono,0.0
+2022,27,Chocó,27245,El Carmen De Atrato,Estable,0.0
+2022,27,Chocó,27245,El Carmen De Atrato,Expansion,0.0
+2022,27,Chocó,27245,El Carmen De Atrato,Nuevo,0.0
+2022,27,Chocó,27250,El Litoral Del San Juan,Abandono,0.0
+2022,27,Chocó,27250,El Litoral Del San Juan,Estable,0.0
+2022,27,Chocó,27250,El Litoral Del San Juan,Expansion,0.0
+2022,27,Chocó,27250,El Litoral Del San Juan,Nuevo,0.7425
+2022,27,Chocó,27361,Istmina,Abandono,485.59206472
+2022,27,Chocó,27361,Istmina,Estable,4245.80888905
+2022,27,Chocó,27361,Istmina,Expansion,455.57376013
+2022,27,Chocó,27361,Istmina,Nuevo,56.30105264
+2022,27,Chocó,27413,Lloró,Abandono,165.25349267
+2022,27,Chocó,27413,Lloró,Estable,469.03877344
+2022,27,Chocó,27413,Lloró,Expansion,79.27169283
+2022,27,Chocó,27413,Lloró,Nuevo,60.27750006
+2022,27,Chocó,27425,Medio Atrato,Abandono,368.93771226
+2022,27,Chocó,27425,Medio Atrato,Estable,2096.88691183
+2022,27,Chocó,27425,Medio Atrato,Expansion,251.63326707
+2022,27,Chocó,27425,Medio Atrato,Nuevo,20.14904044
+2022,27,Chocó,27430,Medio Baudó,Abandono,1.40909887
+2022,27,Chocó,27430,Medio Baudó,Estable,3.74009914
+2022,27,Chocó,27430,Medio Baudó,Expansion,0.02088375
+2022,27,Chocó,27430,Medio Baudó,Nuevo,4.63499998
+2022,27,Chocó,27450,Medio San Juan,Abandono,298.23487761
+2022,27,Chocó,27450,Medio San Juan,Estable,1345.51089198
+2022,27,Chocó,27450,Medio San Juan,Expansion,171.43130657
+2022,27,Chocó,27450,Medio San Juan,Nuevo,53.52749987
+2022,27,Chocó,27491,Nóvita,Abandono,1192.26605636
+2022,27,Chocó,27491,Nóvita,Estable,4483.8904865
+2022,27,Chocó,27491,Nóvita,Expansion,755.26213609
+2022,27,Chocó,27491,Nóvita,Nuevo,105.61500008
+2022,27,Chocó,27495,Nuquí,Abandono,0.0
+2022,27,Chocó,27495,Nuquí,Estable,0.0
+2022,27,Chocó,27495,Nuquí,Expansion,0.0
+2022,27,Chocó,27495,Nuquí,Nuevo,0.0
+2022,27,Chocó,27580,Río Iró,Abandono,125.7917505
+2022,27,Chocó,27580,Río Iró,Estable,350.81373772
+2022,27,Chocó,27580,Río Iró,Expansion,73.1250028
+2022,27,Chocó,27580,Río Iró,Nuevo,37.41750004
+2022,27,Chocó,27600,Río Quito,Abandono,501.0082875
+2022,27,Chocó,27600,Río Quito,Estable,3789.84019072
+2022,27,Chocó,27600,Río Quito,Expansion,479.2338518
+2022,27,Chocó,27600,Río Quito,Nuevo,91.46244066
+2022,27,Chocó,27615,Riosucio,Abandono,55.38509038
+2022,27,Chocó,27615,Riosucio,Estable,218.31750116
+2022,27,Chocó,27615,Riosucio,Expansion,1.07999973
+2022,27,Chocó,27615,Riosucio,Nuevo,3.99395893
+2022,27,Chocó,27660,San José Del Palmar,Abandono,15.27750045
+2022,27,Chocó,27660,San José Del Palmar,Estable,23.26499991
+2022,27,Chocó,27660,San José Del Palmar,Expansion,1.98000019
+2022,27,Chocó,27660,San José Del Palmar,Nuevo,0.0
+2022,27,Chocó,27745,Sipí,Abandono,161.43810859
+2022,27,Chocó,27745,Sipí,Estable,596.4066147
+2022,27,Chocó,27745,Sipí,Expansion,48.07312025
+2022,27,Chocó,27745,Sipí,Nuevo,20.79000009
+2022,27,Chocó,27787,Tadó,Abandono,308.8230282
+2022,27,Chocó,27787,Tadó,Estable,698.15646
+2022,27,Chocó,27787,Tadó,Expansion,64.68319441
+2022,27,Chocó,27787,Tadó,Nuevo,12.93144739
+2022,27,Chocó,27800,Unguía,Abandono,39.26250029
+2022,27,Chocó,27800,Unguía,Estable,44.95499966
+2022,27,Chocó,27800,Unguía,Expansion,0.15750012
+2022,27,Chocó,27800,Unguía,Nuevo,0.0
+2022,27,Chocó,27810,Unión Panamericana,Abandono,477.92413131
+2022,27,Chocó,27810,Unión Panamericana,Estable,2664.56084117
+2022,27,Chocó,27810,Unión Panamericana,Expansion,215.7984468
+2022,27,Chocó,27810,Unión Panamericana,Nuevo,64.28250002
+2022,41,Huila,41357,Íquira,Abandono,0.0
+2022,41,Huila,41357,Íquira,Estable,0.0
+2022,41,Huila,41357,Íquira,Expansion,0.0
+2022,41,Huila,41357,Íquira,Nuevo,0.0
+2022,41,Huila,41518,Paicol,Abandono,0.0
+2022,41,Huila,41518,Paicol,Estable,0.0
+2022,41,Huila,41518,Paicol,Expansion,0.0
+2022,41,Huila,41518,Paicol,Nuevo,0.0
+2022,41,Huila,41797,Tesalia,Abandono,0.0
+2022,41,Huila,41797,Tesalia,Estable,0.0
+2022,41,Huila,41797,Tesalia,Expansion,0.0
+2022,41,Huila,41797,Tesalia,Nuevo,0.0
+2022,44,La Guajira,44090,Dibulla,Abandono,0.0
+2022,44,La Guajira,44090,Dibulla,Estable,1.9125002
+2022,44,La Guajira,44090,Dibulla,Expansion,0.20250004
+2022,44,La Guajira,44090,Dibulla,Nuevo,4.05
+2022,47,Magdalena,47245,El Banco,Abandono,0.0
+2022,47,Magdalena,47245,El Banco,Estable,0.0
+2022,47,Magdalena,47245,El Banco,Expansion,0.0
+2022,47,Magdalena,47245,El Banco,Nuevo,0.0
+2022,52,Nariño,52079,Barbacoas,Abandono,139.31011959
+2022,52,Nariño,52079,Barbacoas,Estable,1579.58162029
+2022,52,Nariño,52079,Barbacoas,Expansion,154.47126801
+2022,52,Nariño,52079,Barbacoas,Nuevo,94.06172829
+2022,52,Nariño,52233,Cumbitara,Abandono,0.0
+2022,52,Nariño,52233,Cumbitara,Estable,0.0
+2022,52,Nariño,52233,Cumbitara,Expansion,0.0
+2022,52,Nariño,52233,Cumbitara,Nuevo,0.0
+2022,52,Nariño,52250,El Charco,Abandono,8.12249951
+2022,52,Nariño,52250,El Charco,Estable,225.29385365
+2022,52,Nariño,52250,El Charco,Expansion,11.81249939
+2022,52,Nariño,52250,El Charco,Nuevo,37.58390642
+2022,52,Nariño,52385,La Llanada,Abandono,0.0
+2022,52,Nariño,52385,La Llanada,Estable,2.67618777
+2022,52,Nariño,52385,La Llanada,Expansion,0.0
+2022,52,Nariño,52385,La Llanada,Nuevo,0.405
+2022,52,Nariño,52418,Los Andes,Abandono,4.54500014
+2022,52,Nariño,52418,Los Andes,Estable,90.40611391
+2022,52,Nariño,52418,Los Andes,Expansion,17.95500162
+2022,52,Nariño,52418,Los Andes,Nuevo,8.86500001
+2022,52,Nariño,52427,Magüí,Abandono,85.38274239
+2022,52,Nariño,52427,Magüí,Estable,1227.04222527
+2022,52,Nariño,52427,Magüí,Expansion,148.52766301
+2022,52,Nariño,52427,Magüí,Nuevo,73.30686531
+2022,52,Nariño,52621,Roberto Payán,Abandono,4.07769789
+2022,52,Nariño,52621,Roberto Payán,Estable,118.48340475
+2022,52,Nariño,52621,Roberto Payán,Expansion,38.5941434
+2022,52,Nariño,52621,Roberto Payán,Nuevo,16.74
+2022,52,Nariño,52678,Samaniego,Abandono,4.58850763
+2022,52,Nariño,52678,Samaniego,Estable,0.0
+2022,52,Nariño,52678,Samaniego,Expansion,0.0
+2022,52,Nariño,52678,Samaniego,Nuevo,0.0
+2022,52,Nariño,52696,Santa Bárbara,Abandono,12.66749934
+2022,52,Nariño,52696,Santa Bárbara,Estable,214.84756365
+2022,52,Nariño,52696,Santa Bárbara,Expansion,36.7875003
+2022,52,Nariño,52696,Santa Bárbara,Nuevo,70.96499999
+2022,52,Nariño,52835,San Andrés De Tumaco,Abandono,3.13841991
+2022,52,Nariño,52835,San Andrés De Tumaco,Estable,43.36653784
+2022,52,Nariño,52835,San Andrés De Tumaco,Expansion,12.33191879
+2022,52,Nariño,52835,San Andrés De Tumaco,Nuevo,11.72249999
+2022,66,Risaralda,66456,Mistrató,Abandono,0.0
+2022,66,Risaralda,66456,Mistrató,Estable,0.0
+2022,66,Risaralda,66456,Mistrató,Expansion,0.0
+2022,66,Risaralda,66456,Mistrató,Nuevo,0.0
+2022,66,Risaralda,66572,Pueblo Rico,Abandono,0.0
+2022,66,Risaralda,66572,Pueblo Rico,Estable,0.0
+2022,66,Risaralda,66572,Pueblo Rico,Expansion,0.0
+2022,66,Risaralda,66572,Pueblo Rico,Nuevo,0.0
+2022,68,Santander,68132,California,Abandono,0.0
+2022,68,Santander,68132,California,Estable,0.0
+2022,68,Santander,68132,California,Expansion,0.0
+2022,68,Santander,68132,California,Nuevo,0.0
+2022,68,Santander,68780,Suratá,Abandono,0.0
+2022,68,Santander,68780,Suratá,Estable,0.0
+2022,68,Santander,68780,Suratá,Expansion,0.0
+2022,68,Santander,68780,Suratá,Nuevo,0.0
+2022,68,Santander,68867,Vetas,Abandono,0.0
+2022,68,Santander,68867,Vetas,Estable,0.0
+2022,68,Santander,68867,Vetas,Expansion,0.0
+2022,68,Santander,68867,Vetas,Nuevo,0.0
+2022,73,Tolima,73067,Ataco,Abandono,0.0
+2022,73,Tolima,73067,Ataco,Estable,0.0
+2022,73,Tolima,73067,Ataco,Expansion,0.0
+2022,73,Tolima,73067,Ataco,Nuevo,11.76750006
+2022,73,Tolima,73168,Chaparral,Abandono,0.0
+2022,73,Tolima,73168,Chaparral,Estable,0.0
+2022,73,Tolima,73168,Chaparral,Expansion,0.0
+2022,73,Tolima,73168,Chaparral,Nuevo,3.105
+2022,73,Tolima,73217,Coyaima,Abandono,7.3349991
+2022,73,Tolima,73217,Coyaima,Estable,20.81250085
+2022,73,Tolima,73217,Coyaima,Expansion,5.24249935
+2022,73,Tolima,73217,Coyaima,Nuevo,0.495
+2022,76,Valle Del Cauca,76109,Buenaventura,Abandono,138.71250067
+2022,76,Valle Del Cauca,76109,Buenaventura,Estable,427.58999953
+2022,76,Valle Del Cauca,76109,Buenaventura,Expansion,65.96999902
+2022,76,Valle Del Cauca,76109,Buenaventura,Nuevo,138.46499969
+2022,76,Valle Del Cauca,76111,Guadalajara De Buga,Abandono,0.0
+2022,76,Valle Del Cauca,76111,Guadalajara De Buga,Estable,0.0
+2022,76,Valle Del Cauca,76111,Guadalajara De Buga,Expansion,0.0
+2022,76,Valle Del Cauca,76111,Guadalajara De Buga,Nuevo,0.0
+2022,76,Valle Del Cauca,76122,Caicedonia,Abandono,0.0
+2022,76,Valle Del Cauca,76122,Caicedonia,Estable,0.0
+2022,76,Valle Del Cauca,76122,Caicedonia,Expansion,0.0
+2022,76,Valle Del Cauca,76122,Caicedonia,Nuevo,0.0
+2022,76,Valle Del Cauca,76126,Calima,Abandono,4.61250071
+2022,76,Valle Del Cauca,76126,Calima,Estable,4.54499995
+2022,76,Valle Del Cauca,76126,Calima,Expansion,2.38499977
+2022,76,Valle Del Cauca,76126,Calima,Nuevo,4.29750001
+2022,76,Valle Del Cauca,76233,Dagua,Abandono,0.0
+2022,76,Valle Del Cauca,76233,Dagua,Estable,0.0
+2022,76,Valle Del Cauca,76233,Dagua,Expansion,0.0
+2022,76,Valle Del Cauca,76233,Dagua,Nuevo,0.0
+2022,76,Valle Del Cauca,76670,San Pedro,Abandono,0.0
+2022,76,Valle Del Cauca,76670,San Pedro,Estable,0.0
+2022,76,Valle Del Cauca,76670,San Pedro,Expansion,0.0
+2022,76,Valle Del Cauca,76670,San Pedro,Nuevo,0.0
+2022,76,Valle Del Cauca,76736,Sevilla,Abandono,0.0
+2022,76,Valle Del Cauca,76736,Sevilla,Estable,0.0
+2022,76,Valle Del Cauca,76736,Sevilla,Expansion,0.0
+2022,76,Valle Del Cauca,76736,Sevilla,Nuevo,0.0
+2022,86,Putumayo,86001,Mocoa,Abandono,14.61749377
+2022,86,Putumayo,86001,Mocoa,Estable,56.86956148
+2022,86,Putumayo,86001,Mocoa,Expansion,18.73580668
+2022,86,Putumayo,86001,Mocoa,Nuevo,0.0
+2022,86,Putumayo,86219,Colón,Abandono,0.0
+2022,86,Putumayo,86219,Colón,Estable,0.0
+2022,86,Putumayo,86219,Colón,Expansion,0.0
+2022,86,Putumayo,86219,Colón,Nuevo,0.0
+2022,86,Putumayo,86320,Orito,Abandono,33.18749774
+2022,86,Putumayo,86320,Orito,Estable,18.44999919
+2022,86,Putumayo,86320,Orito,Expansion,8.14500091
+2022,86,Putumayo,86320,Orito,Nuevo,0.63
+2022,86,Putumayo,86568,Puerto Asís,Abandono,1.97999997
+2022,86,Putumayo,86568,Puerto Asís,Estable,8.83636072
+2022,86,Putumayo,86568,Puerto Asís,Expansion,3.32999965
+2022,86,Putumayo,86568,Puerto Asís,Nuevo,1.215
+2022,86,Putumayo,86569,Puerto Caicedo,Abandono,24.16500085
+2022,86,Putumayo,86569,Puerto Caicedo,Estable,67.32614125
+2022,86,Putumayo,86569,Puerto Caicedo,Expansion,8.3474985
+2022,86,Putumayo,86569,Puerto Caicedo,Nuevo,10.59750002
+2022,86,Putumayo,86571,Puerto Guzmán,Abandono,44.51250016
+2022,86,Putumayo,86571,Puerto Guzmán,Estable,198.75293536
+2022,86,Putumayo,86571,Puerto Guzmán,Expansion,77.78919492
+2022,86,Putumayo,86571,Puerto Guzmán,Nuevo,45.9675
+2022,86,Putumayo,86749,Sibundoy,Abandono,0.0
+2022,86,Putumayo,86749,Sibundoy,Estable,0.0
+2022,86,Putumayo,86749,Sibundoy,Expansion,0.0
+2022,86,Putumayo,86749,Sibundoy,Nuevo,0.0
+2022,86,Putumayo,86885,Villagarzón,Abandono,13.02749908
+2022,86,Putumayo,86885,Villagarzón,Estable,44.1674998
+2022,86,Putumayo,86885,Villagarzón,Expansion,11.43000057
+2022,86,Putumayo,86885,Villagarzón,Nuevo,1.395
+2022,94,Guainía,94001,Inírida,Abandono,0.0
+2022,94,Guainía,94001,Inírida,Estable,13.77000043
+2022,94,Guainía,94001,Inírida,Expansion,1.28250011
+2022,94,Guainía,94001,Inírida,Nuevo,1.43999984
+2022,94,Guainía,94884,Puerto Colombia,Abandono,3.59657931
+2022,94,Guainía,94884,Puerto Colombia,Estable,46.39499764
+2022,94,Guainía,94884,Puerto Colombia,Expansion,4.88250023
+2022,94,Guainía,94884,Puerto Colombia,Nuevo,5.80499996
+2022,94,Guainía,94887,Pana Pana,Abandono,18.99342237
+2022,94,Guainía,94887,Pana Pana,Estable,68.1749988
+2022,94,Guainía,94887,Pana Pana,Expansion,18.24749955
+2022,94,Guainía,94887,Pana Pana,Nuevo,1.98
+2022,97,Vaupés,97666,Taraira,Abandono,0.0
+2022,97,Vaupés,97666,Taraira,Estable,0.0
+2022,97,Vaupés,97666,Taraira,Expansion,0.0
+2022,97,Vaupés,97666,Taraira,Nuevo,0.0
+2023,05,Antioquia,05031,Amalfi,Abandono,144.41176529
+2023,05,Antioquia,05031,Amalfi,Estable,815.59362873
+2023,05,Antioquia,05031,Amalfi,Expansion,317.972252
+2023,05,Antioquia,05031,Amalfi,Nuevo,99.75359347
+2023,05,Antioquia,05034,Andes,Abandono,0.0
+2023,05,Antioquia,05034,Andes,Estable,0.0
+2023,05,Antioquia,05034,Andes,Expansion,0.0
+2023,05,Antioquia,05034,Andes,Nuevo,0.0
+2023,05,Antioquia,05036,Angelópolis,Abandono,0.0
+2023,05,Antioquia,05036,Angelópolis,Estable,0.0
+2023,05,Antioquia,05036,Angelópolis,Expansion,0.0
+2023,05,Antioquia,05036,Angelópolis,Nuevo,0.0
+2023,05,Antioquia,05038,Angostura,Abandono,1.1925
+2023,05,Antioquia,05038,Angostura,Estable,0.0
+2023,05,Antioquia,05038,Angostura,Expansion,0.0
+2023,05,Antioquia,05038,Angostura,Nuevo,0.0
+2023,05,Antioquia,05040,Anorí,Abandono,141.33982409
+2023,05,Antioquia,05040,Anorí,Estable,1197.16677001
+2023,05,Antioquia,05040,Anorí,Expansion,487.22811974
+2023,05,Antioquia,05040,Anorí,Nuevo,329.98393318
+2023,05,Antioquia,05044,Anzá,Abandono,0.0
+2023,05,Antioquia,05044,Anzá,Estable,0.0
+2023,05,Antioquia,05044,Anzá,Expansion,0.0
+2023,05,Antioquia,05044,Anzá,Nuevo,0.0
+2023,05,Antioquia,05055,Argelia,Abandono,0.0
+2023,05,Antioquia,05055,Argelia,Estable,0.0
+2023,05,Antioquia,05055,Argelia,Expansion,0.0
+2023,05,Antioquia,05055,Argelia,Nuevo,0.0
+2023,05,Antioquia,05059,Armenia,Abandono,0.0
+2023,05,Antioquia,05059,Armenia,Estable,0.0
+2023,05,Antioquia,05059,Armenia,Expansion,0.0
+2023,05,Antioquia,05059,Armenia,Nuevo,0.0
+2023,05,Antioquia,05091,Betania,Abandono,0.0
+2023,05,Antioquia,05091,Betania,Estable,0.0
+2023,05,Antioquia,05091,Betania,Expansion,0.0
+2023,05,Antioquia,05091,Betania,Nuevo,0.0
+2023,05,Antioquia,05120,Cáceres,Abandono,605.37003536
+2023,05,Antioquia,05120,Cáceres,Estable,4330.34916932
+2023,05,Antioquia,05120,Cáceres,Expansion,1197.17422005
+2023,05,Antioquia,05120,Cáceres,Nuevo,351.35850447
+2023,05,Antioquia,05134,Campamento,Abandono,0.0
+2023,05,Antioquia,05134,Campamento,Estable,0.0
+2023,05,Antioquia,05134,Campamento,Expansion,0.0
+2023,05,Antioquia,05134,Campamento,Nuevo,0.0
+2023,05,Antioquia,05142,Caracolí,Abandono,6.23026759
+2023,05,Antioquia,05142,Caracolí,Estable,2.06973144
+2023,05,Antioquia,05142,Caracolí,Expansion,1.00867013
+2023,05,Antioquia,05142,Caracolí,Nuevo,0.0
+2023,05,Antioquia,05148,El Carmen De Viboral,Abandono,0.0
+2023,05,Antioquia,05148,El Carmen De Viboral,Estable,0.0
+2023,05,Antioquia,05148,El Carmen De Viboral,Expansion,0.0
+2023,05,Antioquia,05148,El Carmen De Viboral,Nuevo,0.0
+2023,05,Antioquia,05154,Caucasia,Abandono,173.08531241
+2023,05,Antioquia,05154,Caucasia,Estable,2010.23904694
+2023,05,Antioquia,05154,Caucasia,Expansion,724.2118116
+2023,05,Antioquia,05154,Caucasia,Nuevo,100.54870735
+2023,05,Antioquia,05172,Chigorodó,Abandono,0.0
+2023,05,Antioquia,05172,Chigorodó,Estable,0.0
+2023,05,Antioquia,05172,Chigorodó,Expansion,0.0
+2023,05,Antioquia,05172,Chigorodó,Nuevo,0.0
+2023,05,Antioquia,05209,Concordia,Abandono,0.0
+2023,05,Antioquia,05209,Concordia,Estable,0.0
+2023,05,Antioquia,05209,Concordia,Expansion,0.0
+2023,05,Antioquia,05209,Concordia,Nuevo,0.0
+2023,05,Antioquia,05234,Dabeiba,Abandono,0.0
+2023,05,Antioquia,05234,Dabeiba,Estable,0.0
+2023,05,Antioquia,05234,Dabeiba,Expansion,0.0
+2023,05,Antioquia,05234,Dabeiba,Nuevo,0.0
+2023,05,Antioquia,05250,El Bagre,Abandono,543.31011777
+2023,05,Antioquia,05250,El Bagre,Estable,3854.4629523
+2023,05,Antioquia,05250,El Bagre,Expansion,1358.16893633
+2023,05,Antioquia,05250,El Bagre,Nuevo,328.64230778
+2023,05,Antioquia,05284,Frontino,Abandono,0.0
+2023,05,Antioquia,05284,Frontino,Estable,0.0
+2023,05,Antioquia,05284,Frontino,Expansion,0.0
+2023,05,Antioquia,05284,Frontino,Nuevo,0.0
+2023,05,Antioquia,05313,Granada,Abandono,0.0
+2023,05,Antioquia,05313,Granada,Estable,0.0
+2023,05,Antioquia,05313,Granada,Expansion,0.0
+2023,05,Antioquia,05313,Granada,Nuevo,0.0
+2023,05,Antioquia,05315,Guadalupe,Abandono,0.0
+2023,05,Antioquia,05315,Guadalupe,Estable,0.0
+2023,05,Antioquia,05315,Guadalupe,Expansion,0.0
+2023,05,Antioquia,05315,Guadalupe,Nuevo,0.0
+2023,05,Antioquia,05361,Ituango,Abandono,0.0
+2023,05,Antioquia,05361,Ituango,Estable,0.0
+2023,05,Antioquia,05361,Ituango,Expansion,0.0
+2023,05,Antioquia,05361,Ituango,Nuevo,0.0
+2023,05,Antioquia,05425,Maceo,Abandono,58.79500098
+2023,05,Antioquia,05425,Maceo,Estable,0.0
+2023,05,Antioquia,05425,Maceo,Expansion,0.0
+2023,05,Antioquia,05425,Maceo,Nuevo,17.10619285
+2023,05,Antioquia,05440,Marinilla,Abandono,0.0
+2023,05,Antioquia,05440,Marinilla,Estable,0.0
+2023,05,Antioquia,05440,Marinilla,Expansion,0.0
+2023,05,Antioquia,05440,Marinilla,Nuevo,0.0
+2023,05,Antioquia,05475,Murindó,Abandono,0.0
+2023,05,Antioquia,05475,Murindó,Estable,0.0
+2023,05,Antioquia,05475,Murindó,Expansion,0.0
+2023,05,Antioquia,05475,Murindó,Nuevo,0.0
+2023,05,Antioquia,05480,Mutatá,Abandono,21.97602443
+2023,05,Antioquia,05480,Mutatá,Estable,132.56499195
+2023,05,Antioquia,05480,Mutatá,Expansion,16.74494982
+2023,05,Antioquia,05480,Mutatá,Nuevo,0.4275
+2023,05,Antioquia,05483,Nariño,Abandono,0.0
+2023,05,Antioquia,05483,Nariño,Estable,0.0
+2023,05,Antioquia,05483,Nariño,Expansion,0.0
+2023,05,Antioquia,05483,Nariño,Nuevo,0.0
+2023,05,Antioquia,05495,Nechí,Abandono,489.71293676
+2023,05,Antioquia,05495,Nechí,Estable,7239.59612845
+2023,05,Antioquia,05495,Nechí,Expansion,769.57379224
+2023,05,Antioquia,05495,Nechí,Nuevo,143.27919931
+2023,05,Antioquia,05579,Puerto Berrío,Abandono,11.56081187
+2023,05,Antioquia,05579,Puerto Berrío,Estable,113.63012363
+2023,05,Antioquia,05579,Puerto Berrío,Expansion,26.54436813
+2023,05,Antioquia,05579,Puerto Berrío,Nuevo,25.04127477
+2023,05,Antioquia,05585,Puerto Nare,Abandono,10.1025
+2023,05,Antioquia,05585,Puerto Nare,Estable,144.94406449
+2023,05,Antioquia,05585,Puerto Nare,Expansion,17.72135992
+2023,05,Antioquia,05585,Puerto Nare,Nuevo,33.6375
+2023,05,Antioquia,05591,Puerto Triunfo,Abandono,0.0
+2023,05,Antioquia,05591,Puerto Triunfo,Estable,0.0
+2023,05,Antioquia,05591,Puerto Triunfo,Expansion,0.0
+2023,05,Antioquia,05591,Puerto Triunfo,Nuevo,0.0
+2023,05,Antioquia,05604,Remedios,Abandono,607.33077533
+2023,05,Antioquia,05604,Remedios,Estable,877.42241186
+2023,05,Antioquia,05604,Remedios,Expansion,384.9780668
+2023,05,Antioquia,05604,Remedios,Nuevo,273.70021704
+2023,05,Antioquia,05652,San Francisco,Abandono,0.0
+2023,05,Antioquia,05652,San Francisco,Estable,0.0
+2023,05,Antioquia,05652,San Francisco,Expansion,0.0
+2023,05,Antioquia,05652,San Francisco,Nuevo,0.0
+2023,05,Antioquia,05660,San Luis,Abandono,0.0
+2023,05,Antioquia,05660,San Luis,Estable,0.0
+2023,05,Antioquia,05660,San Luis,Expansion,0.0
+2023,05,Antioquia,05660,San Luis,Nuevo,0.0
+2023,05,Antioquia,05670,San Roque,Abandono,2.3625
+2023,05,Antioquia,05670,San Roque,Estable,3.47892142
+2023,05,Antioquia,05670,San Roque,Expansion,0.68875849
+2023,05,Antioquia,05670,San Roque,Nuevo,6.80765459
+2023,05,Antioquia,05679,Santa Bárbara,Abandono,0.0
+2023,05,Antioquia,05679,Santa Bárbara,Estable,0.0
+2023,05,Antioquia,05679,Santa Bárbara,Expansion,0.0
+2023,05,Antioquia,05679,Santa Bárbara,Nuevo,0.0
+2023,05,Antioquia,05690,Santo Domingo,Abandono,0.0
+2023,05,Antioquia,05690,Santo Domingo,Estable,0.45857858
+2023,05,Antioquia,05690,Santo Domingo,Expansion,0.18874151
+2023,05,Antioquia,05690,Santo Domingo,Nuevo,8.955
+2023,05,Antioquia,05736,Segovia,Abandono,376.03706078
+2023,05,Antioquia,05736,Segovia,Estable,991.80538944
+2023,05,Antioquia,05736,Segovia,Expansion,320.479264
+2023,05,Antioquia,05736,Segovia,Nuevo,186.3347136
+2023,05,Antioquia,05756,Sonsón,Abandono,25.22392784
+2023,05,Antioquia,05756,Sonsón,Estable,212.39857216
+2023,05,Antioquia,05756,Sonsón,Expansion,33.82032498
+2023,05,Antioquia,05756,Sonsón,Nuevo,17.27101856
+2023,05,Antioquia,05789,Támesis,Abandono,0.0
+2023,05,Antioquia,05789,Támesis,Estable,0.0
+2023,05,Antioquia,05789,Támesis,Expansion,0.0
+2023,05,Antioquia,05789,Támesis,Nuevo,0.0
+2023,05,Antioquia,05790,Tarazá,Abandono,350.43009694
+2023,05,Antioquia,05790,Tarazá,Estable,1142.20390627
+2023,05,Antioquia,05790,Tarazá,Expansion,415.54888037
+2023,05,Antioquia,05790,Tarazá,Nuevo,286.92439549
+2023,05,Antioquia,05809,Titiribí,Abandono,0.0
+2023,05,Antioquia,05809,Titiribí,Estable,0.0
+2023,05,Antioquia,05809,Titiribí,Expansion,0.0
+2023,05,Antioquia,05809,Titiribí,Nuevo,0.0
+2023,05,Antioquia,05847,Urrao,Abandono,0.0
+2023,05,Antioquia,05847,Urrao,Estable,0.0
+2023,05,Antioquia,05847,Urrao,Expansion,0.0
+2023,05,Antioquia,05847,Urrao,Nuevo,0.0
+2023,05,Antioquia,05854,Valdivia,Abandono,64.03019744
+2023,05,Antioquia,05854,Valdivia,Estable,310.97886223
+2023,05,Antioquia,05854,Valdivia,Expansion,49.17564045
+2023,05,Antioquia,05854,Valdivia,Nuevo,8.5205833
+2023,05,Antioquia,05858,Vegachí,Abandono,136.56214567
+2023,05,Antioquia,05858,Vegachí,Estable,190.58353494
+2023,05,Antioquia,05858,Vegachí,Expansion,96.8717643
+2023,05,Antioquia,05858,Vegachí,Nuevo,62.53846381
+2023,05,Antioquia,05861,Venecia,Abandono,0.0
+2023,05,Antioquia,05861,Venecia,Estable,0.0
+2023,05,Antioquia,05861,Venecia,Expansion,0.0
+2023,05,Antioquia,05861,Venecia,Nuevo,0.0
+2023,05,Antioquia,05873,Vigía Del Fuerte,Abandono,14.43536739
+2023,05,Antioquia,05873,Vigía Del Fuerte,Estable,53.8521326
+2023,05,Antioquia,05873,Vigía Del Fuerte,Expansion,12.0340597
+2023,05,Antioquia,05873,Vigía Del Fuerte,Nuevo,1.17
+2023,05,Antioquia,05885,Yalí,Abandono,25.27735714
+2023,05,Antioquia,05885,Yalí,Estable,51.30645128
+2023,05,Antioquia,05885,Yalí,Expansion,25.50241268
+2023,05,Antioquia,05885,Yalí,Nuevo,33.6888091
+2023,05,Antioquia,05890,Yolombó,Abandono,9.46264286
+2023,05,Antioquia,05890,Yolombó,Estable,1.29854872
+2023,05,Antioquia,05890,Yolombó,Expansion,0.91258732
+2023,05,Antioquia,05890,Yolombó,Nuevo,16.68234541
+2023,05,Antioquia,05893,Yondó,Abandono,52.07913216
+2023,05,Antioquia,05893,Yondó,Estable,136.02981851
+2023,05,Antioquia,05893,Yondó,Expansion,24.75899855
+2023,05,Antioquia,05893,Yondó,Nuevo,24.07339793
+2023,05,Antioquia,05895,Zaragoza,Abandono,679.27822625
+2023,05,Antioquia,05895,Zaragoza,Estable,6969.54388004
+2023,05,Antioquia,05895,Zaragoza,Expansion,1489.08808256
+2023,05,Antioquia,05895,Zaragoza,Nuevo,210.12822362
+2023,13,Bolívar,13030,Altos Del Rosario,Abandono,13.99500001
+2023,13,Bolívar,13030,Altos Del Rosario,Estable,5.73577153
+2023,13,Bolívar,13030,Altos Del Rosario,Expansion,3.02231257
+2023,13,Bolívar,13030,Altos Del Rosario,Nuevo,0.0
+2023,13,Bolívar,13042,Arenal,Abandono,11.94580042
+2023,13,Bolívar,13042,Arenal,Estable,43.42669957
+2023,13,Bolívar,13042,Arenal,Expansion,7.50590755
+2023,13,Bolívar,13042,Arenal,Nuevo,0.0
+2023,13,Bolívar,13074,Barranco De Loba,Abandono,60.40366231
+2023,13,Bolívar,13074,Barranco De Loba,Estable,232.63141703
+2023,13,Bolívar,13074,Barranco De Loba,Expansion,101.02206271
+2023,13,Bolívar,13074,Barranco De Loba,Nuevo,6.51093901
+2023,13,Bolívar,13160,Cantagallo,Abandono,0.0
+2023,13,Bolívar,13160,Cantagallo,Estable,0.0
+2023,13,Bolívar,13160,Cantagallo,Expansion,0.0
+2023,13,Bolívar,13160,Cantagallo,Nuevo,0.0
+2023,13,Bolívar,13300,Hatillo De Loba,Abandono,0.0
+2023,13,Bolívar,13300,Hatillo De Loba,Estable,0.0
+2023,13,Bolívar,13300,Hatillo De Loba,Expansion,0.0
+2023,13,Bolívar,13300,Hatillo De Loba,Nuevo,0.0
+2023,13,Bolívar,13458,Montecristo,Abandono,334.32251327
+2023,13,Bolívar,13458,Montecristo,Estable,1244.49667836
+2023,13,Bolívar,13458,Montecristo,Expansion,490.13997899
+2023,13,Bolívar,13458,Montecristo,Nuevo,90.41861183
+2023,13,Bolívar,13473,Morales,Abandono,0.0
+2023,13,Bolívar,13473,Morales,Estable,0.0
+2023,13,Bolívar,13473,Morales,Expansion,0.0
+2023,13,Bolívar,13473,Morales,Nuevo,0.0
+2023,13,Bolívar,13490,Norosí,Abandono,278.09055752
+2023,13,Bolívar,13490,Norosí,Estable,792.78794563
+2023,13,Bolívar,13490,Norosí,Expansion,134.43960843
+2023,13,Bolívar,13490,Norosí,Nuevo,11.3175
+2023,13,Bolívar,13600,Río Viejo,Abandono,182.41799571
+2023,13,Bolívar,13600,Río Viejo,Estable,493.73543632
+2023,13,Bolívar,13600,Río Viejo,Expansion,102.23058353
+2023,13,Bolívar,13600,Río Viejo,Nuevo,26.91
+2023,13,Bolívar,13655,San Jacinto Del Cauca,Abandono,3.3525
+2023,13,Bolívar,13655,San Jacinto Del Cauca,Estable,9.315
+2023,13,Bolívar,13655,San Jacinto Del Cauca,Expansion,2.8575
+2023,13,Bolívar,13655,San Jacinto Del Cauca,Nuevo,8.14428265
+2023,13,Bolívar,13667,San Martín De Loba,Abandono,112.08104839
+2023,13,Bolívar,13667,San Martín De Loba,Estable,534.89060071
+2023,13,Bolívar,13667,San Martín De Loba,Expansion,148.50529279
+2023,13,Bolívar,13667,San Martín De Loba,Nuevo,40.0513806
+2023,13,Bolívar,13670,San Pablo,Abandono,67.79249999
+2023,13,Bolívar,13670,San Pablo,Estable,51.21
+2023,13,Bolívar,13670,San Pablo,Expansion,9.225
+2023,13,Bolívar,13670,San Pablo,Nuevo,6.84190694
+2023,13,Bolívar,13688,Santa Rosa Del Sur,Abandono,419.73704889
+2023,13,Bolívar,13688,Santa Rosa Del Sur,Estable,607.13252748
+2023,13,Bolívar,13688,Santa Rosa Del Sur,Expansion,151.48868722
+2023,13,Bolívar,13688,Santa Rosa Del Sur,Nuevo,37.7522642
+2023,13,Bolívar,13744,Simití,Abandono,99.05108522
+2023,13,Bolívar,13744,Simití,Estable,2010.18891473
+2023,13,Bolívar,13744,Simití,Expansion,135.7058252
+2023,13,Bolívar,13744,Simití,Nuevo,56.58924575
+2023,13,Bolívar,13810,Tiquisio,Abandono,35.83536669
+2023,13,Bolívar,13810,Tiquisio,Estable,124.30019813
+2023,13,Bolívar,13810,Tiquisio,Expansion,62.64603053
+2023,13,Bolívar,13810,Tiquisio,Nuevo,58.19669098
+2023,17,Caldas,17001,Manizales,Abandono,0.0
+2023,17,Caldas,17001,Manizales,Estable,0.0
+2023,17,Caldas,17001,Manizales,Expansion,0.0
+2023,17,Caldas,17001,Manizales,Nuevo,0.0
+2023,17,Caldas,17380,La Dorada,Abandono,0.33958118
+2023,17,Caldas,17380,La Dorada,Estable,3.83489824
+2023,17,Caldas,17380,La Dorada,Expansion,0.67687811
+2023,17,Caldas,17380,La Dorada,Nuevo,0.0
+2023,17,Caldas,17388,La Merced,Abandono,0.0
+2023,17,Caldas,17388,La Merced,Estable,0.0
+2023,17,Caldas,17388,La Merced,Expansion,0.0
+2023,17,Caldas,17388,La Merced,Nuevo,0.0
+2023,17,Caldas,17433,Manzanares,Abandono,0.0
+2023,17,Caldas,17433,Manzanares,Estable,0.0
+2023,17,Caldas,17433,Manzanares,Expansion,0.0
+2023,17,Caldas,17433,Manzanares,Nuevo,0.0
+2023,17,Caldas,17442,Marmato,Abandono,0.0
+2023,17,Caldas,17442,Marmato,Estable,0.0
+2023,17,Caldas,17442,Marmato,Expansion,0.0
+2023,17,Caldas,17442,Marmato,Nuevo,0.0
+2023,17,Caldas,17444,Marquetalia,Abandono,0.0
+2023,17,Caldas,17444,Marquetalia,Estable,0.0
+2023,17,Caldas,17444,Marquetalia,Expansion,0.0
+2023,17,Caldas,17444,Marquetalia,Nuevo,0.0
+2023,17,Caldas,17495,Norcasia,Abandono,10.2825
+2023,17,Caldas,17495,Norcasia,Estable,26.61749999
+2023,17,Caldas,17495,Norcasia,Expansion,8.6175
+2023,17,Caldas,17495,Norcasia,Nuevo,0.0
+2023,17,Caldas,17513,Pácora,Abandono,0.0
+2023,17,Caldas,17513,Pácora,Estable,0.0
+2023,17,Caldas,17513,Pácora,Expansion,0.0
+2023,17,Caldas,17513,Pácora,Nuevo,0.0
+2023,17,Caldas,17541,Pensilvania,Abandono,0.0
+2023,17,Caldas,17541,Pensilvania,Estable,0.0
+2023,17,Caldas,17541,Pensilvania,Expansion,0.0
+2023,17,Caldas,17541,Pensilvania,Nuevo,0.0
+2023,17,Caldas,17614,Riosucio,Abandono,0.0
+2023,17,Caldas,17614,Riosucio,Estable,0.0
+2023,17,Caldas,17614,Riosucio,Expansion,0.0
+2023,17,Caldas,17614,Riosucio,Nuevo,0.0
+2023,17,Caldas,17662,Samaná,Abandono,0.0
+2023,17,Caldas,17662,Samaná,Estable,0.0
+2023,17,Caldas,17662,Samaná,Expansion,0.0
+2023,17,Caldas,17662,Samaná,Nuevo,0.0
+2023,17,Caldas,17777,Supía,Abandono,0.0
+2023,17,Caldas,17777,Supía,Estable,0.0
+2023,17,Caldas,17777,Supía,Expansion,0.0
+2023,17,Caldas,17777,Supía,Nuevo,0.0
+2023,17,Caldas,17867,Victoria,Abandono,2.45041882
+2023,17,Caldas,17867,Victoria,Estable,33.76260176
+2023,17,Caldas,17867,Victoria,Expansion,4.70062189
+2023,17,Caldas,17867,Victoria,Nuevo,17.34055051
+2023,18,Caquetá,18205,Curillo,Abandono,2.20499999
+2023,18,Caquetá,18205,Curillo,Estable,0.5175
+2023,18,Caquetá,18205,Curillo,Expansion,3.1725
+2023,18,Caquetá,18205,Curillo,Nuevo,4.40765046
+2023,18,Caquetá,18610,San José Del Fragua,Abandono,18.51750001
+2023,18,Caquetá,18610,San José Del Fragua,Estable,112.34250001
+2023,18,Caquetá,18610,San José Del Fragua,Expansion,44.51120077
+2023,18,Caquetá,18610,San José Del Fragua,Nuevo,16.38654993
+2023,19,Cauca,19001,Popayán,Abandono,0.0
+2023,19,Cauca,19001,Popayán,Estable,0.0
+2023,19,Cauca,19001,Popayán,Expansion,0.0
+2023,19,Cauca,19001,Popayán,Nuevo,0.0
+2023,19,Cauca,19100,Bolívar,Abandono,4.17134994
+2023,19,Cauca,19100,Bolívar,Estable,35.03329626
+2023,19,Cauca,19100,Bolívar,Expansion,5.51907775
+2023,19,Cauca,19100,Bolívar,Nuevo,0.0
+2023,19,Cauca,19110,Buenos Aires,Abandono,11.86158804
+2023,19,Cauca,19110,Buenos Aires,Estable,27.48202231
+2023,19,Cauca,19110,Buenos Aires,Expansion,3.5775
+2023,19,Cauca,19110,Buenos Aires,Nuevo,0.18
+2023,19,Cauca,19142,Caloto,Abandono,0.0
+2023,19,Cauca,19142,Caloto,Estable,0.0
+2023,19,Cauca,19142,Caloto,Expansion,0.0
+2023,19,Cauca,19142,Caloto,Nuevo,0.0
+2023,19,Cauca,19256,El Tambo,Abandono,10.79218567
+2023,19,Cauca,19256,El Tambo,Estable,25.29541681
+2023,19,Cauca,19256,El Tambo,Expansion,18.94813107
+2023,19,Cauca,19256,El Tambo,Nuevo,0.06834144
+2023,19,Cauca,19300,Guachené,Abandono,0.0
+2023,19,Cauca,19300,Guachené,Estable,0.0
+2023,19,Cauca,19300,Guachené,Expansion,0.0
+2023,19,Cauca,19300,Guachené,Nuevo,0.0
+2023,19,Cauca,19318,Guapi,Abandono,105.03065829
+2023,19,Cauca,19318,Guapi,Estable,369.45371763
+2023,19,Cauca,19318,Guapi,Expansion,130.57824514
+2023,19,Cauca,19318,Guapi,Nuevo,119.7209233
+2023,19,Cauca,19355,Inzá,Abandono,0.0
+2023,19,Cauca,19355,Inzá,Estable,0.0
+2023,19,Cauca,19355,Inzá,Expansion,0.0
+2023,19,Cauca,19355,Inzá,Nuevo,0.0
+2023,19,Cauca,19392,La Sierra,Abandono,1.35781432
+2023,19,Cauca,19392,La Sierra,Estable,17.04650893
+2023,19,Cauca,19392,La Sierra,Expansion,2.74130634
+2023,19,Cauca,19392,La Sierra,Nuevo,0.0
+2023,19,Cauca,19397,La Vega,Abandono,0.0
+2023,19,Cauca,19397,La Vega,Estable,0.0
+2023,19,Cauca,19397,La Vega,Expansion,0.0
+2023,19,Cauca,19397,La Vega,Nuevo,0.0
+2023,19,Cauca,19418,López De Micay,Abandono,80.02867585
+2023,19,Cauca,19418,López De Micay,Estable,580.91189847
+2023,19,Cauca,19418,López De Micay,Expansion,359.39903821
+2023,19,Cauca,19418,López De Micay,Nuevo,245.19881556
+2023,19,Cauca,19450,Mercaderes,Abandono,11.72962996
+2023,19,Cauca,19450,Mercaderes,Estable,62.78072384
+2023,19,Cauca,19450,Mercaderes,Expansion,6.81092224
+2023,19,Cauca,19450,Mercaderes,Nuevo,0.0
+2023,19,Cauca,19473,Morales,Abandono,0.0
+2023,19,Cauca,19473,Morales,Estable,0.0
+2023,19,Cauca,19473,Morales,Expansion,0.0
+2023,19,Cauca,19473,Morales,Nuevo,0.0
+2023,19,Cauca,19532,Patía,Abandono,0.0
+2023,19,Cauca,19532,Patía,Estable,0.0
+2023,19,Cauca,19532,Patía,Expansion,0.0
+2023,19,Cauca,19532,Patía,Nuevo,0.0
+2023,19,Cauca,19533,Piamonte,Abandono,17.3925
+2023,19,Cauca,19533,Piamonte,Estable,45.83249999
+2023,19,Cauca,19533,Piamonte,Expansion,28.35
+2023,19,Cauca,19533,Piamonte,Nuevo,47.34065016
+2023,19,Cauca,19622,Rosas,Abandono,0.0
+2023,19,Cauca,19622,Rosas,Estable,0.0
+2023,19,Cauca,19622,Rosas,Expansion,0.0
+2023,19,Cauca,19622,Rosas,Nuevo,0.0
+2023,19,Cauca,19698,Santander De Quilichao,Abandono,13.98981324
+2023,19,Cauca,19698,Santander De Quilichao,Estable,45.08157642
+2023,19,Cauca,19698,Santander De Quilichao,Expansion,15.5025
+2023,19,Cauca,19698,Santander De Quilichao,Nuevo,0.4725
+2023,19,Cauca,19701,Santa Rosa,Abandono,0.0
+2023,19,Cauca,19701,Santa Rosa,Estable,0.0
+2023,19,Cauca,19701,Santa Rosa,Expansion,0.0
+2023,19,Cauca,19701,Santa Rosa,Nuevo,0.0
+2023,19,Cauca,19780,Suárez,Abandono,0.0
+2023,19,Cauca,19780,Suárez,Estable,0.0
+2023,19,Cauca,19780,Suárez,Expansion,0.0
+2023,19,Cauca,19780,Suárez,Nuevo,0.0
+2023,19,Cauca,19809,Timbiquí,Abandono,201.1351866
+2023,19,Cauca,19809,Timbiquí,Estable,1107.66293755
+2023,19,Cauca,19809,Timbiquí,Expansion,194.79226744
+2023,19,Cauca,19809,Timbiquí,Nuevo,66.02235422
+2023,23,Córdoba,23068,Ayapel,Abandono,254.4250818
+2023,23,Córdoba,23068,Ayapel,Estable,4621.93412492
+2023,23,Córdoba,23068,Ayapel,Expansion,549.6456138
+2023,23,Córdoba,23068,Ayapel,Nuevo,118.0233107
+2023,23,Córdoba,23350,La Apartada,Abandono,3.5325
+2023,23,Córdoba,23350,La Apartada,Estable,26.7975
+2023,23,Córdoba,23350,La Apartada,Expansion,2.115
+2023,23,Córdoba,23350,La Apartada,Nuevo,9.64130787
+2023,23,Córdoba,23466,Montelíbano,Abandono,0.0
+2023,23,Córdoba,23466,Montelíbano,Estable,0.0
+2023,23,Córdoba,23466,Montelíbano,Expansion,0.0
+2023,23,Córdoba,23466,Montelíbano,Nuevo,40.35058079
+2023,23,Córdoba,23580,Puerto Libertador,Abandono,7.91999999
+2023,23,Córdoba,23580,Puerto Libertador,Estable,67.005
+2023,23,Córdoba,23580,Puerto Libertador,Expansion,11.79
+2023,23,Córdoba,23580,Puerto Libertador,Nuevo,71.40885252
+2023,23,Córdoba,23682,San José De Uré,Abandono,13.98503097
+2023,23,Córdoba,23682,San José De Uré,Estable,140.78887072
+2023,23,Córdoba,23682,San José De Uré,Expansion,49.75464366
+2023,23,Córdoba,23682,San José De Uré,Nuevo,34.785
+2023,23,Córdoba,23807,Tierralta,Abandono,0.0
+2023,23,Córdoba,23807,Tierralta,Estable,0.0
+2023,23,Córdoba,23807,Tierralta,Expansion,0.0
+2023,23,Córdoba,23807,Tierralta,Nuevo,0.0
+2023,27,Chocó,27001,Quibdó,Abandono,153.91876227
+2023,27,Chocó,27001,Quibdó,Estable,2013.67776901
+2023,27,Chocó,27001,Quibdó,Expansion,176.0793105
+2023,27,Chocó,27001,Quibdó,Nuevo,79.59043307
+2023,27,Chocó,27006,Acandí,Abandono,4.05
+2023,27,Chocó,27006,Acandí,Estable,24.5925
+2023,27,Chocó,27006,Acandí,Expansion,3.15
+2023,27,Chocó,27006,Acandí,Nuevo,1.98
+2023,27,Chocó,27025,Alto Baudó,Abandono,0.0
+2023,27,Chocó,27025,Alto Baudó,Estable,0.0
+2023,27,Chocó,27025,Alto Baudó,Expansion,0.0
+2023,27,Chocó,27025,Alto Baudó,Nuevo,0.0
+2023,27,Chocó,27050,Atrato,Abandono,71.64089364
+2023,27,Chocó,27050,Atrato,Estable,966.91569486
+2023,27,Chocó,27050,Atrato,Expansion,67.88157685
+2023,27,Chocó,27050,Atrato,Nuevo,33.64175443
+2023,27,Chocó,27073,Bagadó,Abandono,41.37421101
+2023,27,Chocó,27073,Bagadó,Estable,245.08843018
+2023,27,Chocó,27073,Bagadó,Expansion,11.925
+2023,27,Chocó,27073,Bagadó,Nuevo,8.1
+2023,27,Chocó,27077,Bajo Baudó,Abandono,0.0
+2023,27,Chocó,27077,Bajo Baudó,Estable,0.0
+2023,27,Chocó,27077,Bajo Baudó,Expansion,0.0
+2023,27,Chocó,27077,Bajo Baudó,Nuevo,0.0
+2023,27,Chocó,27099,Bojayá,Abandono,0.0
+2023,27,Chocó,27099,Bojayá,Estable,0.0
+2023,27,Chocó,27099,Bojayá,Expansion,0.0
+2023,27,Chocó,27099,Bojayá,Nuevo,0.0
+2023,27,Chocó,27135,El Cantón Del San Pablo,Abandono,117.28385896
+2023,27,Chocó,27135,El Cantón Del San Pablo,Estable,5782.77593923
+2023,27,Chocó,27135,El Cantón Del San Pablo,Expansion,573.38616374
+2023,27,Chocó,27135,El Cantón Del San Pablo,Nuevo,40.72021328
+2023,27,Chocó,27150,Carmen Del Darién,Abandono,0.0
+2023,27,Chocó,27150,Carmen Del Darién,Estable,0.0
+2023,27,Chocó,27150,Carmen Del Darién,Expansion,0.0
+2023,27,Chocó,27150,Carmen Del Darién,Nuevo,0.0
+2023,27,Chocó,27160,Cértegui,Abandono,91.08650704
+2023,27,Chocó,27160,Cértegui,Estable,1734.02991841
+2023,27,Chocó,27160,Cértegui,Expansion,245.86007267
+2023,27,Chocó,27160,Cértegui,Nuevo,16.15593103
+2023,27,Chocó,27205,Condoto,Abandono,237.30104244
+2023,27,Chocó,27205,Condoto,Estable,2196.24778083
+2023,27,Chocó,27205,Condoto,Expansion,296.00539748
+2023,27,Chocó,27205,Condoto,Nuevo,21.30749999
+2023,27,Chocó,27245,El Carmen De Atrato,Abandono,0.0
+2023,27,Chocó,27245,El Carmen De Atrato,Estable,0.0
+2023,27,Chocó,27245,El Carmen De Atrato,Expansion,0.0
+2023,27,Chocó,27245,El Carmen De Atrato,Nuevo,0.0
+2023,27,Chocó,27250,El Litoral Del San Juan,Abandono,0.7425
+2023,27,Chocó,27250,El Litoral Del San Juan,Estable,0.0
+2023,27,Chocó,27250,El Litoral Del San Juan,Expansion,0.0
+2023,27,Chocó,27250,El Litoral Del San Juan,Nuevo,0.0
+2023,27,Chocó,27361,Istmina,Abandono,188.0096981
+2023,27,Chocó,27361,Istmina,Estable,4569.67430063
+2023,27,Chocó,27361,Istmina,Expansion,374.73322019
+2023,27,Chocó,27361,Istmina,Nuevo,37.08680927
+2023,27,Chocó,27413,Lloró,Abandono,48.65808144
+2023,27,Chocó,27413,Lloró,Estable,559.92987469
+2023,27,Chocó,27413,Lloró,Expansion,45.31707115
+2023,27,Chocó,27413,Lloró,Nuevo,11.34
+2023,27,Chocó,27425,Medio Atrato,Abandono,79.06271683
+2023,27,Chocó,27425,Medio Atrato,Estable,2289.60639363
+2023,27,Chocó,27425,Medio Atrato,Expansion,110.99286155
+2023,27,Chocó,27425,Medio Atrato,Nuevo,59.27370824
+2023,27,Chocó,27430,Medio Baudó,Abandono,4.64017429
+2023,27,Chocó,27430,Medio Baudó,Estable,3.75585911
+2023,27,Chocó,27430,Medio Baudó,Expansion,0.0
+2023,27,Chocó,27430,Medio Baudó,Nuevo,0.0
+2023,27,Chocó,27450,Medio San Juan,Abandono,85.77087566
+2023,27,Chocó,27450,Medio San Juan,Estable,1484.69878656
+2023,27,Chocó,27450,Medio San Juan,Expansion,161.72414103
+2023,27,Chocó,27450,Medio San Juan,Nuevo,33.1541508
+2023,27,Chocó,27491,Nóvita,Abandono,304.58108278
+2023,27,Chocó,27491,Nóvita,Estable,5040.1867435
+2023,27,Chocó,27491,Nóvita,Expansion,748.87750912
+2023,27,Chocó,27491,Nóvita,Nuevo,119.49104841
+2023,27,Chocó,27495,Nuquí,Abandono,0.0
+2023,27,Chocó,27495,Nuquí,Estable,0.0
+2023,27,Chocó,27495,Nuquí,Expansion,0.0
+2023,27,Chocó,27495,Nuquí,Nuevo,0.0
+2023,27,Chocó,27580,Río Iró,Abandono,47.55343119
+2023,27,Chocó,27580,Río Iró,Estable,413.80274754
+2023,27,Chocó,27580,Río Iró,Expansion,22.86661605
+2023,27,Chocó,27580,Río Iró,Nuevo,11.52
+2023,27,Chocó,27600,Río Quito,Abandono,126.12718322
+2023,27,Chocó,27600,Río Quito,Estable,4234.40883962
+2023,27,Chocó,27600,Río Quito,Expansion,486.19061527
+2023,27,Chocó,27600,Río Quito,Nuevo,85.89104982
+2023,27,Chocó,27615,Riosucio,Abandono,42.99229881
+2023,27,Chocó,27615,Riosucio,Estable,180.39918481
+2023,27,Chocó,27615,Riosucio,Expansion,40.8096301
+2023,27,Chocó,27615,Riosucio,Nuevo,8.325
+2023,27,Chocó,27660,San José Del Palmar,Abandono,4.18607113
+2023,27,Chocó,27660,San José Del Palmar,Estable,21.05892887
+2023,27,Chocó,27660,San José Del Palmar,Expansion,4.0725
+2023,27,Chocó,27660,San José Del Palmar,Nuevo,0.0
+2023,27,Chocó,27745,Sipí,Abandono,68.21037608
+2023,27,Chocó,27745,Sipí,Estable,597.0593765
+2023,27,Chocó,27745,Sipí,Expansion,31.1625
+2023,27,Chocó,27745,Sipí,Nuevo,14.53499999
+2023,27,Chocó,27787,Tadó,Abandono,111.6650848
+2023,27,Chocó,27787,Tadó,Estable,664.10593903
+2023,27,Chocó,27787,Tadó,Expansion,20.01459336
+2023,27,Chocó,27787,Tadó,Nuevo,20.4975562
+2023,27,Chocó,27800,Unguía,Abandono,22.32
+2023,27,Chocó,27800,Unguía,Estable,22.7925
+2023,27,Chocó,27800,Unguía,Expansion,15.6566229
+2023,27,Chocó,27800,Unguía,Nuevo,21.33
+2023,27,Chocó,27810,Unión Panamericana,Abandono,212.01463925
+2023,27,Chocó,27810,Unión Panamericana,Estable,2732.62698456
+2023,27,Chocó,27810,Unión Panamericana,Expansion,250.51066417
+2023,27,Chocó,27810,Unión Panamericana,Nuevo,20.2499438
+2023,41,Huila,41357,Íquira,Abandono,0.0
+2023,41,Huila,41357,Íquira,Estable,0.0
+2023,41,Huila,41357,Íquira,Expansion,0.0
+2023,41,Huila,41357,Íquira,Nuevo,0.0
+2023,41,Huila,41518,Paicol,Abandono,0.0
+2023,41,Huila,41518,Paicol,Estable,0.0
+2023,41,Huila,41518,Paicol,Expansion,0.0
+2023,41,Huila,41518,Paicol,Nuevo,0.0
+2023,41,Huila,41797,Tesalia,Abandono,0.0
+2023,41,Huila,41797,Tesalia,Estable,0.0
+2023,41,Huila,41797,Tesalia,Expansion,0.0
+2023,41,Huila,41797,Tesalia,Nuevo,0.0
+2023,44,La Guajira,44090,Dibulla,Abandono,2.385
+2023,44,La Guajira,44090,Dibulla,Estable,3.78
+2023,44,La Guajira,44090,Dibulla,Expansion,0.8325
+2023,44,La Guajira,44090,Dibulla,Nuevo,0.0
+2023,47,Magdalena,47245,El Banco,Abandono,0.0
+2023,47,Magdalena,47245,El Banco,Estable,0.0
+2023,47,Magdalena,47245,El Banco,Expansion,0.0
+2023,47,Magdalena,47245,El Banco,Nuevo,0.0
+2023,52,Nariño,52079,Barbacoas,Abandono,438.75217851
+2023,52,Nariño,52079,Barbacoas,Estable,1389.36258245
+2023,52,Nariño,52079,Barbacoas,Expansion,333.67613944
+2023,52,Nariño,52079,Barbacoas,Nuevo,95.27267142
+2023,52,Nariño,52233,Cumbitara,Abandono,0.0
+2023,52,Nariño,52233,Cumbitara,Estable,0.0
+2023,52,Nariño,52233,Cumbitara,Expansion,0.0
+2023,52,Nariño,52233,Cumbitara,Nuevo,0.0
+2023,52,Nariño,52250,El Charco,Abandono,26.47494187
+2023,52,Nariño,52250,El Charco,Estable,248.21531424
+2023,52,Nariño,52250,El Charco,Expansion,76.51039038
+2023,52,Nariño,52250,El Charco,Nuevo,40.95511664
+2023,52,Nariño,52385,La Llanada,Abandono,0.83118591
+2023,52,Nariño,52385,La Llanada,Estable,2.25
+2023,52,Nariño,52385,La Llanada,Expansion,0.6525
+2023,52,Nariño,52385,La Llanada,Nuevo,19.08610714
+2023,52,Nariño,52418,Los Andes,Abandono,19.58027754
+2023,52,Nariño,52418,Los Andes,Estable,97.64582893
+2023,52,Nariño,52418,Los Andes,Expansion,19.38740647
+2023,52,Nariño,52418,Los Andes,Nuevo,22.9725
+2023,52,Nariño,52427,Magüí,Abandono,207.31648024
+2023,52,Nariño,52427,Magüí,Estable,1241.56012006
+2023,52,Nariño,52427,Magüí,Expansion,334.31005669
+2023,52,Nariño,52427,Magüí,Nuevo,160.36515967
+2023,52,Nariño,52621,Roberto Payán,Abandono,55.29049294
+2023,52,Nariño,52621,Roberto Payán,Estable,118.52708332
+2023,52,Nariño,52621,Roberto Payán,Expansion,78.25777384
+2023,52,Nariño,52621,Roberto Payán,Nuevo,6.39
+2023,52,Nariño,52678,Samaniego,Abandono,0.0
+2023,52,Nariño,52678,Samaniego,Estable,0.0
+2023,52,Nariño,52678,Samaniego,Expansion,0.0
+2023,52,Nariño,52678,Samaniego,Nuevo,0.0
+2023,52,Nariño,52696,Santa Bárbara,Abandono,42.76767388
+2023,52,Nariño,52696,Santa Bárbara,Estable,279.83236605
+2023,52,Nariño,52696,Santa Bárbara,Expansion,114.25197363
+2023,52,Nariño,52696,Santa Bárbara,Nuevo,76.75282251
+2023,52,Nariño,52835,San Andrés De Tumaco,Abandono,20.08267319
+2023,52,Nariño,52835,San Andrés De Tumaco,Estable,47.33830093
+2023,52,Nariño,52835,San Andrés De Tumaco,Expansion,39.68627196
+2023,52,Nariño,52835,San Andrés De Tumaco,Nuevo,10.21014803
+2023,66,Risaralda,66456,Mistrató,Abandono,0.0
+2023,66,Risaralda,66456,Mistrató,Estable,0.0
+2023,66,Risaralda,66456,Mistrató,Expansion,0.0
+2023,66,Risaralda,66456,Mistrató,Nuevo,0.0
+2023,66,Risaralda,66572,Pueblo Rico,Abandono,0.0
+2023,66,Risaralda,66572,Pueblo Rico,Estable,0.0
+2023,66,Risaralda,66572,Pueblo Rico,Expansion,0.0
+2023,66,Risaralda,66572,Pueblo Rico,Nuevo,0.0
+2023,68,Santander,68132,California,Abandono,0.0
+2023,68,Santander,68132,California,Estable,0.0
+2023,68,Santander,68132,California,Expansion,0.0
+2023,68,Santander,68132,California,Nuevo,0.0
+2023,68,Santander,68780,Suratá,Abandono,0.0
+2023,68,Santander,68780,Suratá,Estable,0.0
+2023,68,Santander,68780,Suratá,Expansion,0.0
+2023,68,Santander,68780,Suratá,Nuevo,0.0
+2023,68,Santander,68867,Vetas,Abandono,0.0
+2023,68,Santander,68867,Vetas,Estable,0.0
+2023,68,Santander,68867,Vetas,Expansion,0.0
+2023,68,Santander,68867,Vetas,Nuevo,0.0
+2023,73,Tolima,73067,Ataco,Abandono,0.99
+2023,73,Tolima,73067,Ataco,Estable,10.7775
+2023,73,Tolima,73067,Ataco,Expansion,5.1075
+2023,73,Tolima,73067,Ataco,Nuevo,1.22624228
+2023,73,Tolima,73168,Chaparral,Abandono,0.9225
+2023,73,Tolima,73168,Chaparral,Estable,2.1825
+2023,73,Tolima,73168,Chaparral,Expansion,1.6425
+2023,73,Tolima,73168,Chaparral,Nuevo,4.62375772
+2023,73,Tolima,73217,Coyaima,Abandono,8.0325
+2023,73,Tolima,73217,Coyaima,Estable,18.5175
+2023,73,Tolima,73217,Coyaima,Expansion,12.64543467
+2023,73,Tolima,73217,Coyaima,Nuevo,0.0
+2023,76,Valle Del Cauca,76109,Buenaventura,Abandono,133.90567069
+2023,76,Valle Del Cauca,76109,Buenaventura,Estable,498.1193294
+2023,76,Valle Del Cauca,76109,Buenaventura,Expansion,64.74280802
+2023,76,Valle Del Cauca,76109,Buenaventura,Nuevo,22.7244133
+2023,76,Valle Del Cauca,76111,Guadalajara De Buga,Abandono,0.0
+2023,76,Valle Del Cauca,76111,Guadalajara De Buga,Estable,0.0
+2023,76,Valle Del Cauca,76111,Guadalajara De Buga,Expansion,0.0
+2023,76,Valle Del Cauca,76111,Guadalajara De Buga,Nuevo,0.0
+2023,76,Valle Del Cauca,76122,Caicedonia,Abandono,0.0
+2023,76,Valle Del Cauca,76122,Caicedonia,Estable,0.0
+2023,76,Valle Del Cauca,76122,Caicedonia,Expansion,0.0
+2023,76,Valle Del Cauca,76122,Caicedonia,Nuevo,0.0
+2023,76,Valle Del Cauca,76126,Calima,Abandono,6.4125
+2023,76,Valle Del Cauca,76126,Calima,Estable,4.815
+2023,76,Valle Del Cauca,76126,Calima,Expansion,0.18
+2023,76,Valle Del Cauca,76126,Calima,Nuevo,0.89608316
+2023,76,Valle Del Cauca,76233,Dagua,Abandono,0.0
+2023,76,Valle Del Cauca,76233,Dagua,Estable,0.0
+2023,76,Valle Del Cauca,76233,Dagua,Expansion,0.0
+2023,76,Valle Del Cauca,76233,Dagua,Nuevo,0.0
+2023,76,Valle Del Cauca,76670,San Pedro,Abandono,0.0
+2023,76,Valle Del Cauca,76670,San Pedro,Estable,0.0
+2023,76,Valle Del Cauca,76670,San Pedro,Expansion,0.0
+2023,76,Valle Del Cauca,76670,San Pedro,Nuevo,0.0
+2023,76,Valle Del Cauca,76736,Sevilla,Abandono,0.0
+2023,76,Valle Del Cauca,76736,Sevilla,Estable,0.0
+2023,76,Valle Del Cauca,76736,Sevilla,Expansion,0.0
+2023,76,Valle Del Cauca,76736,Sevilla,Nuevo,0.0
+2023,86,Putumayo,86001,Mocoa,Abandono,7.57223033
+2023,86,Putumayo,86001,Mocoa,Estable,68.03314378
+2023,86,Putumayo,86001,Mocoa,Expansion,16.71362834
+2023,86,Putumayo,86001,Mocoa,Nuevo,0.0
+2023,86,Putumayo,86219,Colón,Abandono,0.0
+2023,86,Putumayo,86219,Colón,Estable,0.0
+2023,86,Putumayo,86219,Colón,Expansion,0.0
+2023,86,Putumayo,86219,Colón,Nuevo,0.0
+2023,86,Putumayo,86320,Orito,Abandono,14.56937766
+2023,86,Putumayo,86320,Orito,Estable,12.65562235
+2023,86,Putumayo,86320,Orito,Expansion,4.5675
+2023,86,Putumayo,86320,Orito,Nuevo,2.89044683
+2023,86,Putumayo,86568,Puerto Asís,Abandono,1.98
+2023,86,Putumayo,86568,Puerto Asís,Estable,11.40135922
+2023,86,Putumayo,86568,Puerto Asís,Expansion,3.3525
+2023,86,Putumayo,86568,Puerto Asís,Nuevo,11.025
+2023,86,Putumayo,86569,Puerto Caicedo,Abandono,27.71519962
+2023,86,Putumayo,86569,Puerto Caicedo,Estable,58.55594116
+2023,86,Putumayo,86569,Puerto Caicedo,Expansion,25.27319866
+2023,86,Putumayo,86569,Puerto Caicedo,Nuevo,6.31644348
+2023,86,Putumayo,86571,Puerto Guzmán,Abandono,59.46111824
+2023,86,Putumayo,86571,Puerto Guzmán,Estable,263.04850768
+2023,86,Putumayo,86571,Puerto Guzmán,Expansion,101.5617215
+2023,86,Putumayo,86571,Puerto Guzmán,Nuevo,41.65459536
+2023,86,Putumayo,86749,Sibundoy,Abandono,0.0
+2023,86,Putumayo,86749,Sibundoy,Estable,0.0
+2023,86,Putumayo,86749,Sibundoy,Expansion,0.0
+2023,86,Putumayo,86749,Sibundoy,Nuevo,0.0
+2023,86,Putumayo,86885,Villagarzón,Abandono,7.33499999
+2023,86,Putumayo,86885,Villagarzón,Estable,49.65749999
+2023,86,Putumayo,86885,Villagarzón,Expansion,12.66973274
+2023,86,Putumayo,86885,Villagarzón,Nuevo,7.2
+2023,91,Amazonas,91798,Tarapacá,Abandono,0.0
+2023,91,Amazonas,91798,Tarapacá,Estable,0.0
+2023,91,Amazonas,91798,Tarapacá,Expansion,0.0
+2023,91,Amazonas,91798,Tarapacá,Nuevo,7.16465845
+2023,94,Guainía,94001,Inírida,Abandono,9.2925
+2023,94,Guainía,94001,Inírida,Estable,7.2
+2023,94,Guainía,94001,Inírida,Expansion,12.7125
+2023,94,Guainía,94001,Inírida,Nuevo,0.0
+2023,94,Guainía,94884,Puerto Colombia,Abandono,25.78570058
+2023,94,Guainía,94884,Puerto Colombia,Estable,31.29679944
+2023,94,Guainía,94884,Puerto Colombia,Expansion,35.95707504
+2023,94,Guainía,94884,Puerto Colombia,Nuevo,7.40528775
+2023,94,Guainía,94887,Pana Pana,Abandono,33.48000002
+2023,94,Guainía,94887,Pana Pana,Estable,54.92249998
+2023,94,Guainía,94887,Pana Pana,Expansion,38.0025
+2023,94,Guainía,94887,Pana Pana,Nuevo,10.34244069
+2023,97,Vaupés,97666,Taraira,Abandono,0.0
+2023,97,Vaupés,97666,Taraira,Estable,0.0
+2023,97,Vaupés,97666,Taraira,Expansion,0.0
+2023,97,Vaupés,97666,Taraira,Nuevo,0.0
