@@ -1,0 +1,18 @@
+tabla,archivo,llave,grano_del_archivo,regla_de_union,filas_archivo,max_filas_por_llave,ventana_usada,filas_en_ventana,municipios_en_ventana,municipios_del_universo,cobertura_universo,se_une_al_panel
+ANM_REGALIAS_TRIM,02_produccion_regalias/anm_regalias_oro_trimestral.csv,codigo_dane + a_o_liquidado + trimestre,registro de liquidación (varios por municipio × trimestre),suma de registros,13776,4,2023–2025 (corte ago-2026),2926,167.0,167.0,85 %,"anual, trimestral"
+ANM_ORO_MENSUAL,02_produccion_regalias/anm_oro_municipio_mensual_2012_2026.csv,cod_dane + anio + mes,municipio × mes,directa,13848,1,2023–2025 (descarga 8-oct-2026),2934,167.0,167.0,85 %,mensual
+SIMCI_EXPLOTADOR,09_produccion_explotador/produccion_oro_municipal_explotador_simci_2017_2025.csv,codigo_municipio + anio + trimestre + explotador,municipio × año × explotador (consolidado anual),suma de registros,3615,3,"2023–2025, consolidado anual",619,161.0,160.0,81 %,anual
+EVOA_MUNICIPIO,03_evoa/arcgis_simci/01_evoa_municipio_ha_2014_2023.csv,codigo_municipio + anio,municipio × año,directa,1388,1,2023 (y promedio 2021–2023),178,178.0,129.0,65 %,anual (fija)
+EVOA_FIGURA_LEY,03_evoa/arcgis_simci/05_evoa_municipio_clases_figura_ley_2021_2023.csv,codigo_municipio + anio,municipio × año,directa,303,1,2023,101,101.0,101.0,51 %,anual (fija)
+RUCOM_BAREQUEROS,04_rucom/rucom_barequeros_metales_preciosos_municipio.csv,codigo_dane,municipio (padrón vigente),directa,174,1,foto 2-sep-2026,174,174.0,120.0,61 %,"anual, mensual (fija)"
+RUCOM_FIGURAS_ORO,12_titulos_rucom/rucom_figuras_oro_municipio.csv,codigo_dane,municipio (corte ene-2025),directa,159,1,foto ene-2025,159,159.0,122.0,62 %,anual (fija)
+OPERATIVOS_MINAS,08_operativos/minas_intervenidas_municipal_mensual.csv,cod_muni + anio + mes,municipio × mes,directa,9223,1,2023–2025,3360,535.0,140.0,71 %,"anual, trimestral, mensual"
+OPERATIVOS_CAPTURAS,08_operativos/capturas_mineria_ilegal_municipal_mensual.csv,cod_muni + anio + mes,municipio × mes,directa,5207,1,2023–2025,858,311.0,96.0,49 %,"anual, trimestral, mensual"
+OPERATIVOS_MAQUINARIA,08_operativos/incautaciones_maquinaria_municipal_mensual.csv,cod_muni + anio + mes + clase_de_bien + unidad_de_medida,municipio × mes × clase de bien,suma de clases de bien,6089,1,2023–2025,1763,372.0,132.0,67 %,"anual, trimestral, mensual"
+DANE_POBLACION,11_poblacion/dane_poblacion_municipal_2023_2025.csv,cod_muni + anio,municipio × año,directa,3369,1,2023–2025,3369,1123.0,197.0,100 %,anual
+MGN_AREA,13_territorio/mgn_area_municipal_km2.csv,cod_muni,municipio,directa,1121,1,MGN 2024,1121,1121.0,196.0,99 %,anual (fija)
+ART_PDET,13_territorio/municipios_pdet.csv,cod_muni,municipio,directa,170,1,fija,170,170.0,66.0,34 %,anual (fija)
+PRECIO_ORO_MENSUAL,01_precio/precio_oro_mensual_usd_onza.csv,mes,nacional × mes,promedio de meses,197,1,2023–2025,36,,,nacional,"anual, trimestral, mensual"
+TRM_MENSUAL,01_precio/trm_mensual_promedio.csv,anio_mes,nacional × mes,promedio de meses,417,1,2023–2025,36,,,nacional,"anual, trimestral, mensual"
+UPME_PRECIO_BASE,01_precio/upme_precio_base_regalias_opp_mensual_2025.csv,mes,nacional × mes,directa,10,1,mar–dic 2025,10,,,nacional,solo control (sección 6)
+COMTRADE_7108_ANUAL,10_exportaciones/comtrade_expo_oro_7108_anual_2010_2025.csv,anio,nacional × año,directa,16,1,2023–2025,3,,,nacional,serie nacional

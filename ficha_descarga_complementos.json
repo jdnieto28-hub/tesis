@@ -1,0 +1,133 @@
+{
+ "extorsion": {
+  "dataset": "q2ib-t9am",
+  "total_fuente_sum_cantidad": 131206,
+  "total_descargado": 131206,
+  "coincide": true,
+  "cobertura_fuente": "2003-2026 (último mes 8)",
+  "ventana_filas_mensual": 9578,
+  "ventana_municipios": 974,
+  "ventana_meses_por_anio": {
+   "2023": 12,
+   "2024": 12,
+   "2025": 12
+  },
+  "nacional_por_anio": {
+   "2023": 11078,
+   "2024": 13802,
+   "2025": 13417
+  }
+ },
+ "homicidio": {
+  "dataset": "m8fd-ahd9",
+  "total_fuente_sum_cantidad": 344919,
+  "total_descargado": 344919,
+  "coincide": true,
+  "cobertura_fuente": "2003-2026 (último mes 8)",
+  "ventana_filas_mensual": 11720,
+  "ventana_municipios": 974,
+  "ventana_meses_por_anio": {
+   "2023": 12,
+   "2024": 12,
+   "2025": 12
+  },
+  "nacional_por_anio": {
+   "2023": 13555,
+   "2024": 13497,
+   "2025": 14038
+  }
+ },
+ "poblacion": {
+  "fuente": "https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Municipal/PPED-AreaMun-2018-2042_VP.xlsx",
+  "hoja": "PobMunicipalxÁrea",
+  "municipios": 1123,
+  "anios": [
+   2023,
+   2024,
+   2025
+  ],
+  "cabecera_mas_rural_igual_total": true,
+  "poblacion_nacional": {
+   "2023": 52117067,
+   "2024": 52613753,
+   "2025": 53057212
+  }
+ },
+ "rucom_figuras": {
+  "titulos": {
+   "dataset": "42ha-fhvj",
+   "filas": 12914,
+   "expedientes": 2807,
+   "filas_oro": 1509,
+   "expedientes_oro": 268,
+   "municipios_oro": 124,
+   "minerales_oro": [
+    "MINERALES DE ORO Y PLATINO, Y SUS CONCENTRADOS",
+    "MINERALES DE ORO Y SUS CONCENTRADOS",
+    "ORO",
+    "ORO ALUVION",
+    "ORO FILON",
+    "ORO VETA"
+   ]
+  },
+  "solicitudes": {
+   "dataset": "7amp-4swy",
+   "filas": 3449,
+   "expedientes": 292,
+   "expedientes_oro": 112,
+   "municipios_oro": 70
+  },
+  "subcontratos": {
+   "dataset": "xzu3-gnau",
+   "filas": 502,
+   "expedientes": 266,
+   "expedientes_oro": 174,
+   "municipios_oro": 45
+  },
+  "anotaciones": {
+   "dataset": "si2v-pbq5",
+   "filas_fuente": 37763,
+   "expedientes_fuente": 6769,
+   "rango_fuente": [
+    "1990-01-31",
+    "2025-11-21"
+   ],
+   "filas_ventana": 12988,
+   "expedientes_ventana": 6762,
+   "por_anio_ventana": {
+    "2023": 7598,
+    "2024": 1410,
+    "2025": 3980
+   },
+   "titulos_oro_rucom_con_anotacion_2023_2025": 267
+  },
+  "municipios_con_alguna_figura_oro": 159
+ },
+ "pdet": {
+  "dataset": "idrk-ba8y",
+  "municipios": 170,
+  "subregiones": 16
+ },
+ "precios_base_upme": {
+  "meses_publicados": [
+   "2025-03",
+   "2026-09"
+  ],
+  "meses_en_ventana": 10,
+  "nota": "la serie 2023–feb-2025 solo está en BanRep (descarga interactiva)"
+ },
+ "complementos": {
+  "filas_anual": 3369,
+  "municipios": 1123,
+  "filas_trimestral": 8183,
+  "sin_area": 6
+ },
+ "mgn": {
+  "fuente": "https://geoportal.dane.gov.co/descargas/mgn_2024/MGN2024_MPIO_POLITICO.zip",
+  "municipios": 1121,
+  "area_total_km2": 1140974,
+  "shapefile": "MGN_ADM_MPIO_GRAFICO.shp",
+  "simplificado_m": 150
+ },
+ "fecha_descarga": "2026-10-06"
+}

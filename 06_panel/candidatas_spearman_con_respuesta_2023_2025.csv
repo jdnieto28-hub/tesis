@@ -1,0 +1,17 @@
+variable,escala,spearman_con_log_gramos,spearman_solo_positivos,n
+n_barequeros,log1p,0.444,0.487,591
+inscritos_por_10k,log1p,0.44,0.469,590
+n_titulos_oro,log1p,0.467,0.35,591
+n_solicitudes_oro,log1p,0.456,0.375,591
+n_subcontratos_oro,log1p,0.421,0.364,591
+figuras_oro_rucom,log1p,0.604,0.503,591
+evoa_ha_2023,log1p,0.3,0.54,591
+evoa_ha_por_100km2,log1p,0.329,0.553,588
+share_ilicita_2023,lineal,-0.503,-0.241,303
+minas,log1p,0.141,0.14,591
+capturas,log1p,0.054,0.088,591
+maquinaria,log1p,0.113,0.256,591
+poblacion_total,log1p,-0.018,-0.066,591
+pct_rural,lineal,0.046,0.032,590
+area_km2,log1p,0.013,0.213,588
+pdet,lineal,0.043,0.271,591

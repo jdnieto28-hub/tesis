@@ -1,0 +1,13 @@
+,con población y % rural,sin población ni % rural
+parámetros,16.0,14.0
+R2,0.4614,0.4598
+R2 ajustado,0.4473,0.4475
+RMSE,3.9263,3.9322
+R2 fuera de muestra (bloques),0.3744,0.3894
+RMSE fuera de muestra (bloques),4.2315,4.1806
+R2 2025 (2023–24 → 2025),0.4618,0.4609
+RMSE 2025,4.0564,4.0597
+R2 parte 1 (lineal de probabilidad),0.2899,0.2875
+AUC parte 1,0.8487,0.847
+R2 parte 2 (positivos),0.4685,0.4618
+VIF máximo,2.5663,2.4444
